@@ -1,0 +1,3770 @@
+{
+  "metadata": {
+    "project": "Ichikawa English Lab",
+    "source": "Ichikawa_English_Lab_Master_Data.docx",
+    "source_essay_count": 46,
+    "generated": "2026-07-01",
+    "note": "Initial learning dataset generated from the IceBreak master archive. Meanings and examples are designed for Japanese adult English learners."
+  },
+  "quiz_items": [
+    {
+      "id": "Q-0001",
+      "type": "idiom_meaning_mc",
+      "prompt": "'come to mind' の意味として最も近いものは？",
+      "answer": "最初に思い浮かぶ",
+      "choices": [
+        "そのうえ、さらに",
+        "気分を変えて、たまには",
+        "達成感",
+        "最初に思い浮かぶ"
+      ],
+      "source_item_id": "IDIOM-001"
+    },
+    {
+      "id": "Q-0002",
+      "type": "idiom_fill_blank",
+      "prompt": "When I think of Sri Lankan food, curry is the first thing that comes to mind.",
+      "answer": "come to mind",
+      "hint_ja": "最初に思い浮かぶ",
+      "source_item_id": "IDIOM-001"
+    },
+    {
+      "id": "Q-0003",
+      "type": "idiom_meaning_mc",
+      "prompt": "'break the ice' の意味として最も近いものは？",
+      "answer": "場を和ませる、会話のきっかけを作る",
+      "choices": [
+        "場を和ませる、会話のきっかけを作る",
+        "障壁を取り除く",
+        "溶けるように消える",
+        "自分の手で"
+      ],
+      "source_item_id": "IDIOM-002"
+    },
+    {
+      "id": "Q-0004",
+      "type": "idiom_fill_blank",
+      "prompt": "Asking about local food is a lovely way to ____.",
+      "answer": "break the ice",
+      "hint_ja": "場を和ませる、会話のきっかけを作る",
+      "source_item_id": "IDIOM-002"
+    },
+    {
+      "id": "Q-0005",
+      "type": "idiom_meaning_mc",
+      "prompt": "'for a change' の意味として最も近いものは？",
+      "answer": "気分を変えて、たまには",
+      "choices": [
+        "時間をかけて〜する",
+        "人々を一つにする、集める",
+        "気分を変えて、たまには",
+        "落ち着く"
+      ],
+      "source_item_id": "IDIOM-003"
+    },
+    {
+      "id": "Q-0006",
+      "type": "idiom_fill_blank",
+      "prompt": "Today, I’d like to talk about Sri Lankan food — but not curry, ____.",
+      "answer": "for a change",
+      "hint_ja": "気分を変えて、たまには",
+      "source_item_id": "IDIOM-003"
+    },
+    {
+      "id": "Q-0007",
+      "type": "idiom_meaning_mc",
+      "prompt": "'fair enough' の意味として最も近いものは？",
+      "answer": "なるほど、もっともだ",
+      "choices": [
+        "なるほど、もっともだ",
+        "どれほど〜でも",
+        "〜を重視する",
+        "〜を楽しみにする"
+      ],
+      "source_item_id": "IDIOM-004"
+    },
+    {
+      "id": "Q-0008",
+      "type": "idiom_fill_blank",
+      "prompt": "Fair enough — curry is probably the best-known dish.",
+      "answer": "fair enough",
+      "hint_ja": "なるほど、もっともだ",
+      "source_item_id": "IDIOM-004"
+    },
+    {
+      "id": "Q-0009",
+      "type": "idiom_meaning_mc",
+      "prompt": "'on top of that' の意味として最も近いものは？",
+      "answer": "そのうえ、さらに",
+      "choices": [
+        "自分の手で",
+        "溶けるように消える",
+        "単なる〜をはるかに超える",
+        "そのうえ、さらに"
+      ],
+      "source_item_id": "IDIOM-005"
+    },
+    {
+      "id": "Q-0010",
+      "type": "idiom_fill_blank",
+      "prompt": "On top of that, Sri Lanka is close to India and important sea routes.",
+      "answer": "on top of that",
+      "hint_ja": "そのうえ、さらに",
+      "source_item_id": "IDIOM-005"
+    },
+    {
+      "id": "Q-0011",
+      "type": "idiom_meaning_mc",
+      "prompt": "'in a way' の意味として最も近いものは？",
+      "answer": "ある意味では",
+      "choices": [
+        "手放すこと",
+        "それ以上に",
+        "偶然見つける、出会う",
+        "ある意味では"
+      ],
+      "source_item_id": "IDIOM-006"
+    },
+    {
+      "id": "Q-0012",
+      "type": "idiom_fill_blank",
+      "prompt": "In a way, Sri Lankan cuisine is a real melting pot.",
+      "answer": "in a way",
+      "hint_ja": "ある意味では",
+      "source_item_id": "IDIOM-006"
+    },
+    {
+      "id": "Q-0013",
+      "type": "idiom_meaning_mc",
+      "prompt": "'the same is true of' の意味として最も近いものは？",
+      "answer": "〜についても同じことが言える",
+      "choices": [
+        "〜の間に、〜を通じて",
+        "達成感",
+        "〜についても同じことが言える",
+        "全神経を集中した注意"
+      ],
+      "source_item_id": "IDIOM-007"
+    },
+    {
+      "id": "Q-0014",
+      "type": "idiom_fill_blank",
+      "prompt": "The same is true of religion and food traditions.",
+      "answer": "the same is true of",
+      "hint_ja": "〜についても同じことが言える",
+      "source_item_id": "IDIOM-007"
+    },
+    {
+      "id": "Q-0015",
+      "type": "idiom_meaning_mc",
+      "prompt": "'not just ... but' の意味として最も近いものは？",
+      "answer": "単に〜ではなく…でもある",
+      "choices": [
+        "単に〜ではなく…でもある",
+        "〜に変わる、道を譲る",
+        "雰囲気・方向性を決める",
+        "〜越しに見る、よく調べる"
+      ],
+      "source_item_id": "IDIOM-008"
+    },
+    {
+      "id": "Q-0016",
+      "type": "idiom_fill_blank",
+      "prompt": "Food is never just food, but a living archive of history.",
+      "answer": "not just ... but",
+      "hint_ja": "単に〜ではなく…でもある",
+      "source_item_id": "IDIOM-008"
+    },
+    {
+      "id": "Q-0017",
+      "type": "idiom_meaning_mc",
+      "prompt": "'open the door to' の意味として最も近いものは？",
+      "answer": "〜への扉を開く",
+      "choices": [
+        "〜への扉を開く",
+        "ある意味では",
+        "場を和ませる、会話のきっかけを作る",
+        "最初に思い浮かぶ"
+      ],
+      "source_item_id": "IDIOM-009"
+    },
+    {
+      "id": "Q-0018",
+      "type": "idiom_fill_blank",
+      "prompt": "A simple question can ____ culture and personal memories.",
+      "answer": "open the door to",
+      "hint_ja": "〜への扉を開く",
+      "source_item_id": "IDIOM-009"
+    },
+    {
+      "id": "Q-0019",
+      "type": "idiom_meaning_mc",
+      "prompt": "'located just' の意味として最も近いものは？",
+      "answer": "ちょうど〜に位置する",
+      "choices": [
+        "〜に支配された世界で",
+        "ちょうど〜に位置する",
+        "単に〜ではなく…でもある",
+        "偶然見つける、出会う"
+      ],
+      "source_item_id": "IDIOM-010"
+    },
+    {
+      "id": "Q-0020",
+      "type": "idiom_fill_blank",
+      "prompt": "Asaka is ____ north of Tokyo.",
+      "answer": "located just",
+      "hint_ja": "ちょうど〜に位置する",
+      "source_item_id": "IDIOM-010"
+    },
+    {
+      "id": "Q-0021",
+      "type": "idiom_meaning_mc",
+      "prompt": "'one of the best things about' の意味として最も近いものは？",
+      "answer": "〜の最も良い点の一つ",
+      "choices": [
+        "導入する、参加させる",
+        "すり切れた、疲れ切った",
+        "〜の最も良い点の一つ",
+        "ばらばらになる、崩れる"
+      ],
+      "source_item_id": "IDIOM-011"
+    },
+    {
+      "id": "Q-0022",
+      "type": "idiom_fill_blank",
+      "prompt": "One of the best things about Asaka is the balance between nature and city life.",
+      "answer": "one of the best things about",
+      "hint_ja": "〜の最も良い点の一つ",
+      "source_item_id": "IDIOM-011"
+    },
+    {
+      "id": "Q-0023",
+      "type": "idiom_meaning_mc",
+      "prompt": "'in full bloom' の意味として最も近いものは？",
+      "answer": "満開で",
+      "choices": [
+        "満開で",
+        "活動的に保つ",
+        "多くの、大量の",
+        "雰囲気・方向性を決める"
+      ],
+      "source_item_id": "IDIOM-012"
+    },
+    {
+      "id": "Q-0024",
+      "type": "idiom_fill_blank",
+      "prompt": "The cherry blossoms are ____ in spring.",
+      "answer": "in full bloom",
+      "hint_ja": "満開で",
+      "source_item_id": "IDIOM-012"
+    },
+    {
+      "id": "Q-0025",
+      "type": "idiom_meaning_mc",
+      "prompt": "'bring together' の意味として最も近いものは？",
+      "answer": "人々を一つにする、集める",
+      "choices": [
+        "〜に変わる、道を譲る",
+        "人々を一つにする、集める",
+        "ちょうど〜に位置する",
+        "見上げる"
+      ],
+      "source_item_id": "IDIOM-013"
+    },
+    {
+      "id": "Q-0026",
+      "type": "idiom_fill_blank",
+      "prompt": "The summer festival brings the whole community together.",
+      "answer": "bring together",
+      "hint_ja": "人々を一つにする、集める",
+      "source_item_id": "IDIOM-013"
+    },
+    {
+      "id": "Q-0027",
+      "type": "idiom_meaning_mc",
+      "prompt": "'not just a tool' の意味として最も近いものは？",
+      "answer": "単なる道具ではない",
+      "choices": [
+        "単なる道具ではない",
+        "〜の最も良い点の一つ",
+        "〜するための手段",
+        "〜に変わる、道を譲る"
+      ],
+      "source_item_id": "IDIOM-014"
+    },
+    {
+      "id": "Q-0028",
+      "type": "idiom_fill_blank",
+      "prompt": "A camera is ____ to record facts.",
+      "answer": "not just a tool",
+      "hint_ja": "単なる道具ではない",
+      "source_item_id": "IDIOM-014"
+    },
+    {
+      "id": "Q-0029",
+      "type": "idiom_meaning_mc",
+      "prompt": "'look through' の意味として最も近いものは？",
+      "answer": "〜越しに見る、よく調べる",
+      "choices": [
+        "〜への扉を開く",
+        "溶けるように消える",
+        "〜から一休みする",
+        "〜越しに見る、よく調べる"
+      ],
+      "source_item_id": "IDIOM-015"
+    },
+    {
+      "id": "Q-0030",
+      "type": "idiom_fill_blank",
+      "prompt": "When I ____ the viewfinder, time seems to slow down.",
+      "answer": "look through",
+      "hint_ja": "〜越しに見る、よく調べる",
+      "source_item_id": "IDIOM-015"
+    },
+    {
+      "id": "Q-0031",
+      "type": "idiom_meaning_mc",
+      "prompt": "'slow down' の意味として最も近いものは？",
+      "answer": "速度を落とす、落ち着く",
+      "choices": [
+        "〜越しに見る、よく調べる",
+        "手放すこと",
+        "障壁を取り除く",
+        "速度を落とす、落ち着く"
+      ],
+      "source_item_id": "IDIOM-016"
+    },
+    {
+      "id": "Q-0032",
+      "type": "idiom_fill_blank",
+      "prompt": "Writing by hand forces my brain to ____.",
+      "answer": "slow down",
+      "hint_ja": "速度を落とす、落ち着く",
+      "source_item_id": "IDIOM-016"
+    },
+    {
+      "id": "Q-0033",
+      "type": "idiom_meaning_mc",
+      "prompt": "'bring back' の意味として最も近いものは？",
+      "answer": "思い出をよみがえらせる",
+      "choices": [
+        "すり切れた、疲れ切った",
+        "時間をかけて〜する",
+        "溶けるように消える",
+        "思い出をよみがえらせる"
+      ],
+      "source_item_id": "IDIOM-017"
+    },
+    {
+      "id": "Q-0034",
+      "type": "idiom_fill_blank",
+      "prompt": "Old photos ____ vivid memories.",
+      "answer": "bring back",
+      "hint_ja": "思い出をよみがえらせる",
+      "source_item_id": "IDIOM-017"
+    },
+    {
+      "id": "Q-0035",
+      "type": "idiom_meaning_mc",
+      "prompt": "'with my own hands' の意味として最も近いものは？",
+      "answer": "自分の手で",
+      "choices": [
+        "自分の手で",
+        "〜越しに見る、よく調べる",
+        "〜から一休みする",
+        "結果として〜になる"
+      ],
+      "source_item_id": "IDIOM-018"
+    },
+    {
+      "id": "Q-0036",
+      "type": "idiom_fill_blank",
+      "prompt": "I enjoy creating something useful ____.",
+      "answer": "with my own hands",
+      "hint_ja": "自分の手で",
+      "source_item_id": "IDIOM-018"
+    },
+    {
+      "id": "Q-0037",
+      "type": "idiom_meaning_mc",
+      "prompt": "'take the time to' の意味として最も近いものは？",
+      "answer": "時間をかけて〜する",
+      "choices": [
+        "どれほど〜でも",
+        "時間をかけて〜する",
+        "すり切れた、疲れ切った",
+        "障壁を取り除く"
+      ],
+      "source_item_id": "IDIOM-019"
+    },
+    {
+      "id": "Q-0038",
+      "type": "idiom_fill_blank",
+      "prompt": "Taking the time to design and build furniture makes me appreciate it more.",
+      "answer": "take the time to",
+      "hint_ja": "時間をかけて〜する",
+      "source_item_id": "IDIOM-019"
+    },
+    {
+      "id": "Q-0039",
+      "type": "idiom_meaning_mc",
+      "prompt": "'keep active' の意味として最も近いものは？",
+      "answer": "活動的に保つ",
+      "choices": [
+        "振り返ると",
+        "活動的に保つ",
+        "〜に変わる、道を譲る",
+        "〜へと発展した"
+      ],
+      "source_item_id": "IDIOM-020"
+    },
+    {
+      "id": "Q-0040",
+      "type": "idiom_fill_blank",
+      "prompt": "DIY keeps both my mind and my hands active.",
+      "answer": "keep active",
+      "hint_ja": "活動的に保つ",
+      "source_item_id": "IDIOM-020"
+    },
+    {
+      "id": "Q-0041",
+      "type": "idiom_meaning_mc",
+      "prompt": "'shape our culture' の意味として最も近いものは？",
+      "answer": "文化を形づくる",
+      "choices": [
+        "活動的に保つ",
+        "文化を形づくる",
+        "広げる、開く",
+        "障壁を取り除く"
+      ],
+      "source_item_id": "IDIOM-021"
+    },
+    {
+      "id": "Q-0042",
+      "type": "idiom_fill_blank",
+      "prompt": "Japan's seasons deeply ____ and mindset.",
+      "answer": "shape our culture",
+      "hint_ja": "文化を形づくる",
+      "source_item_id": "IDIOM-021"
+    },
+    {
+      "id": "Q-0043",
+      "type": "idiom_meaning_mc",
+      "prompt": "'look forward to' の意味として最も近いものは？",
+      "answer": "〜を楽しみにする",
+      "choices": [
+        "それ以上に",
+        "速度を落とす、落ち着く",
+        "〜に惹かれる",
+        "〜を楽しみにする"
+      ],
+      "source_item_id": "IDIOM-022"
+    },
+    {
+      "id": "Q-0044",
+      "type": "idiom_fill_blank",
+      "prompt": "I always ____ subtle shifts in the weather.",
+      "answer": "look forward to",
+      "hint_ja": "〜を楽しみにする",
+      "source_item_id": "IDIOM-022"
+    },
+    {
+      "id": "Q-0045",
+      "type": "idiom_meaning_mc",
+      "prompt": "'open up' の意味として最も近いものは？",
+      "answer": "広げる、開く",
+      "choices": [
+        "〜を重視する",
+        "広げる、開く",
+        "本当に大切なこと",
+        "〜を楽しみにする"
+      ],
+      "source_item_id": "IDIOM-023"
+    },
+    {
+      "id": "Q-0046",
+      "type": "idiom_fill_blank",
+      "prompt": "Learning English opens up a new window to the world.",
+      "answer": "open up",
+      "hint_ja": "広げる、開く",
+      "source_item_id": "IDIOM-023"
+    },
+    {
+      "id": "Q-0047",
+      "type": "idiom_meaning_mc",
+      "prompt": "'a sense of accomplishment' の意味として最も近いものは？",
+      "answer": "達成感",
+      "choices": [
+        "人々を一つにする、集める",
+        "時間をかけて〜する",
+        "達成感",
+        "偶然見つける、出会う"
+      ],
+      "source_item_id": "IDIOM-024"
+    },
+    {
+      "id": "Q-0048",
+      "type": "idiom_fill_blank",
+      "prompt": "I feel a great sense of accomplishment when AI recognizes my voice.",
+      "answer": "a sense of accomplishment",
+      "hint_ja": "達成感",
+      "source_item_id": "IDIOM-024"
+    },
+    {
+      "id": "Q-0049",
+      "type": "idiom_meaning_mc",
+      "prompt": "'set the tone' の意味として最も近いものは？",
+      "answer": "雰囲気・方向性を決める",
+      "choices": [
+        "文化を形づくる",
+        "速度を落とす、落ち着く",
+        "〜ではなく",
+        "雰囲気・方向性を決める"
+      ],
+      "source_item_id": "IDIOM-025"
+    },
+    {
+      "id": "Q-0050",
+      "type": "idiom_fill_blank",
+      "prompt": "The first hour of the day sets the tone for everything that follows.",
+      "answer": "set the tone",
+      "hint_ja": "雰囲気・方向性を決める",
+      "source_item_id": "IDIOM-025"
+    },
+    {
+      "id": "Q-0051",
+      "type": "idiom_meaning_mc",
+      "prompt": "'wake up' の意味として最も近いものは？",
+      "answer": "目覚める、呼び起こす",
+      "choices": [
+        "見上げる",
+        "目覚める、呼び起こす",
+        "すり切れた、疲れ切った",
+        "〜に惹かれる"
+      ],
+      "source_item_id": "IDIOM-026"
+    },
+    {
+      "id": "Q-0052",
+      "type": "idiom_fill_blank",
+      "prompt": "I stretch to ____ my body.",
+      "answer": "wake up",
+      "hint_ja": "目覚める、呼び起こす",
+      "source_item_id": "IDIOM-026"
+    },
+    {
+      "id": "Q-0053",
+      "type": "idiom_meaning_mc",
+      "prompt": "'looking back' の意味として最も近いものは？",
+      "answer": "振り返ると",
+      "choices": [
+        "溶けるように消える",
+        "どれほど慌ただしくても",
+        "客観的に見られるようにする",
+        "振り返ると"
+      ],
+      "source_item_id": "IDIOM-027"
+    },
+    {
+      "id": "Q-0054",
+      "type": "idiom_fill_blank",
+      "prompt": "Looking back, my journey into technology started decades ago.",
+      "answer": "looking back",
+      "hint_ja": "振り返ると",
+      "source_item_id": "IDIOM-027"
+    },
+    {
+      "id": "Q-0055",
+      "type": "idiom_meaning_mc",
+      "prompt": "'no matter how' の意味として最も近いものは？",
+      "answer": "どれほど〜でも",
+      "choices": [
+        "〜へと発展した",
+        "どれほど〜でも",
+        "文化を形づくる",
+        "障壁を取り除く"
+      ],
+      "source_item_id": "IDIOM-028"
+    },
+    {
+      "id": "Q-0056",
+      "type": "idiom_fill_blank",
+      "prompt": "No matter how complex a machine appears, it is built on logical rules.",
+      "answer": "no matter how",
+      "hint_ja": "どれほど〜でも",
+      "source_item_id": "IDIOM-028"
+    },
+    {
+      "id": "Q-0057",
+      "type": "idiom_meaning_mc",
+      "prompt": "'put emphasis on' の意味として最も近いものは？",
+      "answer": "〜を重視する",
+      "choices": [
+        "場を和ませる、会話のきっかけを作る",
+        "溶けるように消える",
+        "客観的に見られるようにする",
+        "〜を重視する"
+      ],
+      "source_item_id": "IDIOM-029"
+    },
+    {
+      "id": "Q-0058",
+      "type": "idiom_fill_blank",
+      "prompt": "Modern society puts a lot of emphasis on speaking well.",
+      "answer": "put emphasis on",
+      "hint_ja": "〜を重視する",
+      "source_item_id": "IDIOM-029"
+    },
+    {
+      "id": "Q-0059",
+      "type": "idiom_meaning_mc",
+      "prompt": "'if not more so' の意味として最も近いものは？",
+      "answer": "それ以上に",
+      "choices": [
+        "客観的に見られるようにする",
+        "それ以上に",
+        "〜を重視する",
+        "思い出をよみがえらせる"
+      ],
+      "source_item_id": "IDIOM-030"
+    },
+    {
+      "id": "Q-0060",
+      "type": "idiom_fill_blank",
+      "prompt": "Listening is just as important, ____.",
+      "answer": "if not more so",
+      "hint_ja": "それ以上に",
+      "source_item_id": "IDIOM-030"
+    },
+    {
+      "id": "Q-0061",
+      "type": "idiom_meaning_mc",
+      "prompt": "'full, undivided attention' の意味として最も近いものは？",
+      "answer": "全神経を集中した注意",
+      "choices": [
+        "〜を超える",
+        "全神経を集中した注意",
+        "ばらばらになる、崩れる",
+        "なるほど、もっともだ"
+      ],
+      "source_item_id": "IDIOM-031"
+    },
+    {
+      "id": "Q-0062",
+      "type": "idiom_fill_blank",
+      "prompt": "True listening means giving someone your ____.",
+      "answer": "full, undivided attention",
+      "hint_ja": "全神経を集中した注意",
+      "source_item_id": "IDIOM-031"
+    },
+    {
+      "id": "Q-0063",
+      "type": "idiom_meaning_mc",
+      "prompt": "'take a break from' の意味として最も近いものは？",
+      "answer": "〜から一休みする",
+      "choices": [
+        "〜に変わる、道を譲る",
+        "人々を一つにする、集める",
+        "ばらばらになる、崩れる",
+        "〜から一休みする"
+      ],
+      "source_item_id": "IDIOM-032"
+    },
+    {
+      "id": "Q-0064",
+      "type": "idiom_fill_blank",
+      "prompt": "I ____ looking at screens by walking in the park.",
+      "answer": "take a break from",
+      "hint_ja": "〜から一休みする",
+      "source_item_id": "IDIOM-032"
+    },
+    {
+      "id": "Q-0065",
+      "type": "idiom_meaning_mc",
+      "prompt": "'no matter how fast-paced' の意味として最も近いものは？",
+      "answer": "どれほど慌ただしくても",
+      "choices": [
+        "どれほど慌ただしくても",
+        "溶けるように消える",
+        "〜についても同じことが言える",
+        "最初に思い浮かぶ"
+      ],
+      "source_item_id": "IDIOM-033"
+    },
+    {
+      "id": "Q-0066",
+      "type": "idiom_fill_blank",
+      "prompt": "No matter how fast-paced life becomes, nature’s rhythm remains.",
+      "answer": "no matter how fast-paced",
+      "hint_ja": "どれほど慌ただしくても",
+      "source_item_id": "IDIOM-033"
+    },
+    {
+      "id": "Q-0067",
+      "type": "idiom_meaning_mc",
+      "prompt": "'over the course of' の意味として最も近いものは？",
+      "answer": "〜の間に、〜を通じて",
+      "choices": [
+        "自分の手で",
+        "導入する、参加させる",
+        "〜に変わる、道を譲る",
+        "〜の間に、〜を通じて"
+      ],
+      "source_item_id": "IDIOM-034"
+    },
+    {
+      "id": "Q-0068",
+      "type": "idiom_fill_blank",
+      "prompt": "Over the course of my life, communication has transformed completely.",
+      "answer": "over the course of",
+      "hint_ja": "〜の間に、〜を通じて",
+      "source_item_id": "IDIOM-034"
+    },
+    {
+      "id": "Q-0069",
+      "type": "idiom_meaning_mc",
+      "prompt": "'take its course' の意味として最も近いものは？",
+      "answer": "自然の成り行きに任せる",
+      "choices": [
+        "目覚める、呼び起こす",
+        "自然の成り行きに任せる",
+        "そのうえ、さらに",
+        "ちょうど〜に位置する"
+      ],
+      "source_item_id": "IDIOM-035"
+    },
+    {
+      "id": "Q-0070",
+      "type": "idiom_fill_blank",
+      "prompt": "You can only wait for nature to ____.",
+      "answer": "take its course",
+      "hint_ja": "自然の成り行きに任せる",
+      "source_item_id": "IDIOM-035"
+    },
+    {
+      "id": "Q-0071",
+      "type": "idiom_meaning_mc",
+      "prompt": "'melt away' の意味として最も近いものは？",
+      "answer": "溶けるように消える",
+      "choices": [
+        "〜するための手段",
+        "溶けるように消える",
+        "最初に思い浮かぶ",
+        "見上げる"
+      ],
+      "source_item_id": "IDIOM-036"
+    },
+    {
+      "id": "Q-0072",
+      "type": "idiom_fill_blank",
+      "prompt": "The tension in my shoulders melts away in a hot bath.",
+      "answer": "melt away",
+      "hint_ja": "溶けるように消える",
+      "source_item_id": "IDIOM-036"
+    },
+    {
+      "id": "Q-0073",
+      "type": "idiom_meaning_mc",
+      "prompt": "'settle down' の意味として最も近いものは？",
+      "answer": "落ち着く",
+      "choices": [
+        "〜の最も良い点の一つ",
+        "多くの、大量の",
+        "ゼロから",
+        "落ち着く"
+      ],
+      "source_item_id": "IDIOM-037"
+    },
+    {
+      "id": "Q-0074",
+      "type": "idiom_fill_blank",
+      "prompt": "Busy thoughts begin to ____.",
+      "answer": "settle down",
+      "hint_ja": "落ち着く",
+      "source_item_id": "IDIOM-037"
+    },
+    {
+      "id": "Q-0075",
+      "type": "idiom_meaning_mc",
+      "prompt": "'go beyond' の意味として最も近いものは？",
+      "answer": "〜を超える",
+      "choices": [
+        "〜についても同じことが言える",
+        "どれほど慌ただしくても",
+        "〜を超える",
+        "偶然見つける、出会う"
+      ],
+      "source_item_id": "IDIOM-038"
+    },
+    {
+      "id": "Q-0076",
+      "type": "idiom_fill_blank",
+      "prompt": "Mottainai goes beyond simple recycling.",
+      "answer": "go beyond",
+      "hint_ja": "〜を超える",
+      "source_item_id": "IDIOM-038"
+    },
+    {
+      "id": "Q-0077",
+      "type": "idiom_meaning_mc",
+      "prompt": "'give way to' の意味として最も近いものは？",
+      "answer": "〜に変わる、道を譲る",
+      "choices": [
+        "〜に変わる、道を譲る",
+        "溶けるように消える",
+        "快適な領域の外へ",
+        "ゼロから"
+      ],
+      "source_item_id": "IDIOM-039"
+    },
+    {
+      "id": "Q-0078",
+      "type": "idiom_fill_blank",
+      "prompt": "City buildings gradually ____ open fields.",
+      "answer": "give way to",
+      "hint_ja": "〜に変わる、道を譲る",
+      "source_item_id": "IDIOM-039"
+    },
+    {
+      "id": "Q-0079",
+      "type": "idiom_meaning_mc",
+      "prompt": "'what truly matters' の意味として最も近いものは？",
+      "answer": "本当に大切なこと",
+      "choices": [
+        "偶然見つける、出会う",
+        "広げる、開く",
+        "快適な領域の外へ",
+        "本当に大切なこと"
+      ],
+      "source_item_id": "IDIOM-040"
+    },
+    {
+      "id": "Q-0080",
+      "type": "idiom_fill_blank",
+      "prompt": "With age, we learn to focus on ____.",
+      "answer": "what truly matters",
+      "hint_ja": "本当に大切なこと",
+      "source_item_id": "IDIOM-040"
+    },
+    {
+      "id": "Q-0081",
+      "type": "idiom_meaning_mc",
+      "prompt": "'letting go' の意味として最も近いものは？",
+      "answer": "手放すこと",
+      "choices": [
+        "〜の間に、〜を通じて",
+        "手放すこと",
+        "満開で",
+        "〜への扉を開く"
+      ],
+      "source_item_id": "IDIOM-041"
+    },
+    {
+      "id": "Q-0082",
+      "type": "idiom_fill_blank",
+      "prompt": "Autumn leaves show us how graceful ____ can be.",
+      "answer": "letting go",
+      "hint_ja": "手放すこと",
+      "source_item_id": "IDIOM-041"
+    },
+    {
+      "id": "Q-0083",
+      "type": "idiom_meaning_mc",
+      "prompt": "'break down barriers' の意味として最も近いものは？",
+      "answer": "障壁を取り除く",
+      "choices": [
+        "自然の成り行きに任せる",
+        "どれほど慌ただしくても",
+        "落ち着く",
+        "障壁を取り除く"
+      ],
+      "source_item_id": "IDIOM-042"
+    },
+    {
+      "id": "Q-0084",
+      "type": "idiom_fill_blank",
+      "prompt": "A smile breaks down unspoken barriers.",
+      "answer": "break down barriers",
+      "hint_ja": "障壁を取り除く",
+      "source_item_id": "IDIOM-042"
+    },
+    {
+      "id": "Q-0085",
+      "type": "idiom_meaning_mc",
+      "prompt": "'stay indoors' の意味として最も近いものは？",
+      "answer": "屋内にいる",
+      "choices": [
+        "〜へと発展した",
+        "全神経を集中した注意",
+        "活動的に保つ",
+        "屋内にいる"
+      ],
+      "source_item_id": "IDIOM-043"
+    },
+    {
+      "id": "Q-0086",
+      "type": "idiom_fill_blank",
+      "prompt": "Rain gives me a perfect excuse to ____.",
+      "answer": "stay indoors",
+      "hint_ja": "屋内にいる",
+      "source_item_id": "IDIOM-043"
+    },
+    {
+      "id": "Q-0087",
+      "type": "idiom_meaning_mc",
+      "prompt": "'fall apart' の意味として最も近いものは？",
+      "answer": "ばらばらになる、崩れる",
+      "choices": [
+        "ばらばらになる、崩れる",
+        "ゼロから",
+        "すり切れた、疲れ切った",
+        "〜についても同じことが言える"
+      ],
+      "source_item_id": "IDIOM-044"
+    },
+    {
+      "id": "Q-0088",
+      "type": "idiom_fill_blank",
+      "prompt": "A bento arrangement must not ____ during transport.",
+      "answer": "fall apart",
+      "hint_ja": "ばらばらになる、崩れる",
+      "source_item_id": "IDIOM-044"
+    },
+    {
+      "id": "Q-0089",
+      "type": "idiom_meaning_mc",
+      "prompt": "'come across' の意味として最も近いものは？",
+      "answer": "偶然見つける、出会う",
+      "choices": [
+        "振り返ると",
+        "どれほど慌ただしくても",
+        "偶然見つける、出会う",
+        "〜を楽しみにする"
+      ],
+      "source_item_id": "IDIOM-045"
+    },
+    {
+      "id": "Q-0090",
+      "type": "idiom_fill_blank",
+      "prompt": "I came across an old photo album.",
+      "answer": "come across",
+      "hint_ja": "偶然見つける、出会う",
+      "source_item_id": "IDIOM-045"
+    },
+    {
+      "id": "Q-0091",
+      "type": "idiom_meaning_mc",
+      "prompt": "'turn out' の意味として最も近いものは？",
+      "answer": "結果として〜になる",
+      "choices": [
+        "〜への扉を開く",
+        "満開で",
+        "結果として〜になる",
+        "〜を重視する"
+      ],
+      "source_item_id": "IDIOM-046"
+    },
+    {
+      "id": "Q-0092",
+      "type": "idiom_fill_blank",
+      "prompt": "We had to wait to see how the photos turned out.",
+      "answer": "turn out",
+      "hint_ja": "結果として〜になる",
+      "source_item_id": "IDIOM-046"
+    },
+    {
+      "id": "Q-0093",
+      "type": "idiom_meaning_mc",
+      "prompt": "'out of one's comfort zone' の意味として最も近いものは？",
+      "answer": "快適な領域の外へ",
+      "choices": [
+        "速度を落とす、落ち着く",
+        "快適な領域の外へ",
+        "そのうえ、さらに",
+        "満開で"
+      ],
+      "source_item_id": "IDIOM-047"
+    },
+    {
+      "id": "Q-0094",
+      "type": "idiom_fill_blank",
+      "prompt": "Learning a new skill forces us out of our comfort zones.",
+      "answer": "out of one's comfort zone",
+      "hint_ja": "快適な領域の外へ",
+      "source_item_id": "IDIOM-047"
+    },
+    {
+      "id": "Q-0095",
+      "type": "idiom_meaning_mc",
+      "prompt": "'a great deal of' の意味として最も近いものは？",
+      "answer": "多くの、大量の",
+      "choices": [
+        "自分の手で",
+        "多くの、大量の",
+        "単に〜ではなく…でもある",
+        "ばらばらになる、崩れる"
+      ],
+      "source_item_id": "IDIOM-048"
+    },
+    {
+      "id": "Q-0096",
+      "type": "idiom_fill_blank",
+      "prompt": "Bonsai requires ____ patience.",
+      "answer": "a great deal of",
+      "hint_ja": "多くの、大量の",
+      "source_item_id": "IDIOM-048"
+    },
+    {
+      "id": "Q-0097",
+      "type": "idiom_meaning_mc",
+      "prompt": "'far more than' の意味として最も近いものは？",
+      "answer": "単なる〜をはるかに超える",
+      "choices": [
+        "ある意味では",
+        "〜から一休みする",
+        "単に〜ではなく…でもある",
+        "単なる〜をはるかに超える"
+      ],
+      "source_item_id": "IDIOM-049"
+    },
+    {
+      "id": "Q-0098",
+      "type": "idiom_fill_blank",
+      "prompt": "A bonsai tree is ____ just a small plant.",
+      "answer": "far more than",
+      "hint_ja": "単なる〜をはるかに超える",
+      "source_item_id": "IDIOM-049"
+    },
+    {
+      "id": "Q-0099",
+      "type": "idiom_meaning_mc",
+      "prompt": "'a means to' の意味として最も近いものは？",
+      "answer": "〜するための手段",
+      "choices": [
+        "場を和ませる、会話のきっかけを作る",
+        "どれほど〜でも",
+        "〜するための手段",
+        "どれほど慌ただしくても"
+      ],
+      "source_item_id": "IDIOM-050"
+    },
+    {
+      "id": "Q-0100",
+      "type": "idiom_fill_blank",
+      "prompt": "Walking is often viewed as ____ get from point A to point B.",
+      "answer": "a means to",
+      "hint_ja": "〜するための手段",
+      "source_item_id": "IDIOM-050"
+    },
+    {
+      "id": "Q-0101",
+      "type": "idiom_meaning_mc",
+      "prompt": "'look up at' の意味として最も近いものは？",
+      "answer": "見上げる",
+      "choices": [
+        "単なる道具ではない",
+        "見上げる",
+        "速度を落とす、落ち着く",
+        "単に〜ではなく…でもある"
+      ],
+      "source_item_id": "IDIOM-051"
+    },
+    {
+      "id": "Q-0102",
+      "type": "idiom_fill_blank",
+      "prompt": "I ____ the starry sky on winter nights.",
+      "answer": "look up at",
+      "hint_ja": "見上げる",
+      "source_item_id": "IDIOM-051"
+    },
+    {
+      "id": "Q-0103",
+      "type": "idiom_meaning_mc",
+      "prompt": "'put into perspective' の意味として最も近いものは？",
+      "answer": "客観的に見られるようにする",
+      "choices": [
+        "客観的に見られるようにする",
+        "振り返ると",
+        "手放すこと",
+        "広げる、開く"
+      ],
+      "source_item_id": "IDIOM-052"
+    },
+    {
+      "id": "Q-0104",
+      "type": "idiom_fill_blank",
+      "prompt": "The night sky puts daily anxieties into perspective.",
+      "answer": "put into perspective",
+      "hint_ja": "客観的に見られるようにする",
+      "source_item_id": "IDIOM-052"
+    },
+    {
+      "id": "Q-0105",
+      "type": "idiom_meaning_mc",
+      "prompt": "'drawn to' の意味として最も近いものは？",
+      "answer": "〜に惹かれる",
+      "choices": [
+        "偶然見つける、出会う",
+        "人々を一つにする、集める",
+        "〜に惹かれる",
+        "屋内にいる"
+      ],
+      "source_item_id": "IDIOM-053"
+    },
+    {
+      "id": "Q-0106",
+      "type": "idiom_fill_blank",
+      "prompt": "I am deeply ____ the warmth of wooden tools.",
+      "answer": "drawn to",
+      "hint_ja": "〜に惹かれる",
+      "source_item_id": "IDIOM-053"
+    },
+    {
+      "id": "Q-0107",
+      "type": "idiom_meaning_mc",
+      "prompt": "'worn out' の意味として最も近いものは？",
+      "answer": "すり切れた、疲れ切った",
+      "choices": [
+        "すり切れた、疲れ切った",
+        "偶然見つける、出会う",
+        "ばらばらになる、崩れる",
+        "時間をかけて〜する"
+      ],
+      "source_item_id": "IDIOM-054"
+    },
+    {
+      "id": "Q-0108",
+      "type": "idiom_fill_blank",
+      "prompt": "Artificial materials can look ____ over time.",
+      "answer": "worn out",
+      "hint_ja": "すり切れた、疲れ切った",
+      "source_item_id": "IDIOM-054"
+    },
+    {
+      "id": "Q-0109",
+      "type": "idiom_meaning_mc",
+      "prompt": "'in a world dominated by' の意味として最も近いものは？",
+      "answer": "〜に支配された世界で",
+      "choices": [
+        "気分を変えて、たまには",
+        "ある意味では",
+        "それ以上に",
+        "〜に支配された世界で"
+      ],
+      "source_item_id": "IDIOM-055"
+    },
+    {
+      "id": "Q-0110",
+      "type": "idiom_fill_blank",
+      "prompt": "In a world dominated by cold plastics, wood feels warm.",
+      "answer": "in a world dominated by",
+      "hint_ja": "〜に支配された世界で",
+      "source_item_id": "IDIOM-055"
+    },
+    {
+      "id": "Q-0111",
+      "type": "idiom_meaning_mc",
+      "prompt": "'evolved into' の意味として最も近いものは？",
+      "answer": "〜へと発展した",
+      "choices": [
+        "〜へと発展した",
+        "見上げる",
+        "時間をかけて〜する",
+        "最初に思い浮かぶ"
+      ],
+      "source_item_id": "IDIOM-056"
+    },
+    {
+      "id": "Q-0112",
+      "type": "idiom_fill_blank",
+      "prompt": "Preparing coffee has ____ a satisfying art form.",
+      "answer": "evolved into",
+      "hint_ja": "〜へと発展した",
+      "source_item_id": "IDIOM-056"
+    },
+    {
+      "id": "Q-0113",
+      "type": "idiom_meaning_mc",
+      "prompt": "'from scratch' の意味として最も近いものは？",
+      "answer": "ゼロから",
+      "choices": [
+        "場を和ませる、会話のきっかけを作る",
+        "ある意味では",
+        "満開で",
+        "ゼロから"
+      ],
+      "source_item_id": "IDIOM-057"
+    },
+    {
+      "id": "Q-0114",
+      "type": "idiom_fill_blank",
+      "prompt": "As conductor, I do not write every note ____.",
+      "answer": "from scratch",
+      "hint_ja": "ゼロから",
+      "source_item_id": "IDIOM-057"
+    },
+    {
+      "id": "Q-0115",
+      "type": "idiom_meaning_mc",
+      "prompt": "'bring in' の意味として最も近いものは？",
+      "answer": "導入する、参加させる",
+      "choices": [
+        "導入する、参加させる",
+        "ゼロから",
+        "満開で",
+        "振り返ると"
+      ],
+      "source_item_id": "IDIOM-058"
+    },
+    {
+      "id": "Q-0116",
+      "type": "idiom_fill_blank",
+      "prompt": "I select which AI tools to ____.",
+      "answer": "bring in",
+      "hint_ja": "導入する、参加させる",
+      "source_item_id": "IDIOM-058"
+    },
+    {
+      "id": "Q-0117",
+      "type": "idiom_meaning_mc",
+      "prompt": "'rather than' の意味として最も近いものは？",
+      "answer": "〜ではなく",
+      "choices": [
+        "〜ではなく",
+        "最初に思い浮かぶ",
+        "見上げる",
+        "〜を超える"
+      ],
+      "source_item_id": "IDIOM-059"
+    },
+    {
+      "id": "Q-0118",
+      "type": "idiom_fill_blank",
+      "prompt": "AI magnifies creativity ____ replacing it.",
+      "answer": "rather than",
+      "hint_ja": "〜ではなく",
+      "source_item_id": "IDIOM-059"
+    },
+    {
+      "id": "Q-0119",
+      "type": "vocab_meaning_mc",
+      "prompt": "'peaceful' の意味として最も近いものは？",
+      "answer": "平和な、穏やかな",
+      "choices": [
+        "普遍的な",
+        "威厳のある",
+        "衰え",
+        "平和な、穏やかな"
+      ],
+      "source_item_id": "VOCAB-001"
+    },
+    {
+      "id": "Q-0120",
+      "type": "vocab_en_to_ja",
+      "prompt": "It is a very peaceful and convenient place located just north of Tokyo.",
+      "target_word": "peaceful",
+      "answer": "平和な、穏やかな",
+      "source_item_id": "VOCAB-001"
+    },
+    {
+      "id": "Q-0121",
+      "type": "vocab_meaning_mc",
+      "prompt": "'convenient' の意味として最も近いものは？",
+      "answer": "便利な",
+      "choices": [
+        "思いやり",
+        "進化",
+        "便利な",
+        "配置"
+      ],
+      "source_item_id": "VOCAB-002"
+    },
+    {
+      "id": "Q-0122",
+      "type": "vocab_en_to_ja",
+      "prompt": "It is a very peaceful and convenient place located just north of Tokyo.",
+      "target_word": "convenient",
+      "answer": "便利な",
+      "source_item_id": "VOCAB-002"
+    },
+    {
+      "id": "Q-0123",
+      "type": "vocab_meaning_mc",
+      "prompt": "'commute' の意味として最も近いものは？",
+      "answer": "通勤・通学する",
+      "choices": [
+        "控えめな",
+        "落とす、脱ぎ捨てる",
+        "通勤・通学する",
+        "やりがいのある"
+      ],
+      "source_item_id": "VOCAB-003"
+    },
+    {
+      "id": "Q-0124",
+      "type": "vocab_en_to_ja",
+      "prompt": "It takes only about 20 minutes to reach Ikebukuro by train, so many people commute to Tokyo for work and school.",
+      "target_word": "commute",
+      "answer": "通勤・通学する",
+      "source_item_id": "VOCAB-003"
+    },
+    {
+      "id": "Q-0125",
+      "type": "vocab_meaning_mc",
+      "prompt": "'riverbank' の意味として最も近いものは？",
+      "answer": "川岸",
+      "choices": [
+        "航路、経路",
+        "聖域、避難所",
+        "忍耐",
+        "川岸"
+      ],
+      "source_item_id": "VOCAB-004"
+    },
+    {
+      "id": "Q-0126",
+      "type": "vocab_en_to_ja",
+      "prompt": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom.",
+      "target_word": "riverbank",
+      "answer": "川岸",
+      "source_item_id": "VOCAB-004"
+    },
+    {
+      "id": "Q-0127",
+      "type": "vocab_meaning_mc",
+      "prompt": "'blossom' の意味として最も近いものは？",
+      "answer": "花、開花する",
+      "choices": [
+        "花、開花する",
+        "消費",
+        "しおれる",
+        "経年変化の艶"
+      ],
+      "source_item_id": "VOCAB-005"
+    },
+    {
+      "id": "Q-0128",
+      "type": "vocab_en_to_ja",
+      "prompt": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom.",
+      "target_word": "blossom",
+      "answer": "花、開花する",
+      "source_item_id": "VOCAB-005"
+    },
+    {
+      "id": "Q-0129",
+      "type": "vocab_meaning_mc",
+      "prompt": "'festival' の意味として最も近いものは？",
+      "answer": "祭り",
+      "choices": [
+        "明示的に",
+        "渦巻き",
+        "柔軟な",
+        "祭り"
+      ],
+      "source_item_id": "VOCAB-006"
+    },
+    {
+      "id": "Q-0130",
+      "type": "vocab_en_to_ja",
+      "prompt": "Every summer, we have a big festival called 'Saikasai', which brings the whole community together with lively dancing and beautiful fireworks.",
+      "target_word": "festival",
+      "answer": "祭り",
+      "source_item_id": "VOCAB-006"
+    },
+    {
+      "id": "Q-0131",
+      "type": "vocab_meaning_mc",
+      "prompt": "'community' の意味として最も近いものは？",
+      "answer": "地域社会",
+      "choices": [
+        "創造性",
+        "地域社会",
+        "価値を認める、感謝する",
+        "栄養、食べ物"
+      ],
+      "source_item_id": "VOCAB-007"
+    },
+    {
+      "id": "Q-0132",
+      "type": "vocab_en_to_ja",
+      "prompt": "Every summer, we have a big festival called 'Saikasai', which brings the whole community together with lively dancing and beautiful fireworks.",
+      "target_word": "community",
+      "answer": "地域社会",
+      "source_item_id": "VOCAB-007"
+    },
+    {
+      "id": "Q-0133",
+      "type": "vocab_meaning_mc",
+      "prompt": "'welcoming' の意味として最も近いものは？",
+      "answer": "温かく迎える",
+      "choices": [
+        "温かく迎える",
+        "季節の",
+        "ハードウェア",
+        "神秘"
+      ],
+      "source_item_id": "VOCAB-008"
+    },
+    {
+      "id": "Q-0134",
+      "type": "vocab_en_to_ja",
+      "prompt": "I am very proud of my hometown because it is a warm and welcoming place to live.",
+      "target_word": "welcoming",
+      "answer": "温かく迎える",
+      "source_item_id": "VOCAB-008"
+    },
+    {
+      "id": "Q-0135",
+      "type": "vocab_meaning_mc",
+      "prompt": "'photography' の意味として最も近いものは？",
+      "answer": "写真撮影",
+      "choices": [
+        "写真撮影",
+        "栄養の",
+        "育てる",
+        "努力を要しない"
+      ],
+      "source_item_id": "VOCAB-009"
+    },
+    {
+      "id": "Q-0136",
+      "type": "vocab_en_to_ja",
+      "prompt": "Photography has been my favorite hobby for many years.",
+      "target_word": "photography",
+      "answer": "写真撮影",
+      "source_item_id": "VOCAB-009"
+    },
+    {
+      "id": "Q-0137",
+      "type": "vocab_meaning_mc",
+      "prompt": "'lens' の意味として最も近いものは？",
+      "answer": "レンズ、視点",
+      "choices": [
+        "無常、儚さ",
+        "劣化する",
+        "表す",
+        "レンズ、視点"
+      ],
+      "source_item_id": "VOCAB-010"
+    },
+    {
+      "id": "Q-0138",
+      "type": "vocab_en_to_ja",
+      "prompt": "To me, a camera is not just a tool to record facts, but a lens through which I can discover the hidden beauty of everyday life.",
+      "target_word": "lens",
+      "answer": "レンズ、視点",
+      "source_item_id": "VOCAB-010"
+    },
+    {
+      "id": "Q-0139",
+      "type": "vocab_meaning_mc",
+      "prompt": "'seasonal' の意味として最も近いものは？",
+      "answer": "季節の",
+      "choices": [
+        "落とす、脱ぎ捨てる",
+        "現れる",
+        "季節の",
+        "セミ"
+      ],
+      "source_item_id": "VOCAB-011"
+    },
+    {
+      "id": "Q-0140",
+      "type": "vocab_en_to_ja",
+      "prompt": "I especially love taking photos of seasonal changes—the fresh green leaves of spring, the deep shadows of summer, the rich colors of autumn, and the quiet light of winter.",
+      "target_word": "seasonal",
+      "answer": "季節の",
+      "source_item_id": "VOCAB-011"
+    },
+    {
+      "id": "Q-0141",
+      "type": "vocab_meaning_mc",
+      "prompt": "'viewfinder' の意味として最も近いものは？",
+      "answer": "ファインダー",
+      "choices": [
+        "柔軟な",
+        "資源",
+        "ファインダー",
+        "習慣、日課"
+      ],
+      "source_item_id": "VOCAB-012"
+    },
+    {
+      "id": "Q-0142",
+      "type": "vocab_en_to_ja",
+      "prompt": "When I look through the viewfinder, time seems to slow down, and I become deeply focused on the present moment.",
+      "target_word": "viewfinder",
+      "answer": "ファインダー",
+      "source_item_id": "VOCAB-012"
+    },
+    {
+      "id": "Q-0143",
+      "type": "vocab_meaning_mc",
+      "prompt": "'fleeting' の意味として最も近いものは？",
+      "answer": "儚い、一瞬の",
+      "choices": [
+        "提灯",
+        "儚い、一瞬の",
+        "レンズ、視点",
+        "忍耐"
+      ],
+      "source_item_id": "VOCAB-013"
+    },
+    {
+      "id": "Q-0144",
+      "type": "vocab_en_to_ja",
+      "prompt": "It is a wonderful way to capture the fleeting moments of life and share my unique perspective with family and friends.",
+      "target_word": "fleeting",
+      "answer": "儚い、一瞬の",
+      "source_item_id": "VOCAB-013"
+    },
+    {
+      "id": "Q-0145",
+      "type": "vocab_meaning_mc",
+      "prompt": "'perspective' の意味として最も近いものは？",
+      "answer": "視点",
+      "choices": [
+        "硬直した",
+        "やりがいのある",
+        "過大評価する",
+        "視点"
+      ],
+      "source_item_id": "VOCAB-014"
+    },
+    {
+      "id": "Q-0146",
+      "type": "vocab_en_to_ja",
+      "prompt": "It is a wonderful way to capture the fleeting moments of life and share my unique perspective with family and friends.",
+      "target_word": "perspective",
+      "answer": "視点",
+      "source_item_id": "VOCAB-014"
+    },
+    {
+      "id": "Q-0147",
+      "type": "vocab_meaning_mc",
+      "prompt": "'satisfying' の意味として最も近いものは？",
+      "answer": "満足感のある",
+      "choices": [
+        "いら立たしい",
+        "精神的な",
+        "緊張",
+        "満足感のある"
+      ],
+      "source_item_id": "VOCAB-015"
+    },
+    {
+      "id": "Q-0148",
+      "type": "vocab_en_to_ja",
+      "prompt": "There is something incredibly satisfying about working with wood, measuring exactly, and creating something useful with my own hands.",
+      "target_word": "satisfying",
+      "answer": "満足感のある",
+      "source_item_id": "VOCAB-015"
+    },
+    {
+      "id": "Q-0149",
+      "type": "vocab_meaning_mc",
+      "prompt": "'crooked' の意味として最も近いものは？",
+      "answer": "曲がった",
+      "choices": [
+        "つながり",
+        "発音",
+        "美意識",
+        "曲がった"
+      ],
+      "source_item_id": "VOCAB-016"
+    },
+    {
+      "id": "Q-0150",
+      "type": "vocab_en_to_ja",
+      "prompt": "It wasn't perfect—one of the shelves turned out a little bit crooked at first—but the process of fixing the mistake and finishing the piece taught me a lot of patience.",
+      "target_word": "crooked",
+      "answer": "曲がった",
+      "source_item_id": "VOCAB-016"
+    },
+    {
+      "id": "Q-0151",
+      "type": "vocab_meaning_mc",
+      "prompt": "'patience' の意味として最も近いものは？",
+      "answer": "忍耐",
+      "choices": [
+        "解毒剤、対抗策",
+        "配置",
+        "忍耐",
+        "流れ"
+      ],
+      "source_item_id": "VOCAB-017"
+    },
+    {
+      "id": "Q-0152",
+      "type": "vocab_en_to_ja",
+      "prompt": "It wasn't perfect—one of the shelves turned out a little bit crooked at first—but the process of fixing the mistake and finishing the piece taught me a lot of patience.",
+      "target_word": "patience",
+      "answer": "忍耐",
+      "source_item_id": "VOCAB-017"
+    },
+    {
+      "id": "Q-0153",
+      "type": "vocab_meaning_mc",
+      "prompt": "'appreciate' の意味として最も近いものは？",
+      "answer": "価値を認める、感謝する",
+      "choices": [
+        "動機づけ",
+        "明確な、はっきりした",
+        "ぼやけた",
+        "価値を認める、感謝する"
+      ],
+      "source_item_id": "VOCAB-018"
+    },
+    {
+      "id": "Q-0154",
+      "type": "vocab_en_to_ja",
+      "prompt": "In a world where everything can be bought instantly online, taking the time to design, cut, sand, and paint a piece of furniture makes me appreciate the things in my home much more.",
+      "target_word": "appreciate",
+      "answer": "価値を認める、感謝する",
+      "source_item_id": "VOCAB-018"
+    },
+    {
+      "id": "Q-0155",
+      "type": "vocab_meaning_mc",
+      "prompt": "'distinct' の意味として最も近いものは？",
+      "answer": "明確な、はっきりした",
+      "choices": [
+        "憂うつな",
+        "リズミカルな",
+        "善意",
+        "明確な、はっきりした"
+      ],
+      "source_item_id": "VOCAB-019"
+    },
+    {
+      "id": "Q-0156",
+      "type": "vocab_en_to_ja",
+      "prompt": "Japan is famous for its distinct four seasons, and I think this natural cycle deeply shapes our culture and mindset.",
+      "target_word": "distinct",
+      "answer": "明確な、はっきりした",
+      "source_item_id": "VOCAB-019"
+    },
+    {
+      "id": "Q-0157",
+      "type": "vocab_meaning_mc",
+      "prompt": "'transience' の意味として最も近いものは？",
+      "answer": "無常、儚さ",
+      "choices": [
+        "提灯",
+        "古い時代の、年代物の",
+        "育てる",
+        "無常、儚さ"
+      ],
+      "source_item_id": "VOCAB-020"
+    },
+    {
+      "id": "Q-0158",
+      "type": "vocab_en_to_ja",
+      "prompt": "In spring, the cherry blossoms remind us of the beauty and transience of life.",
+      "target_word": "transience",
+      "answer": "無常、儚さ",
+      "source_item_id": "VOCAB-020"
+    },
+    {
+      "id": "Q-0159",
+      "type": "vocab_meaning_mc",
+      "prompt": "'cicada' の意味として最も近いものは？",
+      "answer": "セミ",
+      "choices": [
+        "セミ",
+        "共感",
+        "神聖な",
+        "目的地"
+      ],
+      "source_item_id": "VOCAB-021"
+    },
+    {
+      "id": "Q-0160",
+      "type": "vocab_en_to_ja",
+      "prompt": "Summer brings the energetic sound of cicadas and traditional festivals.",
+      "target_word": "cicada",
+      "answer": "セミ",
+      "source_item_id": "VOCAB-021"
+    },
+    {
+      "id": "Q-0161",
+      "type": "vocab_meaning_mc",
+      "prompt": "'harvest' の意味として最も近いものは？",
+      "answer": "収穫",
+      "choices": [
+        "るつぼ、多文化の混合",
+        "収穫",
+        "目的地",
+        "視点"
+      ],
+      "source_item_id": "VOCAB-022"
+    },
+    {
+      "id": "Q-0162",
+      "type": "vocab_en_to_ja",
+      "prompt": "Autumn is a time of harvest and stunning red maple leaves, while winter offers crisp, clear air and cozy evenings at home.",
+      "target_word": "harvest",
+      "answer": "収穫",
+      "source_item_id": "VOCAB-022"
+    },
+    {
+      "id": "Q-0163",
+      "type": "vocab_meaning_mc",
+      "prompt": "'subtle' の意味として最も近いものは？",
+      "answer": "微妙な",
+      "choices": [
+        "微妙な",
+        "触覚の",
+        "控えめな",
+        "調和"
+      ],
+      "source_item_id": "VOCAB-023"
+    },
+    {
+      "id": "Q-0164",
+      "type": "vocab_en_to_ja",
+      "prompt": "I always look forward to the subtle shifts in the weather and the seasonal foods that appear in the markets.",
+      "target_word": "subtle",
+      "answer": "微妙な",
+      "source_item_id": "VOCAB-023"
+    },
+    {
+      "id": "Q-0165",
+      "type": "vocab_meaning_mc",
+      "prompt": "'rewarding' の意味として最も近いものは？",
+      "answer": "やりがいのある",
+      "choices": [
+        "達成",
+        "さえずり",
+        "やりがいのある",
+        "動機づけ"
+      ],
+      "source_item_id": "VOCAB-024"
+    },
+    {
+      "id": "Q-0166",
+      "type": "vocab_en_to_ja",
+      "prompt": "Starting to focus seriously on my English pronunciation and expression in my later years has been a deeply rewarding adventure.",
+      "target_word": "rewarding",
+      "answer": "やりがいのある",
+      "source_item_id": "VOCAB-024"
+    },
+    {
+      "id": "Q-0167",
+      "type": "vocab_meaning_mc",
+      "prompt": "'pronunciation' の意味として最も近いものは？",
+      "answer": "発音",
+      "choices": [
+        "意図的に、慎重に",
+        "多様な",
+        "発音",
+        "個性"
+      ],
+      "source_item_id": "VOCAB-025"
+    },
+    {
+      "id": "Q-0168",
+      "type": "vocab_en_to_ja",
+      "prompt": "Starting to focus seriously on my English pronunciation and expression in my later years has been a deeply rewarding adventure.",
+      "target_word": "pronunciation",
+      "answer": "発音",
+      "source_item_id": "VOCAB-025"
+    },
+    {
+      "id": "Q-0169",
+      "type": "vocab_meaning_mc",
+      "prompt": "'curiosity' の意味として最も近いものは？",
+      "answer": "好奇心",
+      "choices": [
+        "曲がった",
+        "好奇心",
+        "畏敬",
+        "季節の"
+      ],
+      "source_item_id": "VOCAB-026"
+    },
+    {
+      "id": "Q-0170",
+      "type": "vocab_en_to_ja",
+      "prompt": "I don't feel any pressure to pass exams; instead, I learn purely for the joy of intellectual curiosity and communication.",
+      "target_word": "curiosity",
+      "answer": "好奇心",
+      "source_item_id": "VOCAB-026"
+    },
+    {
+      "id": "Q-0171",
+      "type": "vocab_meaning_mc",
+      "prompt": "'accomplishment' の意味として最も近いものは？",
+      "answer": "達成",
+      "choices": [
+        "控えめな、謙虚な",
+        "達成",
+        "本物の",
+        "儀式、習慣"
+      ],
+      "source_item_id": "VOCAB-027"
+    },
+    {
+      "id": "Q-0172",
+      "type": "vocab_en_to_ja",
+      "prompt": "Every time a smart speaker or an AI text-to-speech engine perfectly recognizes my voice, I feel a great sense of accomplishment.",
+      "target_word": "accomplishment",
+      "answer": "達成",
+      "source_item_id": "VOCAB-027"
+    },
+    {
+      "id": "Q-0173",
+      "type": "vocab_meaning_mc",
+      "prompt": "'methodology' の意味として最も近いものは？",
+      "answer": "方法論",
+      "choices": [
+        "川岸",
+        "方法論",
+        "安定",
+        "贅沢な"
+      ],
+      "source_item_id": "VOCAB-028"
+    },
+    {
+      "id": "Q-0174",
+      "type": "vocab_en_to_ja",
+      "prompt": "It proves that with steady practice and the right methodology, anyone can continue to grow and sharpen their skills at any age.",
+      "target_word": "methodology",
+      "answer": "方法論",
+      "source_item_id": "VOCAB-028"
+    },
+    {
+      "id": "Q-0175",
+      "type": "vocab_meaning_mc",
+      "prompt": "'routine' の意味として最も近いものは？",
+      "answer": "習慣、日課",
+      "choices": [
+        "習慣、日課",
+        "忍耐",
+        "安定",
+        "退屈で骨の折れる"
+      ],
+      "source_item_id": "VOCAB-029"
+    },
+    {
+      "id": "Q-0176",
+      "type": "vocab_en_to_ja",
+      "prompt": "I have developed a simple morning routine that helps me start each day with clarity and purpose.",
+      "target_word": "routine",
+      "answer": "習慣、日課",
+      "source_item_id": "VOCAB-029"
+    },
+    {
+      "id": "Q-0177",
+      "type": "vocab_meaning_mc",
+      "prompt": "'clarity' の意味として最も近いものは？",
+      "answer": "明晰さ",
+      "choices": [
+        "根本的な",
+        "マインドフルネス",
+        "経年変化の艶",
+        "明晰さ"
+      ],
+      "source_item_id": "VOCAB-030"
+    },
+    {
+      "id": "Q-0178",
+      "type": "vocab_en_to_ja",
+      "prompt": "I have developed a simple morning routine that helps me start each day with clarity and purpose.",
+      "target_word": "clarity",
+      "answer": "明晰さ",
+      "source_item_id": "VOCAB-030"
+    },
+    {
+      "id": "Q-0179",
+      "type": "vocab_meaning_mc",
+      "prompt": "'purpose' の意味として最も近いものは？",
+      "answer": "目的",
+      "choices": [
+        "逃げ場、気分転換",
+        "指揮棒",
+        "目的",
+        "やりがいのある"
+      ],
+      "source_item_id": "VOCAB-031"
+    },
+    {
+      "id": "Q-0180",
+      "type": "vocab_en_to_ja",
+      "prompt": "I have developed a simple morning routine that helps me start each day with clarity and purpose.",
+      "target_word": "purpose",
+      "answer": "目的",
+      "source_item_id": "VOCAB-031"
+    },
+    {
+      "id": "Q-0181",
+      "type": "vocab_meaning_mc",
+      "prompt": "'sanctuary' の意味として最も近いものは？",
+      "answer": "聖域、避難所",
+      "choices": [
+        "思いやり",
+        "聖域、避難所",
+        "現れる",
+        "謎を解く、分かりやすくする"
+      ],
+      "source_item_id": "VOCAB-032"
+    },
+    {
+      "id": "Q-0182",
+      "type": "vocab_en_to_ja",
+      "prompt": "A good morning routine isn't about being rigidly productive; it is about creating a small sanctuary of time for yourself before the daily responsibilities begin.",
+      "target_word": "sanctuary",
+      "answer": "聖域、避難所",
+      "source_item_id": "VOCAB-032"
+    },
+    {
+      "id": "Q-0183",
+      "type": "vocab_meaning_mc",
+      "prompt": "'minimal' の意味として最も近いものは？",
+      "answer": "最小限の",
+      "choices": [
+        "最小限の",
+        "優れている",
+        "明晰さ",
+        "深い"
+      ],
+      "source_item_id": "VOCAB-033"
+    },
+    {
+      "id": "Q-0184",
+      "type": "vocab_en_to_ja",
+      "prompt": "Compared to the incredibly powerful iPads and AI systems we use today, that early machine was extremely simple, with minimal memory and a dark screen filled with glowing text.",
+      "target_word": "minimal",
+      "answer": "最小限の",
+      "source_item_id": "VOCAB-033"
+    },
+    {
+      "id": "Q-0185",
+      "type": "vocab_meaning_mc",
+      "prompt": "'gateway' の意味として最も近いものは？",
+      "answer": "入り口",
+      "choices": [
+        "明晰さ",
+        "入り口",
+        "生産性",
+        "義務"
+      ],
+      "source_item_id": "VOCAB-034"
+    },
+    {
+      "id": "Q-0186",
+      "type": "vocab_en_to_ja",
+      "prompt": "Yet, to me, it felt like a gateway to absolute magic.",
+      "target_word": "gateway",
+      "answer": "入り口",
+      "source_item_id": "VOCAB-034"
+    },
+    {
+      "id": "Q-0187",
+      "type": "vocab_meaning_mc",
+      "prompt": "'demystify' の意味として最も近いものは？",
+      "answer": "謎を解く、分かりやすくする",
+      "choices": [
+        "謎を解く、分かりやすくする",
+        "セミ",
+        "控えめな、謙虚な",
+        "やりがいのある"
+      ],
+      "source_item_id": "VOCAB-035"
+    },
+    {
+      "id": "Q-0188",
+      "type": "vocab_en_to_ja",
+      "prompt": "This word is useful for talking about demystify.",
+      "target_word": "demystify",
+      "answer": "謎を解く、分かりやすくする",
+      "source_item_id": "VOCAB-035"
+    },
+    {
+      "id": "Q-0189",
+      "type": "vocab_meaning_mc",
+      "prompt": "'fascination' の意味として最も近いものは？",
+      "answer": "強い興味",
+      "choices": [
+        "料理、食文化",
+        "伝える",
+        "強い興味",
+        "比喩"
+      ],
+      "source_item_id": "VOCAB-036"
+    },
+    {
+      "id": "Q-0190",
+      "type": "vocab_en_to_ja",
+      "prompt": "That early experience demystified technology for me and sparked a lifelong fascination with engineering.",
+      "target_word": "fascination",
+      "answer": "強い興味",
+      "source_item_id": "VOCAB-036"
+    },
+    {
+      "id": "Q-0191",
+      "type": "vocab_meaning_mc",
+      "prompt": "'engineering' の意味として最も近いものは？",
+      "answer": "工学",
+      "choices": [
+        "意図的に、慎重に",
+        "工学",
+        "祖先",
+        "控えめな、謙虚な"
+      ],
+      "source_item_id": "VOCAB-037"
+    },
+    {
+      "id": "Q-0192",
+      "type": "vocab_en_to_ja",
+      "prompt": "That early experience demystified technology for me and sparked a lifelong fascination with engineering.",
+      "target_word": "engineering",
+      "answer": "工学",
+      "source_item_id": "VOCAB-037"
+    },
+    {
+      "id": "Q-0193",
+      "type": "vocab_meaning_mc",
+      "prompt": "'empathy' の意味として最も近いものは？",
+      "answer": "共感",
+      "choices": [
+        "温かく迎える",
+        "抑制",
+        "花、開花する",
+        "共感"
+      ],
+      "source_item_id": "VOCAB-038"
+    },
+    {
+      "id": "Q-0194",
+      "type": "vocab_en_to_ja",
+      "prompt": "It requires patience and empathy to understand the emotions and context behind their words.",
+      "target_word": "empathy",
+      "answer": "共感",
+      "source_item_id": "VOCAB-038"
+    },
+    {
+      "id": "Q-0195",
+      "type": "vocab_meaning_mc",
+      "prompt": "'context' の意味として最も近いものは？",
+      "answer": "文脈",
+      "choices": [
+        "文脈",
+        "生き物",
+        "入り口",
+        "色あせた"
+      ],
+      "source_item_id": "VOCAB-039"
+    },
+    {
+      "id": "Q-0196",
+      "type": "vocab_en_to_ja",
+      "prompt": "It requires patience and empathy to understand the emotions and context behind their words.",
+      "target_word": "context",
+      "answer": "文脈",
+      "source_item_id": "VOCAB-039"
+    },
+    {
+      "id": "Q-0197",
+      "type": "vocab_meaning_mc",
+      "prompt": "'broaden' の意味として最も近いものは？",
+      "answer": "広げる",
+      "choices": [
+        "広げる",
+        "流れ",
+        "本質的に",
+        "大切にされている"
+      ],
+      "source_item_id": "VOCAB-040"
+    },
+    {
+      "id": "Q-0198",
+      "type": "vocab_en_to_ja",
+      "prompt": "When we listen deeply, we create a safe space for the other person to be heard, which strengthens our relationships and broadens our own perspectives.",
+      "target_word": "broaden",
+      "answer": "広げる",
+      "source_item_id": "VOCAB-040"
+    },
+    {
+      "id": "Q-0199",
+      "type": "vocab_meaning_mc",
+      "prompt": "'connection' の意味として最も近いものは？",
+      "answer": "つながり",
+      "choices": [
+        "つながり",
+        "聖域、避難所",
+        "畏敬",
+        "個性"
+      ],
+      "source_item_id": "VOCAB-041"
+    },
+    {
+      "id": "Q-0200",
+      "type": "vocab_en_to_ja",
+      "prompt": "It is a quiet but powerful way to show respect and build real human connection.",
+      "target_word": "connection",
+      "answer": "つながり",
+      "source_item_id": "VOCAB-041"
+    },
+    {
+      "id": "Q-0201",
+      "type": "vocab_meaning_mc",
+      "prompt": "'escape' の意味として最も近いものは？",
+      "answer": "逃げ場、気分転換",
+      "choices": [
+        "受け入れる",
+        "消費",
+        "解毒剤、対抗策",
+        "逃げ場、気分転換"
+      ],
+      "source_item_id": "VOCAB-042"
+    },
+    {
+      "id": "Q-0202",
+      "type": "vocab_en_to_ja",
+      "prompt": "When I need a break from looking at screens, my favorite escape is taking a slow walk in the local park near my house.",
+      "target_word": "escape",
+      "answer": "逃げ場、気分転換",
+      "source_item_id": "VOCAB-042"
+    },
+    {
+      "id": "Q-0203",
+      "type": "vocab_meaning_mc",
+      "prompt": "'modest' の意味として最も近いものは？",
+      "answer": "控えめな",
+      "choices": [
+        "明示的に",
+        "全体を覆う",
+        "満足",
+        "控えめな"
+      ],
+      "source_item_id": "VOCAB-043"
+    },
+    {
+      "id": "Q-0204",
+      "type": "vocab_en_to_ja",
+      "prompt": "It is a modest green space, but it is full of life.",
+      "target_word": "modest",
+      "answer": "控えめな",
+      "source_item_id": "VOCAB-043"
+    },
+    {
+      "id": "Q-0205",
+      "type": "vocab_meaning_mc",
+      "prompt": "'rustle' の意味として最も近いものは？",
+      "answer": "さらさら音",
+      "choices": [
+        "神秘",
+        "さらさら音",
+        "消費",
+        "視点"
+      ],
+      "source_item_id": "VOCAB-044"
+    },
+    {
+      "id": "Q-0206",
+      "type": "vocab_en_to_ja",
+      "prompt": "The soft rustle of pages turning, the faint scent of old ink, and the respectful silence shared by strangers create a deeply peaceful atmosphere.",
+      "target_word": "rustle",
+      "answer": "さらさら音",
+      "source_item_id": "VOCAB-044"
+    },
+    {
+      "id": "Q-0207",
+      "type": "vocab_meaning_mc",
+      "prompt": "'antidote' の意味として最も近いものは？",
+      "answer": "解毒剤、対抗策",
+      "choices": [
+        "解決策",
+        "花、開花する",
+        "解毒剤、対抗策",
+        "思いやり"
+      ],
+      "source_item_id": "VOCAB-045"
+    },
+    {
+      "id": "Q-0208",
+      "type": "vocab_en_to_ja",
+      "prompt": "Taking a walk is the simplest antidote to the noise of modern life.",
+      "target_word": "antidote",
+      "answer": "解毒剤、対抗策",
+      "source_item_id": "VOCAB-045"
+    },
+    {
+      "id": "Q-0209",
+      "type": "vocab_meaning_mc",
+      "prompt": "'evolution' の意味として最も近いものは？",
+      "answer": "進化",
+      "choices": [
+        "航路、経路",
+        "季節の",
+        "進化",
+        "祖先"
+      ],
+      "source_item_id": "VOCAB-046"
+    },
+    {
+      "id": "Q-0210",
+      "type": "vocab_en_to_ja",
+      "prompt": "While this rapid technological evolution has made sharing information incredibly efficient, it also presents a unique challenge.",
+      "target_word": "evolution",
+      "answer": "進化",
+      "source_item_id": "VOCAB-046"
+    },
+    {
+      "id": "Q-0211",
+      "type": "vocab_meaning_mc",
+      "prompt": "'sincerity' の意味として最も近いものは？",
+      "answer": "誠実さ",
+      "choices": [
+        "初心者",
+        "誠実さ",
+        "変える",
+        "植民地の"
+      ],
+      "source_item_id": "VOCAB-047"
+    },
+    {
+      "id": "Q-0212",
+      "type": "vocab_en_to_ja",
+      "prompt": "With so much digital noise, we must work harder to maintain the depth and sincerity of our interactions.",
+      "target_word": "sincerity",
+      "answer": "誠実さ",
+      "source_item_id": "VOCAB-047"
+    },
+    {
+      "id": "Q-0213",
+      "type": "vocab_meaning_mc",
+      "prompt": "'fundamental' の意味として最も近いものは？",
+      "answer": "根本的な",
+      "choices": [
+        "工学",
+        "収穫",
+        "神聖な",
+        "根本的な"
+      ],
+      "source_item_id": "VOCAB-048"
+    },
+    {
+      "id": "Q-0214",
+      "type": "vocab_en_to_ja",
+      "prompt": "The tools may change completely, but our fundamental need for meaningful connection remains exactly the same.",
+      "target_word": "fundamental",
+      "answer": "根本的な",
+      "source_item_id": "VOCAB-048"
+    },
+    {
+      "id": "Q-0215",
+      "type": "vocab_meaning_mc",
+      "prompt": "'replicate' の意味として最も近いものは？",
+      "answer": "再現する",
+      "choices": [
+        "神秘",
+        "受け入れる",
+        "再現する",
+        "消費"
+      ],
+      "source_item_id": "VOCAB-049"
+    },
+    {
+      "id": "Q-0216",
+      "type": "vocab_en_to_ja",
+      "prompt": "There is a unique charm to old, physical books that no modern e-reader can ever truly replicate.",
+      "target_word": "replicate",
+      "answer": "再現する",
+      "source_item_id": "VOCAB-049"
+    },
+    {
+      "id": "Q-0217",
+      "type": "vocab_meaning_mc",
+      "prompt": "'vintage' の意味として最も近いものは？",
+      "answer": "古い時代の、年代物の",
+      "choices": [
+        "古い時代の、年代物の",
+        "受け入れる",
+        "障壁",
+        "宇宙"
+      ],
+      "source_item_id": "VOCAB-050"
+    },
+    {
+      "id": "Q-0218",
+      "type": "vocab_en_to_ja",
+      "prompt": "I have a small collection of vintage books in my study, and to me, they are valuable not just for the words written in them, but for their physical presence.",
+      "target_word": "vintage",
+      "answer": "古い時代の、年代物の",
+      "source_item_id": "VOCAB-050"
+    },
+    {
+      "id": "Q-0219",
+      "type": "vocab_meaning_mc",
+      "prompt": "'texture' の意味として最も近いものは？",
+      "answer": "質感",
+      "choices": [
+        "質感",
+        "最大限の",
+        "本物の",
+        "側面"
+      ],
+      "source_item_id": "VOCAB-051"
+    },
+    {
+      "id": "Q-0220",
+      "type": "vocab_en_to_ja",
+      "prompt": "The slightly yellowed pages, the faint scent of aged paper, and the texture of the cloth covers all tell a story of time passing.",
+      "target_word": "texture",
+      "answer": "質感",
+      "source_item_id": "VOCAB-051"
+    },
+    {
+      "id": "Q-0221",
+      "type": "vocab_meaning_mc",
+      "prompt": "'tactile' の意味として最も近いものは？",
+      "answer": "触覚の",
+      "choices": [
+        "さらさら音",
+        "神聖な",
+        "触覚の",
+        "憂うつな"
+      ],
+      "source_item_id": "VOCAB-052"
+    },
+    {
+      "id": "Q-0222",
+      "type": "vocab_en_to_ja",
+      "prompt": "In a digital world where content is weightless and instant, a physical book grounds us in history and allows us to enjoy a slow, tactile reading experience.",
+      "target_word": "tactile",
+      "answer": "触覚の",
+      "source_item_id": "VOCAB-052"
+    },
+    {
+      "id": "Q-0223",
+      "type": "vocab_meaning_mc",
+      "prompt": "'profound' の意味として最も近いものは？",
+      "answer": "深い",
+      "choices": [
+        "深い",
+        "意図的に、慎重に",
+        "避難所",
+        "調和"
+      ],
+      "source_item_id": "VOCAB-053"
+    },
+    {
+      "id": "Q-0224",
+      "type": "vocab_en_to_ja",
+      "prompt": "Tending to a few plants on my balcony has taught me a profound lesson about the nature of time and growth.",
+      "target_word": "profound",
+      "answer": "深い",
+      "source_item_id": "VOCAB-053"
+    },
+    {
+      "id": "Q-0225",
+      "type": "vocab_meaning_mc",
+      "prompt": "'instant' の意味として最も近いものは？",
+      "answer": "即時の",
+      "choices": [
+        "本物の",
+        "義務",
+        "即時の",
+        "多文化の"
+      ],
+      "source_item_id": "VOCAB-054"
+    },
+    {
+      "id": "Q-0226",
+      "type": "vocab_en_to_ja",
+      "prompt": "We have moved from handwritten letters that took days to arrive, to instant global video calls, and now to real-time conversations with advanced artificial intelligence.",
+      "target_word": "instant",
+      "answer": "即時の",
+      "source_item_id": "VOCAB-054"
+    },
+    {
+      "id": "Q-0227",
+      "type": "vocab_meaning_mc",
+      "prompt": "'wither' の意味として最も近いものは？",
+      "answer": "しおれる",
+      "choices": [
+        "儚い、一瞬の",
+        "自動的な",
+        "しおれる",
+        "指揮者"
+      ],
+      "source_item_id": "VOCAB-055"
+    },
+    {
+      "id": "Q-0228",
+      "type": "vocab_en_to_ja",
+      "prompt": "Sometimes a plant withers despite your best efforts, and other times it surprises you with a beautiful bloom.",
+      "target_word": "wither",
+      "answer": "しおれる",
+      "source_item_id": "VOCAB-055"
+    },
+    {
+      "id": "Q-0229",
+      "type": "vocab_meaning_mc",
+      "prompt": "'cherished' の意味として最も近いものは？",
+      "answer": "大切にされている",
+      "choices": [
+        "大切にされている",
+        "贅沢な",
+        "意図的に、慎重に",
+        "受け入れる"
+      ],
+      "source_item_id": "VOCAB-056"
+    },
+    {
+      "id": "Q-0230",
+      "type": "vocab_en_to_ja",
+      "prompt": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind.",
+      "target_word": "cherished",
+      "answer": "大切にされている",
+      "source_item_id": "VOCAB-056"
+    },
+    {
+      "id": "Q-0231",
+      "type": "vocab_meaning_mc",
+      "prompt": "'ritual' の意味として最も近いものは？",
+      "answer": "儀式、習慣",
+      "choices": [
+        "境界",
+        "花、開花する",
+        "優雅な",
+        "儀式、習慣"
+      ],
+      "source_item_id": "VOCAB-057"
+    },
+    {
+      "id": "Q-0232",
+      "type": "vocab_en_to_ja",
+      "prompt": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind.",
+      "target_word": "ritual",
+      "answer": "儀式、習慣",
+      "source_item_id": "VOCAB-057"
+    },
+    {
+      "id": "Q-0233",
+      "type": "vocab_meaning_mc",
+      "prompt": "'unwind' の意味として最も近いものは？",
+      "answer": "くつろぐ",
+      "choices": [
+        "観察力のある",
+        "くつろぐ",
+        "習慣、日課",
+        "優れている"
+      ],
+      "source_item_id": "VOCAB-058"
+    },
+    {
+      "id": "Q-0234",
+      "type": "vocab_en_to_ja",
+      "prompt": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind.",
+      "target_word": "unwind",
+      "answer": "くつろぐ",
+      "source_item_id": "VOCAB-058"
+    },
+    {
+      "id": "Q-0235",
+      "type": "vocab_meaning_mc",
+      "prompt": "'tension' の意味として最も近いものは？",
+      "answer": "緊張",
+      "choices": [
+        "緊張",
+        "セミ",
+        "やりがいのある",
+        "本物の"
+      ],
+      "source_item_id": "VOCAB-059"
+    },
+    {
+      "id": "Q-0236",
+      "type": "vocab_en_to_ja",
+      "prompt": "As I soak in the warm water, the physical tension in my shoulders melts away, and the busy thoughts of the day begin to settle down.",
+      "target_word": "tension",
+      "answer": "緊張",
+      "source_item_id": "VOCAB-059"
+    },
+    {
+      "id": "Q-0237",
+      "type": "vocab_meaning_mc",
+      "prompt": "'obligation' の意味として最も近いものは？",
+      "answer": "義務",
+      "choices": [
+        "さらさら音",
+        "義務",
+        "質感",
+        "最小限の"
+      ],
+      "source_item_id": "VOCAB-060"
+    },
+    {
+      "id": "Q-0238",
+      "type": "vocab_en_to_ja",
+      "prompt": "The quiet sound of water creates a peaceful atmosphere where I can simply exist without any obligations or distractions.",
+      "target_word": "obligation",
+      "answer": "義務",
+      "source_item_id": "VOCAB-060"
+    },
+    {
+      "id": "Q-0239",
+      "type": "vocab_meaning_mc",
+      "prompt": "'deliberately' の意味として最も近いものは？",
+      "answer": "意図的に、慎重に",
+      "choices": [
+        "調和",
+        "宇宙",
+        "意図的に、慎重に",
+        "錨、支え"
+      ],
+      "source_item_id": "VOCAB-061"
+    },
+    {
+      "id": "Q-0240",
+      "type": "vocab_en_to_ja",
+      "prompt": "Writing by hand forces my brain to slow down and think more deliberately about each word.",
+      "target_word": "deliberately",
+      "answer": "意図的に、慎重に",
+      "source_item_id": "VOCAB-061"
+    },
+    {
+      "id": "Q-0241",
+      "type": "vocab_meaning_mc",
+      "prompt": "'individuality' の意味として最も近いものは？",
+      "answer": "個性",
+      "choices": [
+        "収穫",
+        "憂うつな",
+        "個性",
+        "不安"
+      ],
+      "source_item_id": "VOCAB-062"
+    },
+    {
+      "id": "Q-0242",
+      "type": "vocab_en_to_ja",
+      "prompt": "In an era dominated by uniform digital fonts, keeping the tradition of handwriting alive is a powerful way to preserve our individuality and express true thoughtfulness.",
+      "target_word": "individuality",
+      "answer": "個性",
+      "source_item_id": "VOCAB-062"
+    },
+    {
+      "id": "Q-0243",
+      "type": "vocab_meaning_mc",
+      "prompt": "'thoughtfulness' の意味として最も近いものは？",
+      "answer": "思いやり",
+      "choices": [
+        "配置",
+        "工学",
+        "思いやり",
+        "普通の"
+      ],
+      "source_item_id": "VOCAB-063"
+    },
+    {
+      "id": "Q-0244",
+      "type": "vocab_en_to_ja",
+      "prompt": "In an era dominated by uniform digital fonts, keeping the tradition of handwriting alive is a powerful way to preserve our individuality and express true thoughtfulness.",
+      "target_word": "thoughtfulness",
+      "answer": "思いやり",
+      "source_item_id": "VOCAB-063"
+    },
+    {
+      "id": "Q-0245",
+      "type": "vocab_meaning_mc",
+      "prompt": "'mindfulness' の意味として最も近いものは？",
+      "answer": "マインドフルネス",
+      "choices": [
+        "マインドフルネス",
+        "風景",
+        "アセンブリ言語",
+        "明確な、はっきりした"
+      ],
+      "source_item_id": "VOCAB-064"
+    },
+    {
+      "id": "Q-0246",
+      "type": "vocab_en_to_ja",
+      "prompt": "This simple act has become a form of mindfulness for me.",
+      "target_word": "mindfulness",
+      "answer": "マインドフルネス",
+      "source_item_id": "VOCAB-064"
+    },
+    {
+      "id": "Q-0247",
+      "type": "vocab_meaning_mc",
+      "prompt": "'vibrant' の意味として最も近いものは？",
+      "answer": "鮮やかな",
+      "choices": [
+        "退屈で骨の折れる",
+        "鮮やかな",
+        "明示的に",
+        "平和な、穏やかな"
+      ],
+      "source_item_id": "VOCAB-065"
+    },
+    {
+      "id": "Q-0248",
+      "type": "vocab_en_to_ja",
+      "prompt": "I enjoy the entire process: watching the steam rise from the kettle, pouring the hot water gently over the loose leaves, and waiting for the color to turn a beautiful, vibrant green.",
+      "target_word": "vibrant",
+      "answer": "鮮やかな",
+      "source_item_id": "VOCAB-065"
+    },
+    {
+      "id": "Q-0249",
+      "type": "vocab_meaning_mc",
+      "prompt": "'extravagant' の意味として最も近いものは？",
+      "answer": "贅沢な",
+      "choices": [
+        "盆栽",
+        "神聖な",
+        "不安",
+        "贅沢な"
+      ],
+      "source_item_id": "VOCAB-066"
+    },
+    {
+      "id": "Q-0250",
+      "type": "vocab_en_to_ja",
+      "prompt": "It teaches me that we don't need extravagant things to find peace; a single cup of tea, enjoyed with full awareness, is more than enough.",
+      "target_word": "extravagant",
+      "answer": "贅沢な",
+      "source_item_id": "VOCAB-066"
+    },
+    {
+      "id": "Q-0251",
+      "type": "vocab_meaning_mc",
+      "prompt": "'embody' の意味として最も近いものは？",
+      "answer": "体現する",
+      "choices": [
+        "現れる",
+        "散らかった",
+        "体現する",
+        "レンズ、視点"
+      ],
+      "source_item_id": "VOCAB-067"
+    },
+    {
+      "id": "Q-0252",
+      "type": "vocab_en_to_ja",
+      "prompt": "This word is useful for talking about embody.",
+      "target_word": "embody",
+      "answer": "体現する",
+      "source_item_id": "VOCAB-067"
+    },
+    {
+      "id": "Q-0253",
+      "type": "vocab_meaning_mc",
+      "prompt": "'gratitude' の意味として最も近いものは？",
+      "answer": "感謝",
+      "choices": [
+        "環境",
+        "リズム",
+        "感謝",
+        "広げる"
+      ],
+      "source_item_id": "VOCAB-068"
+    },
+    {
+      "id": "Q-0254",
+      "type": "vocab_en_to_ja",
+      "prompt": "It embodies a deep sense of gratitude and respect for the resources around us, expressing regret when the true value of an object is discarded without care.",
+      "target_word": "gratitude",
+      "answer": "感謝",
+      "source_item_id": "VOCAB-068"
+    },
+    {
+      "id": "Q-0255",
+      "type": "vocab_meaning_mc",
+      "prompt": "'resource' の意味として最も近いものは？",
+      "answer": "資源",
+      "choices": [
+        "いら立たしい",
+        "育てる",
+        "優れている",
+        "資源"
+      ],
+      "source_item_id": "VOCAB-069"
+    },
+    {
+      "id": "Q-0256",
+      "type": "vocab_en_to_ja",
+      "prompt": "It embodies a deep sense of gratitude and respect for the resources around us, expressing regret when the true value of an object is discarded without care.",
+      "target_word": "resource",
+      "answer": "資源",
+      "source_item_id": "VOCAB-069"
+    },
+    {
+      "id": "Q-0257",
+      "type": "vocab_meaning_mc",
+      "prompt": "'consumption' の意味として最も近いものは？",
+      "answer": "消費",
+      "choices": [
+        "無常、儚さ",
+        "消費",
+        "資源",
+        "普遍的な"
+      ],
+      "source_item_id": "VOCAB-070"
+    },
+    {
+      "id": "Q-0258",
+      "type": "vocab_en_to_ja",
+      "prompt": "I try to practice this philosophy in my daily life, whether it is finishing every grain of rice on my plate, repairing an old tool instead of throwing it away, or being mindful of my energy consumption.",
+      "target_word": "consumption",
+      "answer": "消費",
+      "source_item_id": "VOCAB-070"
+    },
+    {
+      "id": "Q-0259",
+      "type": "vocab_meaning_mc",
+      "prompt": "'inherently' の意味として最も近いものは？",
+      "answer": "本質的に",
+      "choices": [
+        "本質的に",
+        "散らかった",
+        "普遍的な",
+        "地域社会"
+      ],
+      "source_item_id": "VOCAB-071"
+    },
+    {
+      "id": "Q-0260",
+      "type": "vocab_en_to_ja",
+      "prompt": "There is something inherently romantic about traveling by train.",
+      "target_word": "inherently",
+      "answer": "本質的に",
+      "source_item_id": "VOCAB-071"
+    },
+    {
+      "id": "Q-0261",
+      "type": "vocab_meaning_mc",
+      "prompt": "'transition' の意味として最も近いものは？",
+      "answer": "移り変わり",
+      "choices": [
+        "威厳のある",
+        "移り変わり",
+        "視点",
+        "柔軟な"
+      ],
+      "source_item_id": "VOCAB-072"
+    },
+    {
+      "id": "Q-0262",
+      "type": "vocab_en_to_ja",
+      "prompt": "Unlike airplanes, which instantly transport you from one point to another without any sense of scale, a train journey allows you to experience the transition of the landscape.",
+      "target_word": "transition",
+      "answer": "移り変わり",
+      "source_item_id": "VOCAB-072"
+    },
+    {
+      "id": "Q-0263",
+      "type": "vocab_meaning_mc",
+      "prompt": "'landscape' の意味として最も近いものは？",
+      "answer": "風景",
+      "choices": [
+        "逃げ場、気分転換",
+        "風景",
+        "古い時代の、年代物の",
+        "優雅な"
+      ],
+      "source_item_id": "VOCAB-073"
+    },
+    {
+      "id": "Q-0264",
+      "type": "vocab_en_to_ja",
+      "prompt": "Unlike airplanes, which instantly transport you from one point to another without any sense of scale, a train journey allows you to experience the transition of the landscape.",
+      "target_word": "landscape",
+      "answer": "風景",
+      "source_item_id": "VOCAB-073"
+    },
+    {
+      "id": "Q-0265",
+      "type": "vocab_meaning_mc",
+      "prompt": "'destination' の意味として最も近いものは？",
+      "answer": "目的地",
+      "choices": [
+        "境界",
+        "磨く、改善する",
+        "吸収する",
+        "目的地"
+      ],
+      "source_item_id": "VOCAB-074"
+    },
+    {
+      "id": "Q-0266",
+      "type": "vocab_en_to_ja",
+      "prompt": "A train journey reminds us that travel is not just about reaching a destination quickly, but about appreciating the beauty of the journey itself.",
+      "target_word": "destination",
+      "answer": "目的地",
+      "source_item_id": "VOCAB-074"
+    },
+    {
+      "id": "Q-0267",
+      "type": "vocab_meaning_mc",
+      "prompt": "'overvalue' の意味として最も近いものは？",
+      "answer": "過大評価する",
+      "choices": [
+        "過大評価する",
+        "努力を要しない",
+        "側面",
+        "満足"
+      ],
+      "source_item_id": "VOCAB-075"
+    },
+    {
+      "id": "Q-0268",
+      "type": "vocab_en_to_ja",
+      "prompt": "Society often overvalues youth and speed, viewing aging as a process of gradual decline.",
+      "target_word": "overvalue",
+      "answer": "過大評価する",
+      "source_item_id": "VOCAB-075"
+    },
+    {
+      "id": "Q-0269",
+      "type": "vocab_meaning_mc",
+      "prompt": "'decline' の意味として最も近いものは？",
+      "answer": "衰え",
+      "choices": [
+        "調和",
+        "資源",
+        "衰え",
+        "安定"
+      ],
+      "source_item_id": "VOCAB-076"
+    },
+    {
+      "id": "Q-0270",
+      "type": "vocab_en_to_ja",
+      "prompt": "Society often overvalues youth and speed, viewing aging as a process of gradual decline.",
+      "target_word": "decline",
+      "answer": "衰え",
+      "source_item_id": "VOCAB-076"
+    },
+    {
+      "id": "Q-0271",
+      "type": "vocab_meaning_mc",
+      "prompt": "'stability' の意味として最も近いものは？",
+      "answer": "安定",
+      "choices": [
+        "アセンブリ言語",
+        "逃げ場、気分転換",
+        "安定",
+        "潜在意識"
+      ],
+      "source_item_id": "VOCAB-077"
+    },
+    {
+      "id": "Q-0272",
+      "type": "vocab_en_to_ja",
+      "prompt": "However, I believe that growing older brings a unique kind of wealth that youth can never possess: perspective and emotional stability.",
+      "target_word": "stability",
+      "answer": "安定",
+      "source_item_id": "VOCAB-077"
+    },
+    {
+      "id": "Q-0273",
+      "type": "vocab_meaning_mc",
+      "prompt": "'anxiety' の意味として最も近いものは？",
+      "answer": "不安",
+      "choices": [
+        "不安",
+        "本物の",
+        "指揮者",
+        "経年変化の艶"
+      ],
+      "source_item_id": "VOCAB-078"
+    },
+    {
+      "id": "Q-0274",
+      "type": "vocab_en_to_ja",
+      "prompt": "This word is useful for talking about anxiety.",
+      "target_word": "anxiety",
+      "answer": "不安",
+      "source_item_id": "VOCAB-078"
+    },
+    {
+      "id": "Q-0275",
+      "type": "vocab_meaning_mc",
+      "prompt": "'wisdom' の意味として最も近いものは？",
+      "answer": "知恵",
+      "choices": [
+        "磨く、改善する",
+        "微妙な",
+        "知恵",
+        "発音"
+      ],
+      "source_item_id": "VOCAB-079"
+    },
+    {
+      "id": "Q-0276",
+      "type": "vocab_en_to_ja",
+      "prompt": "We have accumulated decades of experiences, mistakes, and lessons, which combine to form a deep well of practical wisdom.",
+      "target_word": "wisdom",
+      "answer": "知恵",
+      "source_item_id": "VOCAB-079"
+    },
+    {
+      "id": "Q-0277",
+      "type": "vocab_meaning_mc",
+      "prompt": "'grace' の意味として最も近いものは？",
+      "answer": "優雅さ",
+      "choices": [
+        "憂うつな",
+        "根本的な",
+        "優雅さ",
+        "無常、儚さ"
+      ],
+      "source_item_id": "VOCAB-080"
+    },
+    {
+      "id": "Q-0278",
+      "type": "vocab_en_to_ja",
+      "prompt": "This allows us to look at the world with calmer eyes and navigate challenges with a sense of grace and patience.",
+      "target_word": "grace",
+      "answer": "優雅さ",
+      "source_item_id": "VOCAB-080"
+    },
+    {
+      "id": "Q-0279",
+      "type": "vocab_meaning_mc",
+      "prompt": "'stunning' の意味として最も近いものは？",
+      "answer": "見事な",
+      "choices": [
+        "見事な",
+        "優雅さ",
+        "控えめな",
+        "大切にする"
+      ],
+      "source_item_id": "VOCAB-081"
+    },
+    {
+      "id": "Q-0280",
+      "type": "vocab_en_to_ja",
+      "prompt": "Autumn is a time of harvest and stunning red maple leaves, while winter offers crisp, clear air and cozy evenings at home.",
+      "target_word": "stunning",
+      "answer": "見事な",
+      "source_item_id": "VOCAB-081"
+    },
+    {
+      "id": "Q-0281",
+      "type": "vocab_meaning_mc",
+      "prompt": "'canvas' の意味として最も近いものは？",
+      "answer": "キャンバス",
+      "choices": [
+        "達成",
+        "視点",
+        "拡大する",
+        "キャンバス"
+      ],
+      "source_item_id": "VOCAB-082"
+    },
+    {
+      "id": "Q-0282",
+      "type": "vocab_en_to_ja",
+      "prompt": "Every year, the arrival of autumn turns the landscape into a stunning canvas of red, orange, and gold.",
+      "target_word": "canvas",
+      "answer": "キャンバス",
+      "source_item_id": "VOCAB-082"
+    },
+    {
+      "id": "Q-0283",
+      "type": "vocab_meaning_mc",
+      "prompt": "'graceful' の意味として最も近いものは？",
+      "answer": "優雅な",
+      "choices": [
+        "共感",
+        "アルバム",
+        "柔軟な",
+        "優雅な"
+      ],
+      "source_item_id": "VOCAB-083"
+    },
+    {
+      "id": "Q-0284",
+      "type": "vocab_en_to_ja",
+      "prompt": "What I find most beautiful about autumn leaves is that they show us how graceful letting go can be.",
+      "target_word": "graceful",
+      "answer": "優雅な",
+      "source_item_id": "VOCAB-083"
+    },
+    {
+      "id": "Q-0285",
+      "type": "vocab_meaning_mc",
+      "prompt": "'shed' の意味として最も近いものは？",
+      "answer": "落とす、脱ぎ捨てる",
+      "choices": [
+        "解毒剤、対抗策",
+        "本物の",
+        "落とす、脱ぎ捨てる",
+        "表す"
+      ],
+      "source_item_id": "VOCAB-084"
+    },
+    {
+      "id": "Q-0286",
+      "type": "vocab_en_to_ja",
+      "prompt": "This word is useful for talking about shed.",
+      "target_word": "shed",
+      "answer": "落とす、脱ぎ捨てる",
+      "source_item_id": "VOCAB-084"
+    },
+    {
+      "id": "Q-0287",
+      "type": "vocab_meaning_mc",
+      "prompt": "'universal' の意味として最も近いものは？",
+      "answer": "普遍的な",
+      "choices": [
+        "便利な",
+        "普遍的な",
+        "上流へ",
+        "貴重な"
+      ],
+      "source_item_id": "VOCAB-085"
+    },
+    {
+      "id": "Q-0288",
+      "type": "vocab_en_to_ja",
+      "prompt": "A simple smile is perhaps the most universal and effortless form of human communication.",
+      "target_word": "universal",
+      "answer": "普遍的な",
+      "source_item_id": "VOCAB-085"
+    },
+    {
+      "id": "Q-0289",
+      "type": "vocab_meaning_mc",
+      "prompt": "'effortless' の意味として最も近いものは？",
+      "answer": "努力を要しない",
+      "choices": [
+        "解毒剤、対抗策",
+        "努力を要しない",
+        "さらさら音",
+        "見事な"
+      ],
+      "source_item_id": "VOCAB-086"
+    },
+    {
+      "id": "Q-0290",
+      "type": "vocab_en_to_ja",
+      "prompt": "A simple smile is perhaps the most universal and effortless form of human communication.",
+      "target_word": "effortless",
+      "answer": "努力を要しない",
+      "source_item_id": "VOCAB-086"
+    },
+    {
+      "id": "Q-0291",
+      "type": "vocab_meaning_mc",
+      "prompt": "'barrier' の意味として最も近いものは？",
+      "answer": "障壁",
+      "choices": [
+        "基礎的な",
+        "強い興味",
+        "神秘",
+        "障壁"
+      ],
+      "source_item_id": "VOCAB-087"
+    },
+    {
+      "id": "Q-0292",
+      "type": "vocab_en_to_ja",
+      "prompt": "It breaks down unspoken barriers and sends a silent message of goodwill and safety.",
+      "target_word": "barrier",
+      "answer": "障壁",
+      "source_item_id": "VOCAB-087"
+    },
+    {
+      "id": "Q-0293",
+      "type": "vocab_meaning_mc",
+      "prompt": "'goodwill' の意味として最も近いものは？",
+      "answer": "善意",
+      "choices": [
+        "色あせた",
+        "航路、経路",
+        "香り",
+        "善意"
+      ],
+      "source_item_id": "VOCAB-088"
+    },
+    {
+      "id": "Q-0294",
+      "type": "vocab_en_to_ja",
+      "prompt": "It breaks down unspoken barriers and sends a silent message of goodwill and safety.",
+      "target_word": "goodwill",
+      "answer": "善意",
+      "source_item_id": "VOCAB-088"
+    },
+    {
+      "id": "Q-0295",
+      "type": "vocab_meaning_mc",
+      "prompt": "'gloomy' の意味として最も近いものは？",
+      "answer": "憂うつな",
+      "choices": [
+        "好奇心",
+        "憂うつな",
+        "鮮やかな",
+        "祖先"
+      ],
+      "source_item_id": "VOCAB-089"
+    },
+    {
+      "id": "Q-0296",
+      "type": "vocab_en_to_ja",
+      "prompt": "Many people feel gloomy when it rains, but I have always found a peculiar kind of comfort in rainy days.",
+      "target_word": "gloomy",
+      "answer": "憂うつな",
+      "source_item_id": "VOCAB-089"
+    },
+    {
+      "id": "Q-0297",
+      "type": "vocab_meaning_mc",
+      "prompt": "'peculiar' の意味として最も近いものは？",
+      "answer": "独特な",
+      "choices": [
+        "材料",
+        "吸収する",
+        "自動的な",
+        "独特な"
+      ],
+      "source_item_id": "VOCAB-090"
+    },
+    {
+      "id": "Q-0298",
+      "type": "vocab_en_to_ja",
+      "prompt": "Many people feel gloomy when it rains, but I have always found a peculiar kind of comfort in rainy days.",
+      "target_word": "peculiar",
+      "answer": "独特な",
+      "source_item_id": "VOCAB-090"
+    },
+    {
+      "id": "Q-0299",
+      "type": "vocab_meaning_mc",
+      "prompt": "'boundary' の意味として最も近いものは？",
+      "answer": "境界",
+      "choices": [
+        "風景",
+        "境界",
+        "ぼやけた",
+        "調和"
+      ],
+      "source_item_id": "VOCAB-091"
+    },
+    {
+      "id": "Q-0300",
+      "type": "vocab_en_to_ja",
+      "prompt": "When the rain falls steadily outside, it creates a natural boundary between my home and the busy world.",
+      "target_word": "boundary",
+      "answer": "境界",
+      "source_item_id": "VOCAB-091"
+    },
+    {
+      "id": "Q-0301",
+      "type": "vocab_meaning_mc",
+      "prompt": "'rhythmic' の意味として最も近いものは？",
+      "answer": "リズミカルな",
+      "choices": [
+        "リズミカルな",
+        "慣習",
+        "川岸",
+        "過大評価する"
+      ],
+      "source_item_id": "VOCAB-092"
+    },
+    {
+      "id": "Q-0302",
+      "type": "vocab_en_to_ja",
+      "prompt": "The rhythmic, steady sound of the train on the tracks is incredibly soothing and creates a perfect space for reflection or reading.",
+      "target_word": "rhythmic",
+      "answer": "リズミカルな",
+      "source_item_id": "VOCAB-092"
+    },
+    {
+      "id": "Q-0303",
+      "type": "vocab_meaning_mc",
+      "prompt": "'geometry' の意味として最も近いものは？",
+      "answer": "幾何学",
+      "choices": [
+        "思いやり",
+        "幾何学",
+        "抑制",
+        "セミ"
+      ],
+      "source_item_id": "VOCAB-093"
+    },
+    {
+      "id": "Q-0304",
+      "type": "vocab_en_to_ja",
+      "prompt": "The Japanese bento box is not just a convenient container for lunch; it is a beautiful example of practical geometry and cultural aesthetics.",
+      "target_word": "geometry",
+      "answer": "幾何学",
+      "source_item_id": "VOCAB-093"
+    },
+    {
+      "id": "Q-0305",
+      "type": "vocab_meaning_mc",
+      "prompt": "'aesthetics' の意味として最も近いものは？",
+      "answer": "美意識",
+      "choices": [
+        "美意識",
+        "独特な",
+        "平和な、穏やかな",
+        "色あせた"
+      ],
+      "source_item_id": "VOCAB-094"
+    },
+    {
+      "id": "Q-0306",
+      "type": "vocab_en_to_ja",
+      "prompt": "The Japanese bento box is not just a convenient container for lunch; it is a beautiful example of practical geometry and cultural aesthetics.",
+      "target_word": "aesthetics",
+      "answer": "美意識",
+      "source_item_id": "VOCAB-094"
+    },
+    {
+      "id": "Q-0307",
+      "type": "vocab_meaning_mc",
+      "prompt": "'nutritional' の意味として最も近いものは？",
+      "answer": "栄養の",
+      "choices": [
+        "平和な、穏やかな",
+        "落とす、脱ぎ捨てる",
+        "栄養の",
+        "視点"
+      ],
+      "source_item_id": "VOCAB-095"
+    },
+    {
+      "id": "Q-0308",
+      "type": "vocab_en_to_ja",
+      "prompt": "Packing a bento requires a delicate balance of colors, nutritional value, and space efficiency.",
+      "target_word": "nutritional",
+      "answer": "栄養の",
+      "source_item_id": "VOCAB-095"
+    },
+    {
+      "id": "Q-0309",
+      "type": "vocab_meaning_mc",
+      "prompt": "'arrangement' の意味として最も近いものは？",
+      "answer": "配置",
+      "choices": [
+        "ファインダー",
+        "共感",
+        "配置",
+        "拡大する"
+      ],
+      "source_item_id": "VOCAB-096"
+    },
+    {
+      "id": "Q-0310",
+      "type": "vocab_en_to_ja",
+      "prompt": "Every item must be placed tightly so that the beautiful arrangement doesn't fall apart during transport.",
+      "target_word": "arrangement",
+      "answer": "配置",
+      "source_item_id": "VOCAB-096"
+    },
+    {
+      "id": "Q-0311",
+      "type": "vocab_meaning_mc",
+      "prompt": "'miniature' の意味として最も近いものは？",
+      "answer": "小型の",
+      "choices": [
+        "小型の",
+        "明確な、はっきりした",
+        "比喩",
+        "渦巻き"
+      ],
+      "source_item_id": "VOCAB-097"
+    },
+    {
+      "id": "Q-0312",
+      "type": "vocab_en_to_ja",
+      "prompt": "I find something deeply satisfying about this miniature world.",
+      "target_word": "miniature",
+      "answer": "小型の",
+      "source_item_id": "VOCAB-097"
+    },
+    {
+      "id": "Q-0313",
+      "type": "vocab_meaning_mc",
+      "prompt": "'mystery' の意味として最も近いものは？",
+      "answer": "神秘",
+      "choices": [
+        "指揮棒",
+        "神秘",
+        "ハードウェア",
+        "るつぼ、多文化の混合"
+      ],
+      "source_item_id": "VOCAB-098"
+    },
+    {
+      "id": "Q-0314",
+      "type": "vocab_en_to_ja",
+      "prompt": "This word is useful for talking about mystery.",
+      "target_word": "mystery",
+      "answer": "神秘",
+      "source_item_id": "VOCAB-098"
+    },
+    {
+      "id": "Q-0315",
+      "type": "vocab_meaning_mc",
+      "prompt": "'chirping' の意味として最も近いものは？",
+      "answer": "さえずり",
+      "choices": [
+        "錨、支え",
+        "さえずり",
+        "いら立たしい",
+        "渦巻き"
+      ],
+      "source_item_id": "VOCAB-099"
+    },
+    {
+      "id": "Q-0316",
+      "type": "vocab_en_to_ja",
+      "prompt": "The simple sound of wind rustling through the trees and birds chirping overhead acts as a natural reset for my mind.",
+      "target_word": "chirping",
+      "answer": "さえずり",
+      "source_item_id": "VOCAB-099"
+    },
+    {
+      "id": "Q-0317",
+      "type": "vocab_meaning_mc",
+      "prompt": "'communicate' の意味として最も近いものは？",
+      "answer": "伝える",
+      "choices": [
+        "やりがいのある",
+        "渦巻き",
+        "伝える",
+        "解決策"
+      ],
+      "source_item_id": "VOCAB-100"
+    },
+    {
+      "id": "Q-0318",
+      "type": "vocab_en_to_ja",
+      "prompt": "Over the course of my life, the way humans communicate with one another has transformed completely.",
+      "target_word": "communicate",
+      "answer": "伝える",
+      "source_item_id": "VOCAB-100"
+    },
+    {
+      "id": "Q-0319",
+      "type": "vocab_meaning_mc",
+      "prompt": "'creature' の意味として最も近いものは？",
+      "answer": "生き物",
+      "choices": [
+        "好奇心",
+        "生き物",
+        "思いやり",
+        "鮮やかな"
+      ],
+      "source_item_id": "VOCAB-101"
+    },
+    {
+      "id": "Q-0320",
+      "type": "vocab_en_to_ja",
+      "prompt": "Listening to them reminds me that we share our neighborhoods with countless complex creatures.",
+      "target_word": "creature",
+      "answer": "生き物",
+      "source_item_id": "VOCAB-101"
+    },
+    {
+      "id": "Q-0321",
+      "type": "vocab_meaning_mc",
+      "prompt": "'comprehend' の意味として最も近いものは？",
+      "answer": "理解する",
+      "choices": [
+        "キャンバス",
+        "文脈",
+        "現れる",
+        "理解する"
+      ],
+      "source_item_id": "VOCAB-102"
+    },
+    {
+      "id": "Q-0322",
+      "type": "vocab_en_to_ja",
+      "prompt": "It humbles me to realize that there are beautiful conversations happening all around us that humans cannot fully comprehend.",
+      "target_word": "comprehend",
+      "answer": "理解する",
+      "source_item_id": "VOCAB-102"
+    },
+    {
+      "id": "Q-0323",
+      "type": "vocab_meaning_mc",
+      "prompt": "'productivity' の意味として最も近いものは？",
+      "answer": "生産性",
+      "choices": [
+        "動機づけ",
+        "即時の",
+        "比喩",
+        "生産性"
+      ],
+      "source_item_id": "VOCAB-103"
+    },
+    {
+      "id": "Q-0324",
+      "type": "vocab_en_to_ja",
+      "prompt": "In today's fast-paced world, being constantly busy is often praised as a sign of success and productivity.",
+      "target_word": "productivity",
+      "answer": "生産性",
+      "source_item_id": "VOCAB-103"
+    },
+    {
+      "id": "Q-0325",
+      "type": "vocab_meaning_mc",
+      "prompt": "'creativity' の意味として最も近いものは？",
+      "answer": "創造性",
+      "choices": [
+        "季節の",
+        "さえずり",
+        "創造性",
+        "価値を認める、感謝する"
+      ],
+      "source_item_id": "VOCAB-104"
+    },
+    {
+      "id": "Q-0326",
+      "type": "vocab_en_to_ja",
+      "prompt": "However, I have learned that the ability to take proper breaks is just as important for our long-term creativity and well-being.",
+      "target_word": "creativity",
+      "answer": "創造性",
+      "source_item_id": "VOCAB-104"
+    },
+    {
+      "id": "Q-0327",
+      "type": "vocab_meaning_mc",
+      "prompt": "'rigid' の意味として最も近いものは？",
+      "answer": "硬直した",
+      "choices": [
+        "文脈",
+        "硬直した",
+        "義務",
+        "便利な"
+      ],
+      "source_item_id": "VOCAB-105"
+    },
+    {
+      "id": "Q-0328",
+      "type": "vocab_en_to_ja",
+      "prompt": "When we push our brains too hard without stopping, our thinking becomes rigid and dry.",
+      "target_word": "rigid",
+      "answer": "硬直した",
+      "source_item_id": "VOCAB-105"
+    },
+    {
+      "id": "Q-0329",
+      "type": "vocab_meaning_mc",
+      "prompt": "'subconscious' の意味として最も近いものは？",
+      "answer": "潜在意識",
+      "choices": [
+        "避難所",
+        "抑制",
+        "風景",
+        "潜在意識"
+      ],
+      "source_item_id": "VOCAB-106"
+    },
+    {
+      "id": "Q-0330",
+      "type": "vocab_en_to_ja",
+      "prompt": "Taking a short walk, stepping away from the screen, or simply doing nothing for ten minutes allows the subconscious mind to rest and re-organize.",
+      "target_word": "subconscious",
+      "answer": "潜在意識",
+      "source_item_id": "VOCAB-106"
+    },
+    {
+      "id": "Q-0331",
+      "type": "vocab_meaning_mc",
+      "prompt": "'solution' の意味として最も近いものは？",
+      "answer": "解決策",
+      "choices": [
+        "磨く、改善する",
+        "衰え",
+        "解決策",
+        "幾何学"
+      ],
+      "source_item_id": "VOCAB-107"
+    },
+    {
+      "id": "Q-0332",
+      "type": "vocab_en_to_ja",
+      "prompt": "Often, the best ideas and solutions to difficult problems appear not when we are staring intensely at our work, but during these moments of quiet pause.",
+      "target_word": "solution",
+      "answer": "解決策",
+      "source_item_id": "VOCAB-107"
+    },
+    {
+      "id": "Q-0333",
+      "type": "vocab_meaning_mc",
+      "prompt": "'album' の意味として最も近いものは？",
+      "answer": "アルバム",
+      "choices": [
+        "しおれる",
+        "解毒剤、対抗策",
+        "アルバム",
+        "明晰さ"
+      ],
+      "source_item_id": "VOCAB-108"
+    },
+    {
+      "id": "Q-0334",
+      "type": "vocab_en_to_ja",
+      "prompt": "The other day, I was cleaning my study and came across an old, dusty photo album from decades ago.",
+      "target_word": "album",
+      "answer": "アルバム",
+      "source_item_id": "VOCAB-108"
+    },
+    {
+      "id": "Q-0335",
+      "type": "vocab_meaning_mc",
+      "prompt": "'faded' の意味として最も近いものは？",
+      "answer": "色あせた",
+      "choices": [
+        "色あせた",
+        "ハードウェア",
+        "幾何学",
+        "控えめな"
+      ],
+      "source_item_id": "VOCAB-109"
+    },
+    {
+      "id": "Q-0336",
+      "type": "vocab_en_to_ja",
+      "prompt": "Looking at those faded, physical photographs instantly brought back a flood of vivid memories and emotions.",
+      "target_word": "faded",
+      "answer": "色あせた",
+      "source_item_id": "VOCAB-109"
+    },
+    {
+      "id": "Q-0337",
+      "type": "vocab_meaning_mc",
+      "prompt": "'precious' の意味として最も近いものは？",
+      "answer": "貴重な",
+      "choices": [
+        "貴重な",
+        "散らかった",
+        "くつろぐ",
+        "るつぼ、多文化の混合"
+      ],
+      "source_item_id": "VOCAB-110"
+    },
+    {
+      "id": "Q-0338",
+      "type": "vocab_en_to_ja",
+      "prompt": "In those days, we couldn't take hundreds of digital photos instantly; every shot was precious because film was limited.",
+      "target_word": "precious",
+      "answer": "貴重な",
+      "source_item_id": "VOCAB-110"
+    },
+    {
+      "id": "Q-0339",
+      "type": "vocab_meaning_mc",
+      "prompt": "'blurry' の意味として最も近いものは？",
+      "answer": "ぼやけた",
+      "choices": [
+        "明確な、はっきりした",
+        "磨く、改善する",
+        "強い興味",
+        "ぼやけた"
+      ],
+      "source_item_id": "VOCAB-111"
+    },
+    {
+      "id": "Q-0340",
+      "type": "vocab_en_to_ja",
+      "prompt": "Some photos were a little blurry or poorly framed, but those imperfections actually made them feel much more authentic and nostalgic.",
+      "target_word": "blurry",
+      "answer": "ぼやけた",
+      "source_item_id": "VOCAB-111"
+    },
+    {
+      "id": "Q-0341",
+      "type": "vocab_meaning_mc",
+      "prompt": "'authentic' の意味として最も近いものは？",
+      "answer": "本物の",
+      "choices": [
+        "微妙な",
+        "曲がった",
+        "本物の",
+        "温かく迎える"
+      ],
+      "source_item_id": "VOCAB-112"
+    },
+    {
+      "id": "Q-0342",
+      "type": "vocab_en_to_ja",
+      "prompt": "Some photos were a little blurry or poorly framed, but those imperfections actually made them feel much more authentic and nostalgic.",
+      "target_word": "authentic",
+      "answer": "本物の",
+      "source_item_id": "VOCAB-112"
+    },
+    {
+      "id": "Q-0343",
+      "type": "vocab_meaning_mc",
+      "prompt": "'beginner' の意味として最も近いものは？",
+      "answer": "初心者",
+      "choices": [
+        "キャンバス",
+        "優雅な",
+        "初心者",
+        "理解する"
+      ],
+      "source_item_id": "VOCAB-113"
+    },
+    {
+      "id": "Q-0344",
+      "type": "vocab_en_to_ja",
+      "prompt": "There is a special kind of excitement that comes from being a complete beginner at something, no matter your age.",
+      "target_word": "beginner",
+      "answer": "初心者",
+      "source_item_id": "VOCAB-113"
+    },
+    {
+      "id": "Q-0345",
+      "type": "vocab_meaning_mc",
+      "prompt": "'frustrating' の意味として最も近いものは？",
+      "answer": "いら立たしい",
+      "choices": [
+        "質感",
+        "指揮者",
+        "川岸",
+        "いら立たしい"
+      ],
+      "source_item_id": "VOCAB-114"
+    },
+    {
+      "id": "Q-0346",
+      "type": "vocab_en_to_ja",
+      "prompt": "It can be frustrating at first when things don't work perfectly, but the moment of sudden understanding is incredibly rewarding.",
+      "target_word": "frustrating",
+      "answer": "いら立たしい",
+      "source_item_id": "VOCAB-114"
+    },
+    {
+      "id": "Q-0347",
+      "type": "vocab_meaning_mc",
+      "prompt": "'embrace' の意味として最も近いものは？",
+      "answer": "受け入れる",
+      "choices": [
+        "普遍的な",
+        "落とす、脱ぎ捨てる",
+        "経年変化の艶",
+        "受け入れる"
+      ],
+      "source_item_id": "VOCAB-115"
+    },
+    {
+      "id": "Q-0348",
+      "type": "vocab_en_to_ja",
+      "prompt": "This word is useful for talking about embrace.",
+      "target_word": "embrace",
+      "answer": "受け入れる",
+      "source_item_id": "VOCAB-115"
+    },
+    {
+      "id": "Q-0349",
+      "type": "vocab_meaning_mc",
+      "prompt": "'flexible' の意味として最も近いものは？",
+      "answer": "柔軟な",
+      "choices": [
+        "根本的な",
+        "柔軟な",
+        "セミ",
+        "避難所"
+      ],
+      "source_item_id": "VOCAB-116"
+    },
+    {
+      "id": "Q-0350",
+      "type": "vocab_en_to_ja",
+      "prompt": "Embracing the status of a beginner keeps our minds flexible, humble, and young.",
+      "target_word": "flexible",
+      "answer": "柔軟な",
+      "source_item_id": "VOCAB-116"
+    },
+    {
+      "id": "Q-0351",
+      "type": "vocab_meaning_mc",
+      "prompt": "'bonsai' の意味として最も近いものは？",
+      "answer": "盆栽",
+      "choices": [
+        "生産性",
+        "神秘",
+        "盆栽",
+        "花、開花する"
+      ],
+      "source_item_id": "VOCAB-117"
+    },
+    {
+      "id": "Q-0352",
+      "type": "vocab_en_to_ja",
+      "prompt": "A bonsai tree is far more than just a small plant in a shallow pot; it is a living piece of art and philosophy.",
+      "target_word": "bonsai",
+      "answer": "盆栽",
+      "source_item_id": "VOCAB-117"
+    },
+    {
+      "id": "Q-0353",
+      "type": "vocab_meaning_mc",
+      "prompt": "'shallow' の意味として最も近いものは？",
+      "answer": "浅い",
+      "choices": [
+        "共感",
+        "頑丈な",
+        "浅い",
+        "本質的に"
+      ],
+      "source_item_id": "VOCAB-118"
+    },
+    {
+      "id": "Q-0354",
+      "type": "vocab_en_to_ja",
+      "prompt": "A bonsai tree is far more than just a small plant in a shallow pot; it is a living piece of art and philosophy.",
+      "target_word": "shallow",
+      "answer": "浅い",
+      "source_item_id": "VOCAB-118"
+    },
+    {
+      "id": "Q-0355",
+      "type": "vocab_meaning_mc",
+      "prompt": "'pruning' の意味として最も近いものは？",
+      "answer": "剪定",
+      "choices": [
+        "落とす、脱ぎ捨てる",
+        "全体を覆う",
+        "剪定",
+        "観察力のある"
+      ],
+      "source_item_id": "VOCAB-119"
+    },
+    {
+      "id": "Q-0356",
+      "type": "vocab_en_to_ja",
+      "prompt": "Through careful pruning and shaping, a bonsai artist guides the tree to express the majestic spirit of a giant ancient tree in nature.",
+      "target_word": "pruning",
+      "answer": "剪定",
+      "source_item_id": "VOCAB-119"
+    },
+    {
+      "id": "Q-0357",
+      "type": "vocab_meaning_mc",
+      "prompt": "'majestic' の意味として最も近いものは？",
+      "answer": "威厳のある",
+      "choices": [
+        "達成",
+        "好奇心",
+        "威厳のある",
+        "習慣、日課"
+      ],
+      "source_item_id": "VOCAB-120"
+    },
+    {
+      "id": "Q-0358",
+      "type": "vocab_en_to_ja",
+      "prompt": "Through careful pruning and shaping, a bonsai artist guides the tree to express the majestic spirit of a giant ancient tree in nature.",
+      "target_word": "majestic",
+      "answer": "威厳のある",
+      "source_item_id": "VOCAB-120"
+    }
+  ]
+}

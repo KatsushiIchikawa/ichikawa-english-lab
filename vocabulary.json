@@ -1,0 +1,3175 @@
+{
+  "metadata": {
+    "project": "Ichikawa English Lab",
+    "source": "Ichikawa_English_Lab_Master_Data.docx",
+    "source_essay_count": 46,
+    "generated": "2026-07-01",
+    "note": "Initial learning dataset generated from the IceBreak master archive. Meanings and examples are designed for Japanese adult English learners."
+  },
+  "vocabulary": [
+    {
+      "id": "VOCAB-001",
+      "word": "peaceful",
+      "meaning_ja": "平和な、穏やかな",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It is a very peaceful and convenient place located just north of Tokyo.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "It is a very peaceful and convenient place located just north of Tokyo."
+        },
+        {
+          "source_id": 6,
+          "title_en": "The Importance of a Morning Routine",
+          "sentence": "This peaceful time prevents me from feeling rushed and allows me to plan my day with a calm mind."
+        },
+        {
+          "source_id": 13,
+          "title_en": "The Pleasure of a Hot Bath",
+          "sentence": "The quiet sound of water creates a peaceful atmosphere where I can simply exist without any obligations or distractions."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-002",
+      "word": "convenient",
+      "meaning_ja": "便利な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It is a very peaceful and convenient place located just north of Tokyo.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "It is a very peaceful and convenient place located just north of Tokyo."
+        },
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "The Japanese bento box is not just a convenient container for lunch; it is a beautiful example of practical geometry and cultural aesthetics."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-003",
+      "word": "commute",
+      "meaning_ja": "通勤・通学する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "It takes only about 20 minutes to reach Ikebukuro by train, so many people commute to Tokyo for work and school.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "It takes only about 20 minutes to reach Ikebukuro by train, so many people commute to Tokyo for work and school."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-004",
+      "word": "riverbank",
+      "meaning_ja": "川岸",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-005",
+      "word": "blossom",
+      "meaning_ja": "花、開花する",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom."
+        },
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "In spring, the cherry blossoms remind us of the beauty and transience of life."
+        },
+        {
+          "source_id": 19,
+          "title_en": "The Magic of Autumn Leaves",
+          "sentence": "In Japan, the tradition of 'Momijigari' or maple leaf viewing is just as deeply loved as spring cherry blossom viewing."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-006",
+      "word": "festival",
+      "meaning_ja": "祭り",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Every summer, we have a big festival called 'Saikasai', which brings the whole community together with lively dancing and beautiful fireworks.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "Every summer, we have a big festival called 'Saikasai', which brings the whole community together with lively dancing and beautiful fireworks."
+        },
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "Summer brings the energetic sound of cicadas and traditional festivals."
+        },
+        {
+          "source_id": 37,
+          "title_en": "The Charm of Local Festivals",
+          "sentence": "Every summer, traditional local festivals, or 'matsuri', take place all over Japan."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-007",
+      "word": "community",
+      "meaning_ja": "地域社会",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Every summer, we have a big festival called 'Saikasai', which brings the whole community together with lively dancing and beautiful fireworks.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "Every summer, we have a big festival called 'Saikasai', which brings the whole community together with lively dancing and beautiful fireworks."
+        },
+        {
+          "source_id": 16,
+          "title_en": "The Meaning of 'Mottainai'",
+          "sentence": "By respecting objects, we ultimately learn to respect nature, our community, and the effort of the people who created them."
+        },
+        {
+          "source_id": 20,
+          "title_en": "The Power of a Simple Smile",
+          "sentence": "In a world that can sometimes feel cold and disconnected, carrying a gentle smile is a small but powerful way to contribute to the warmth of our community and brighten someone else's day."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-008",
+      "word": "welcoming",
+      "meaning_ja": "温かく迎える",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "I am very proud of my hometown because it is a warm and welcoming place to live.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "I am very proud of my hometown because it is a warm and welcoming place to live."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-009",
+      "word": "photography",
+      "meaning_ja": "写真撮影",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Photography has been my favorite hobby for many years.",
+      "source_occurrences": [
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "sentence": "Photography has been my favorite hobby for many years."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-010",
+      "word": "lens",
+      "meaning_ja": "レンズ、視点",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "To me, a camera is not just a tool to record facts, but a lens through which I can discover the hidden beauty of everyday life.",
+      "source_occurrences": [
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "sentence": "To me, a camera is not just a tool to record facts, but a lens through which I can discover the hidden beauty of everyday life."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-011",
+      "word": "seasonal",
+      "meaning_ja": "季節の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "I especially love taking photos of seasonal changes—the fresh green leaves of spring, the deep shadows of summer, the rich colors of autumn, and the quiet light of winter.",
+      "source_occurrences": [
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "sentence": "I especially love taking photos of seasonal changes—the fresh green leaves of spring, the deep shadows of summer, the rich colors of autumn, and the quiet light of winter."
+        },
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "I always look forward to the subtle shifts in the weather and the seasonal foods that appear in the markets."
+        },
+        {
+          "source_id": 37,
+          "title_en": "The Charm of Local Festivals",
+          "sentence": "Neighbors who rarely talk during the busy year come together to carry the portable shrine, dance the traditional bon-odori, and enjoy seasonal food stalls."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-012",
+      "word": "viewfinder",
+      "meaning_ja": "ファインダー",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "When I look through the viewfinder, time seems to slow down, and I become deeply focused on the present moment.",
+      "source_occurrences": [
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "sentence": "When I look through the viewfinder, time seems to slow down, and I become deeply focused on the present moment."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-013",
+      "word": "fleeting",
+      "meaning_ja": "儚い、一瞬の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It is a wonderful way to capture the fleeting moments of life and share my unique perspective with family and friends.",
+      "source_occurrences": [
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "sentence": "It is a wonderful way to capture the fleeting moments of life and share my unique perspective with family and friends."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-014",
+      "word": "perspective",
+      "meaning_ja": "視点",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It is a wonderful way to capture the fleeting moments of life and share my unique perspective with family and friends.",
+      "source_occurrences": [
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "sentence": "It is a wonderful way to capture the fleeting moments of life and share my unique perspective with family and friends."
+        },
+        {
+          "source_id": 8,
+          "title_en": "The Art of Listening",
+          "sentence": "When we listen deeply, we create a safe space for the other person to be heard, which strengthens our relationships and broadens our own perspectives."
+        },
+        {
+          "source_id": 18,
+          "title_en": "The Wisdom of Old Age",
+          "sentence": "However, I believe that growing older brings a unique kind of wealth that youth can never possess: perspective and emotional stability."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-015",
+      "word": "satisfying",
+      "meaning_ja": "満足感のある",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "There is something incredibly satisfying about working with wood, measuring exactly, and creating something useful with my own hands.",
+      "source_occurrences": [
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "sentence": "There is something incredibly satisfying about working with wood, measuring exactly, and creating something useful with my own hands."
+        },
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "I find something deeply satisfying about this miniature world."
+        },
+        {
+          "source_id": 42,
+          "title_en": "The Art of Preparing Coffee",
+          "sentence": "However, to me, the act of preparing coffee in the morning has evolved into a deeply satisfying art form."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-016",
+      "word": "crooked",
+      "meaning_ja": "曲がった",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It wasn't perfect—one of the shelves turned out a little bit crooked at first—but the process of fixing the mistake and finishing the piece taught me a lot of patience.",
+      "source_occurrences": [
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "sentence": "It wasn't perfect—one of the shelves turned out a little bit crooked at first—but the process of fixing the mistake and finishing the piece taught me a lot of patience."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-017",
+      "word": "patience",
+      "meaning_ja": "忍耐",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It wasn't perfect—one of the shelves turned out a little bit crooked at first—but the process of fixing the mistake and finishing the piece taught me a lot of patience.",
+      "source_occurrences": [
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "sentence": "It wasn't perfect—one of the shelves turned out a little bit crooked at first—but the process of fixing the mistake and finishing the piece taught me a lot of patience."
+        },
+        {
+          "source_id": 8,
+          "title_en": "The Art of Listening",
+          "sentence": "It requires patience and empathy to understand the emotions and context behind their words."
+        },
+        {
+          "source_id": 12,
+          "title_en": "The Philosophy of Gardening",
+          "sentence": "It requires quiet patience."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-018",
+      "word": "appreciate",
+      "meaning_ja": "価値を認める、感謝する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "In a world where everything can be bought instantly online, taking the time to design, cut, sand, and paint a piece of furniture makes me appreciate the things in my home much more.",
+      "source_occurrences": [
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "sentence": "In a world where everything can be bought instantly online, taking the time to design, cut, sand, and paint a piece of furniture makes me appreciate the things in my home much more."
+        },
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "Experiencing these changes every year connects us to nature and teaches us to appreciate the unique charm of each passing month."
+        },
+        {
+          "source_id": 14,
+          "title_en": "The Value of Handwriting",
+          "sentence": "While I appreciate the speed and convenience of typing on my iPad, I still find great value in the act of handwriting with a proper pen."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-019",
+      "word": "distinct",
+      "meaning_ja": "明確な、はっきりした",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Japan is famous for its distinct four seasons, and I think this natural cycle deeply shapes our culture and mindset.",
+      "source_occurrences": [
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "Japan is famous for its distinct four seasons, and I think this natural cycle deeply shapes our culture and mindset."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-020",
+      "word": "transience",
+      "meaning_ja": "無常、儚さ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "In spring, the cherry blossoms remind us of the beauty and transience of life.",
+      "source_occurrences": [
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "In spring, the cherry blossoms remind us of the beauty and transience of life."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-021",
+      "word": "cicada",
+      "meaning_ja": "セミ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Summer brings the energetic sound of cicadas and traditional festivals.",
+      "source_occurrences": [
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "Summer brings the energetic sound of cicadas and traditional festivals."
+        },
+        {
+          "source_id": 31,
+          "title_en": "The Rhythm of the Seasons",
+          "sentence": "Spring brings the gentle excitement of cherry blossoms, summer fills the air with the energetic sound of cicadas, autumn wraps the mountains in a stunning blanket of red and gold, and winter provides crisp, starry nights that make our homes feel like a warm sanctuary."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-022",
+      "word": "harvest",
+      "meaning_ja": "収穫",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Autumn is a time of harvest and stunning red maple leaves, while winter offers crisp, clear air and cozy evenings at home.",
+      "source_occurrences": [
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "Autumn is a time of harvest and stunning red maple leaves, while winter offers crisp, clear air and cozy evenings at home."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-023",
+      "word": "subtle",
+      "meaning_ja": "微妙な",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I always look forward to the subtle shifts in the weather and the seasonal foods that appear in the markets.",
+      "source_occurrences": [
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "I always look forward to the subtle shifts in the weather and the seasonal foods that appear in the markets."
+        },
+        {
+          "source_id": 30,
+          "title_en": "The Art of Slowing Down",
+          "sentence": "When we intentionally lower our speed, our senses become sharper, and we begin to notice the subtle details and hidden meanings around us."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-024",
+      "word": "rewarding",
+      "meaning_ja": "やりがいのある",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Starting to focus seriously on my English pronunciation and expression in my later years has been a deeply rewarding adventure.",
+      "source_occurrences": [
+        {
+          "source_id": 5,
+          "title_en": "Learning English in My Later Years",
+          "sentence": "Starting to focus seriously on my English pronunciation and expression in my later years has been a deeply rewarding adventure."
+        },
+        {
+          "source_id": 26,
+          "title_en": "The Joy of Learning Something New",
+          "sentence": "It can be frustrating at first when things don't work perfectly, but the moment of sudden understanding is incredibly rewarding."
+        },
+        {
+          "source_id": 36,
+          "title_en": "The Joy of Cooking for Oneself",
+          "sentence": "Cooking your own meal is one of the simplest yet most rewarding forms of self-care."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-025",
+      "word": "pronunciation",
+      "meaning_ja": "発音",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Starting to focus seriously on my English pronunciation and expression in my later years has been a deeply rewarding adventure.",
+      "source_occurrences": [
+        {
+          "source_id": 5,
+          "title_en": "Learning English in My Later Years",
+          "sentence": "Starting to focus seriously on my English pronunciation and expression in my later years has been a deeply rewarding adventure."
+        },
+        {
+          "source_id": 28,
+          "title_en": "The Power of Routine",
+          "sentence": "When we turn our positive habits—like morning stretching, reading, or pronunciation practice—into automatic routines, we don't have to waste mental energy deciding whether to do them each day."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-026",
+      "word": "curiosity",
+      "meaning_ja": "好奇心",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I don't feel any pressure to pass exams; instead, I learn purely for the joy of intellectual curiosity and communication.",
+      "source_occurrences": [
+        {
+          "source_id": 5,
+          "title_en": "Learning English in My Later Years",
+          "sentence": "I don't feel any pressure to pass exams; instead, I learn purely for the joy of intellectual curiosity and communication."
+        },
+        {
+          "source_id": 40,
+          "title_en": "The Mystery of the Night Sky",
+          "sentence": "The night sky reminds us that we are part of a magnificent, mysterious cosmos, and it sparks a profound sense of wonder and curiosity that keeps our minds young and open."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-027",
+      "word": "accomplishment",
+      "meaning_ja": "達成",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Every time a smart speaker or an AI text-to-speech engine perfectly recognizes my voice, I feel a great sense of accomplishment.",
+      "source_occurrences": [
+        {
+          "source_id": 5,
+          "title_en": "Learning English in My Later Years",
+          "sentence": "Every time a smart speaker or an AI text-to-speech engine perfectly recognizes my voice, I feel a great sense of accomplishment."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-028",
+      "word": "methodology",
+      "meaning_ja": "方法論",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It proves that with steady practice and the right methodology, anyone can continue to grow and sharpen their skills at any age.",
+      "source_occurrences": [
+        {
+          "source_id": 5,
+          "title_en": "Learning English in My Later Years",
+          "sentence": "It proves that with steady practice and the right methodology, anyone can continue to grow and sharpen their skills at any age."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-029",
+      "word": "routine",
+      "meaning_ja": "習慣、日課",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I have developed a simple morning routine that helps me start each day with clarity and purpose.",
+      "source_occurrences": [
+        {
+          "source_id": 6,
+          "title_en": "The Importance of a Morning Routine",
+          "sentence": "I have developed a simple morning routine that helps me start each day with clarity and purpose."
+        },
+        {
+          "source_id": 28,
+          "title_en": "The Power of Routine",
+          "sentence": "People often think of daily routines as boring or restrictive, but I believe that a well-designed routine actually gives us a great sense of freedom and stability."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-030",
+      "word": "clarity",
+      "meaning_ja": "明晰さ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I have developed a simple morning routine that helps me start each day with clarity and purpose.",
+      "source_occurrences": [
+        {
+          "source_id": 6,
+          "title_en": "The Importance of a Morning Routine",
+          "sentence": "I have developed a simple morning routine that helps me start each day with clarity and purpose."
+        },
+        {
+          "source_id": 39,
+          "title_en": "The Value of an Empty Desk",
+          "sentence": "It reminds us that productivity and creativity are not about adding more things to our lives, but about creating the space for clarity to emerge."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-031",
+      "word": "purpose",
+      "meaning_ja": "目的",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I have developed a simple morning routine that helps me start each day with clarity and purpose.",
+      "source_occurrences": [
+        {
+          "source_id": 6,
+          "title_en": "The Importance of a Morning Routine",
+          "sentence": "I have developed a simple morning routine that helps me start each day with clarity and purpose."
+        },
+        {
+          "source_id": 16,
+          "title_en": "The Meaning of 'Mottainai'",
+          "sentence": "'Mottainai' reminds us that everything in this world has a purpose and a limited lifespan."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-032",
+      "word": "sanctuary",
+      "meaning_ja": "聖域、避難所",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "A good morning routine isn't about being rigidly productive; it is about creating a small sanctuary of time for yourself before the daily responsibilities begin.",
+      "source_occurrences": [
+        {
+          "source_id": 6,
+          "title_en": "The Importance of a Morning Routine",
+          "sentence": "A good morning routine isn't about being rigidly productive; it is about creating a small sanctuary of time for yourself before the daily responsibilities begin."
+        },
+        {
+          "source_id": 31,
+          "title_en": "The Rhythm of the Seasons",
+          "sentence": "Spring brings the gentle excitement of cherry blossoms, summer fills the air with the energetic sound of cicadas, autumn wraps the mountains in a stunning blanket of red and gold, and winter provides crisp, starry nights that make our homes feel like a warm sanctuary."
+        },
+        {
+          "source_id": 42,
+          "title_en": "The Art of Preparing Coffee",
+          "sentence": "Watching the coffee bloom and breathing in the rich aroma creates a temporary sanctuary of time."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-033",
+      "word": "minimal",
+      "meaning_ja": "最小限の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Compared to the incredibly powerful iPads and AI systems we use today, that early machine was extremely simple, with minimal memory and a dark screen filled with glowing text.",
+      "source_occurrences": [
+        {
+          "source_id": 7,
+          "title_en": "Memories of My First Computer",
+          "sentence": "Compared to the incredibly powerful iPads and AI systems we use today, that early machine was extremely simple, with minimal memory and a dark screen filled with glowing text."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-034",
+      "word": "gateway",
+      "meaning_ja": "入り口",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Yet, to me, it felt like a gateway to absolute magic.",
+      "source_occurrences": [
+        {
+          "source_id": 7,
+          "title_en": "Memories of My First Computer",
+          "sentence": "Yet, to me, it felt like a gateway to absolute magic."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-035",
+      "word": "demystify",
+      "meaning_ja": "謎を解く、分かりやすくする",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about demystify.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-036",
+      "word": "fascination",
+      "meaning_ja": "強い興味",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "That early experience demystified technology for me and sparked a lifelong fascination with engineering.",
+      "source_occurrences": [
+        {
+          "source_id": 7,
+          "title_en": "Memories of My First Computer",
+          "sentence": "That early experience demystified technology for me and sparked a lifelong fascination with engineering."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-037",
+      "word": "engineering",
+      "meaning_ja": "工学",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "That early experience demystified technology for me and sparked a lifelong fascination with engineering.",
+      "source_occurrences": [
+        {
+          "source_id": 7,
+          "title_en": "Memories of My First Computer",
+          "sentence": "That early experience demystified technology for me and sparked a lifelong fascination with engineering."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-038",
+      "word": "empathy",
+      "meaning_ja": "共感",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It requires patience and empathy to understand the emotions and context behind their words.",
+      "source_occurrences": [
+        {
+          "source_id": 8,
+          "title_en": "The Art of Listening",
+          "sentence": "It requires patience and empathy to understand the emotions and context behind their words."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-039",
+      "word": "context",
+      "meaning_ja": "文脈",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It requires patience and empathy to understand the emotions and context behind their words.",
+      "source_occurrences": [
+        {
+          "source_id": 8,
+          "title_en": "The Art of Listening",
+          "sentence": "It requires patience and empathy to understand the emotions and context behind their words."
+        },
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "This orchestration requires a clear vision, deep context, and effective communication."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-040",
+      "word": "broaden",
+      "meaning_ja": "広げる",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "When we listen deeply, we create a safe space for the other person to be heard, which strengthens our relationships and broadens our own perspectives.",
+      "source_occurrences": [
+        {
+          "source_id": 8,
+          "title_en": "The Art of Listening",
+          "sentence": "When we listen deeply, we create a safe space for the other person to be heard, which strengthens our relationships and broadens our own perspectives."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-041",
+      "word": "connection",
+      "meaning_ja": "つながり",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It is a quiet but powerful way to show respect and build real human connection.",
+      "source_occurrences": [
+        {
+          "source_id": 8,
+          "title_en": "The Art of Listening",
+          "sentence": "It is a quiet but powerful way to show respect and build real human connection."
+        },
+        {
+          "source_id": 10,
+          "title_en": "The Evolution of Communication",
+          "sentence": "The tools may change completely, but our fundamental need for meaningful connection remains exactly the same."
+        },
+        {
+          "source_id": 14,
+          "title_en": "The Value of Handwriting",
+          "sentence": "There is a direct, physical connection between the mind, the hand, and the paper that typing simply cannot match."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-042",
+      "word": "escape",
+      "meaning_ja": "逃げ場、気分転換",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "When I need a break from looking at screens, my favorite escape is taking a slow walk in the local park near my house.",
+      "source_occurrences": [
+        {
+          "source_id": 9,
+          "title_en": "A Walk in the Neighborhood Park",
+          "sentence": "When I need a break from looking at screens, my favorite escape is taking a slow walk in the local park near my house."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-043",
+      "word": "modest",
+      "meaning_ja": "控えめな",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It is a modest green space, but it is full of life.",
+      "source_occurrences": [
+        {
+          "source_id": 9,
+          "title_en": "A Walk in the Neighborhood Park",
+          "sentence": "It is a modest green space, but it is full of life."
+        },
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "It shows our traditional spirit of creating maximum beauty and harmony within a strictly limited and modest space."
+        },
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "When we look closely at a well-crafted bonsai, we can feel the vastness of a mountain landscape and the gentle passage of time within a single modest object."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-044",
+      "word": "rustle",
+      "meaning_ja": "さらさら音",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The soft rustle of pages turning, the faint scent of old ink, and the respectful silence shared by strangers create a deeply peaceful atmosphere.",
+      "source_occurrences": [
+        {
+          "source_id": 34,
+          "title_en": "The Peace of a Quiet Library",
+          "sentence": "The soft rustle of pages turning, the faint scent of old ink, and the respectful silence shared by strangers create a deeply peaceful atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-045",
+      "word": "antidote",
+      "meaning_ja": "解毒剤、対抗策",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Taking a walk is the simplest antidote to the noise of modern life.",
+      "source_occurrences": [
+        {
+          "source_id": 9,
+          "title_en": "A Walk in the Neighborhood Park",
+          "sentence": "Taking a walk is the simplest antidote to the noise of modern life."
+        },
+        {
+          "source_id": 38,
+          "title_en": "The Philosophy of Walking",
+          "sentence": "It is the perfect, natural antidote to the mental exhaustion of modern life."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-046",
+      "word": "evolution",
+      "meaning_ja": "進化",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "While this rapid technological evolution has made sharing information incredibly efficient, it also presents a unique challenge.",
+      "source_occurrences": [
+        {
+          "source_id": 10,
+          "title_en": "The Evolution of Communication",
+          "sentence": "While this rapid technological evolution has made sharing information incredibly efficient, it also presents a unique challenge."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-047",
+      "word": "sincerity",
+      "meaning_ja": "誠実さ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "With so much digital noise, we must work harder to maintain the depth and sincerity of our interactions.",
+      "source_occurrences": [
+        {
+          "source_id": 10,
+          "title_en": "The Evolution of Communication",
+          "sentence": "With so much digital noise, we must work harder to maintain the depth and sincerity of our interactions."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-048",
+      "word": "fundamental",
+      "meaning_ja": "根本的な",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The tools may change completely, but our fundamental need for meaningful connection remains exactly the same.",
+      "source_occurrences": [
+        {
+          "source_id": 10,
+          "title_en": "The Evolution of Communication",
+          "sentence": "The tools may change completely, but our fundamental need for meaningful connection remains exactly the same."
+        },
+        {
+          "source_id": 37,
+          "title_en": "The Charm of Local Festivals",
+          "sentence": "Local festivals remind us that despite our increasingly individualistic and digital lives, we still have a deep, fundamental need for physical community and shared rituals."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-049",
+      "word": "replicate",
+      "meaning_ja": "再現する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "There is a unique charm to old, physical books that no modern e-reader can ever truly replicate.",
+      "source_occurrences": [
+        {
+          "source_id": 11,
+          "title_en": "The Magic of Old Books",
+          "sentence": "There is a unique charm to old, physical books that no modern e-reader can ever truly replicate."
+        },
+        {
+          "source_id": 25,
+          "title_en": "The Nostalgia of Old Photographs",
+          "sentence": "Physical photos are tiny pieces of time captured forever, holding a unique warmth that digital files can't replicate."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-050",
+      "word": "vintage",
+      "meaning_ja": "古い時代の、年代物の",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I have a small collection of vintage books in my study, and to me, they are valuable not just for the words written in them, but for their physical presence.",
+      "source_occurrences": [
+        {
+          "source_id": 11,
+          "title_en": "The Magic of Old Books",
+          "sentence": "I have a small collection of vintage books in my study, and to me, they are valuable not just for the words written in them, but for their physical presence."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-051",
+      "word": "texture",
+      "meaning_ja": "質感",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The slightly yellowed pages, the faint scent of aged paper, and the texture of the cloth covers all tell a story of time passing.",
+      "source_occurrences": [
+        {
+          "source_id": 11,
+          "title_en": "The Magic of Old Books",
+          "sentence": "The slightly yellowed pages, the faint scent of aged paper, and the texture of the cloth covers all tell a story of time passing."
+        },
+        {
+          "source_id": 41,
+          "title_en": "The Warmth of Wooden Tools",
+          "sentence": "It absorbs the natural oils from our hands, developing a beautiful patina and a smooth texture that tells the story of its daily use."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-052",
+      "word": "tactile",
+      "meaning_ja": "触覚の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "In a digital world where content is weightless and instant, a physical book grounds us in history and allows us to enjoy a slow, tactile reading experience.",
+      "source_occurrences": [
+        {
+          "source_id": 11,
+          "title_en": "The Magic of Old Books",
+          "sentence": "In a digital world where content is weightless and instant, a physical book grounds us in history and allows us to enjoy a slow, tactile reading experience."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-053",
+      "word": "profound",
+      "meaning_ja": "深い",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Tending to a few plants on my balcony has taught me a profound lesson about the nature of time and growth.",
+      "source_occurrences": [
+        {
+          "source_id": 12,
+          "title_en": "The Philosophy of Gardening",
+          "sentence": "Tending to a few plants on my balcony has taught me a profound lesson about the nature of time and growth."
+        },
+        {
+          "source_id": 20,
+          "title_en": "The Power of a Simple Smile",
+          "sentence": "It costs nothing, yet its impact can be profound."
+        },
+        {
+          "source_id": 35,
+          "title_en": "The Subtle Beauty of Moss",
+          "sentence": "Places like the famous moss temple in Kyoto show us the profound beauty of this humble plant."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-054",
+      "word": "instant",
+      "meaning_ja": "即時の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "We have moved from handwritten letters that took days to arrive, to instant global video calls, and now to real-time conversations with advanced artificial intelligence.",
+      "source_occurrences": [
+        {
+          "source_id": 10,
+          "title_en": "The Evolution of Communication",
+          "sentence": "We have moved from handwritten letters that took days to arrive, to instant global video calls, and now to real-time conversations with advanced artificial intelligence."
+        },
+        {
+          "source_id": 11,
+          "title_en": "The Magic of Old Books",
+          "sentence": "In a digital world where content is weightless and instant, a physical book grounds us in history and allows us to enjoy a slow, tactile reading experience."
+        },
+        {
+          "source_id": 12,
+          "title_en": "The Philosophy of Gardening",
+          "sentence": "In our modern lives, we are used to instant results—we click a button and expect immediate feedback."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-055",
+      "word": "wither",
+      "meaning_ja": "しおれる",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "Sometimes a plant withers despite your best efforts, and other times it surprises you with a beautiful bloom.",
+      "source_occurrences": [
+        {
+          "source_id": 12,
+          "title_en": "The Philosophy of Gardening",
+          "sentence": "Sometimes a plant withers despite your best efforts, and other times it surprises you with a beautiful bloom."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-056",
+      "word": "cherished",
+      "meaning_ja": "大切にされている",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind.",
+      "source_occurrences": [
+        {
+          "source_id": 13,
+          "title_en": "The Pleasure of a Hot Bath",
+          "sentence": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind."
+        },
+        {
+          "source_id": 35,
+          "title_en": "The Subtle Beauty of Moss",
+          "sentence": "In Western gardening, moss is often viewed as a weed to be removed, but in traditional Japanese aesthetics, it is deeply cherished."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-057",
+      "word": "ritual",
+      "meaning_ja": "儀式、習慣",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind.",
+      "source_occurrences": [
+        {
+          "source_id": 13,
+          "title_en": "The Pleasure of a Hot Bath",
+          "sentence": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind."
+        },
+        {
+          "source_id": 37,
+          "title_en": "The Charm of Local Festivals",
+          "sentence": "Local festivals remind us that despite our increasingly individualistic and digital lives, we still have a deep, fundamental need for physical community and shared rituals."
+        },
+        {
+          "source_id": 42,
+          "title_en": "The Art of Preparing Coffee",
+          "sentence": "It forces me to slow down and practice full awareness, proving that even the most ordinary daily tasks can be transformed into a beautiful, life-enriching ritual."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-058",
+      "word": "unwind",
+      "meaning_ja": "くつろぐ",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind.",
+      "source_occurrences": [
+        {
+          "source_id": 13,
+          "title_en": "The Pleasure of a Hot Bath",
+          "sentence": "In Japan, taking a long, hot bath at the end of the day is a cherished ritual, and it is one of my favorite ways to unwind."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-059",
+      "word": "tension",
+      "meaning_ja": "緊張",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "As I soak in the warm water, the physical tension in my shoulders melts away, and the busy thoughts of the day begin to settle down.",
+      "source_occurrences": [
+        {
+          "source_id": 13,
+          "title_en": "The Pleasure of a Hot Bath",
+          "sentence": "As I soak in the warm water, the physical tension in my shoulders melts away, and the busy thoughts of the day begin to settle down."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-060",
+      "word": "obligation",
+      "meaning_ja": "義務",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The quiet sound of water creates a peaceful atmosphere where I can simply exist without any obligations or distractions.",
+      "source_occurrences": [
+        {
+          "source_id": 13,
+          "title_en": "The Pleasure of a Hot Bath",
+          "sentence": "The quiet sound of water creates a peaceful atmosphere where I can simply exist without any obligations or distractions."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-061",
+      "word": "deliberately",
+      "meaning_ja": "意図的に、慎重に",
+      "part_of_speech": "adverb",
+      "level_hint": "B1-B2",
+      "example_en": "Writing by hand forces my brain to slow down and think more deliberately about each word.",
+      "source_occurrences": [
+        {
+          "source_id": 14,
+          "title_en": "The Value of Handwriting",
+          "sentence": "Writing by hand forces my brain to slow down and think more deliberately about each word."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-062",
+      "word": "individuality",
+      "meaning_ja": "個性",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "In an era dominated by uniform digital fonts, keeping the tradition of handwriting alive is a powerful way to preserve our individuality and express true thoughtfulness.",
+      "source_occurrences": [
+        {
+          "source_id": 14,
+          "title_en": "The Value of Handwriting",
+          "sentence": "In an era dominated by uniform digital fonts, keeping the tradition of handwriting alive is a powerful way to preserve our individuality and express true thoughtfulness."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-063",
+      "word": "thoughtfulness",
+      "meaning_ja": "思いやり",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "In an era dominated by uniform digital fonts, keeping the tradition of handwriting alive is a powerful way to preserve our individuality and express true thoughtfulness.",
+      "source_occurrences": [
+        {
+          "source_id": 14,
+          "title_en": "The Value of Handwriting",
+          "sentence": "In an era dominated by uniform digital fonts, keeping the tradition of handwriting alive is a powerful way to preserve our individuality and express true thoughtfulness."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-064",
+      "word": "mindfulness",
+      "meaning_ja": "マインドフルネス",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This simple act has become a form of mindfulness for me.",
+      "source_occurrences": [
+        {
+          "source_id": 15,
+          "title_en": "A Quiet Cup of Green Tea",
+          "sentence": "This simple act has become a form of mindfulness for me."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-065",
+      "word": "vibrant",
+      "meaning_ja": "鮮やかな",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "I enjoy the entire process: watching the steam rise from the kettle, pouring the hot water gently over the loose leaves, and waiting for the color to turn a beautiful, vibrant green.",
+      "source_occurrences": [
+        {
+          "source_id": 15,
+          "title_en": "A Quiet Cup of Green Tea",
+          "sentence": "I enjoy the entire process: watching the steam rise from the kettle, pouring the hot water gently over the loose leaves, and waiting for the color to turn a beautiful, vibrant green."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-066",
+      "word": "extravagant",
+      "meaning_ja": "贅沢な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It teaches me that we don't need extravagant things to find peace; a single cup of tea, enjoyed with full awareness, is more than enough.",
+      "source_occurrences": [
+        {
+          "source_id": 15,
+          "title_en": "A Quiet Cup of Green Tea",
+          "sentence": "It teaches me that we don't need extravagant things to find peace; a single cup of tea, enjoyed with full awareness, is more than enough."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-067",
+      "word": "embody",
+      "meaning_ja": "体現する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about embody.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-068",
+      "word": "gratitude",
+      "meaning_ja": "感謝",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It embodies a deep sense of gratitude and respect for the resources around us, expressing regret when the true value of an object is discarded without care.",
+      "source_occurrences": [
+        {
+          "source_id": 16,
+          "title_en": "The Meaning of 'Mottainai'",
+          "sentence": "It embodies a deep sense of gratitude and respect for the resources around us, expressing regret when the true value of an object is discarded without care."
+        },
+        {
+          "source_id": 36,
+          "title_en": "The Joy of Cooking for Oneself",
+          "sentence": "It also gives me a deep sense of gratitude for the ingredients and the farmers who grew them."
+        },
+        {
+          "source_id": 44,
+          "title_en": "The Concept of Shinto and Nature",
+          "sentence": "This worldview creates a profound sense of reverence and gratitude toward the environment."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-069",
+      "word": "resource",
+      "meaning_ja": "資源",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It embodies a deep sense of gratitude and respect for the resources around us, expressing regret when the true value of an object is discarded without care.",
+      "source_occurrences": [
+        {
+          "source_id": 16,
+          "title_en": "The Meaning of 'Mottainai'",
+          "sentence": "It embodies a deep sense of gratitude and respect for the resources around us, expressing regret when the true value of an object is discarded without care."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-070",
+      "word": "consumption",
+      "meaning_ja": "消費",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I try to practice this philosophy in my daily life, whether it is finishing every grain of rice on my plate, repairing an old tool instead of throwing it away, or being mindful of my energy consumption.",
+      "source_occurrences": [
+        {
+          "source_id": 16,
+          "title_en": "The Meaning of 'Mottainai'",
+          "sentence": "I try to practice this philosophy in my daily life, whether it is finishing every grain of rice on my plate, repairing an old tool instead of throwing it away, or being mindful of my energy consumption."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-071",
+      "word": "inherently",
+      "meaning_ja": "本質的に",
+      "part_of_speech": "adverb",
+      "level_hint": "B1-B2",
+      "example_en": "There is something inherently romantic about traveling by train.",
+      "source_occurrences": [
+        {
+          "source_id": 17,
+          "title_en": "The Nostalgia of Train Journeys",
+          "sentence": "There is something inherently romantic about traveling by train."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-072",
+      "word": "transition",
+      "meaning_ja": "移り変わり",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Unlike airplanes, which instantly transport you from one point to another without any sense of scale, a train journey allows you to experience the transition of the landscape.",
+      "source_occurrences": [
+        {
+          "source_id": 17,
+          "title_en": "The Nostalgia of Train Journeys",
+          "sentence": "Unlike airplanes, which instantly transport you from one point to another without any sense of scale, a train journey allows you to experience the transition of the landscape."
+        },
+        {
+          "source_id": 31,
+          "title_en": "The Rhythm of the Seasons",
+          "sentence": "Living in Japan, I am always deeply moved by the rhythmic transition of the four seasons."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-073",
+      "word": "landscape",
+      "meaning_ja": "風景",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Unlike airplanes, which instantly transport you from one point to another without any sense of scale, a train journey allows you to experience the transition of the landscape.",
+      "source_occurrences": [
+        {
+          "source_id": 17,
+          "title_en": "The Nostalgia of Train Journeys",
+          "sentence": "Unlike airplanes, which instantly transport you from one point to another without any sense of scale, a train journey allows you to experience the transition of the landscape."
+        },
+        {
+          "source_id": 19,
+          "title_en": "The Magic of Autumn Leaves",
+          "sentence": "Every year, the arrival of autumn turns the landscape into a stunning canvas of red, orange, and gold."
+        },
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "When we look closely at a well-crafted bonsai, we can feel the vastness of a mountain landscape and the gentle passage of time within a single modest object."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-074",
+      "word": "destination",
+      "meaning_ja": "目的地",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "A train journey reminds us that travel is not just about reaching a destination quickly, but about appreciating the beauty of the journey itself.",
+      "source_occurrences": [
+        {
+          "source_id": 17,
+          "title_en": "The Nostalgia of Train Journeys",
+          "sentence": "A train journey reminds us that travel is not just about reaching a destination quickly, but about appreciating the beauty of the journey itself."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-075",
+      "word": "overvalue",
+      "meaning_ja": "過大評価する",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Society often overvalues youth and speed, viewing aging as a process of gradual decline.",
+      "source_occurrences": [
+        {
+          "source_id": 18,
+          "title_en": "The Wisdom of Old Age",
+          "sentence": "Society often overvalues youth and speed, viewing aging as a process of gradual decline."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-076",
+      "word": "decline",
+      "meaning_ja": "衰え",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Society often overvalues youth and speed, viewing aging as a process of gradual decline.",
+      "source_occurrences": [
+        {
+          "source_id": 18,
+          "title_en": "The Wisdom of Old Age",
+          "sentence": "Society often overvalues youth and speed, viewing aging as a process of gradual decline."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-077",
+      "word": "stability",
+      "meaning_ja": "安定",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "However, I believe that growing older brings a unique kind of wealth that youth can never possess: perspective and emotional stability.",
+      "source_occurrences": [
+        {
+          "source_id": 18,
+          "title_en": "The Wisdom of Old Age",
+          "sentence": "However, I believe that growing older brings a unique kind of wealth that youth can never possess: perspective and emotional stability."
+        },
+        {
+          "source_id": 28,
+          "title_en": "The Power of Routine",
+          "sentence": "People often think of daily routines as boring or restrictive, but I believe that a well-designed routine actually gives us a great sense of freedom and stability."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-078",
+      "word": "anxiety",
+      "meaning_ja": "不安",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about anxiety.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-079",
+      "word": "wisdom",
+      "meaning_ja": "知恵",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "We have accumulated decades of experiences, mistakes, and lessons, which combine to form a deep well of practical wisdom.",
+      "source_occurrences": [
+        {
+          "source_id": 18,
+          "title_en": "The Wisdom of Old Age",
+          "sentence": "We have accumulated decades of experiences, mistakes, and lessons, which combine to form a deep well of practical wisdom."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-080",
+      "word": "grace",
+      "meaning_ja": "優雅さ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This allows us to look at the world with calmer eyes and navigate challenges with a sense of grace and patience.",
+      "source_occurrences": [
+        {
+          "source_id": 18,
+          "title_en": "The Wisdom of Old Age",
+          "sentence": "This allows us to look at the world with calmer eyes and navigate challenges with a sense of grace and patience."
+        },
+        {
+          "source_id": 41,
+          "title_en": "The Warmth of Wooden Tools",
+          "sentence": "Unlike artificial materials that degrade and look worn out over time, wood ages with grace."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-081",
+      "word": "stunning",
+      "meaning_ja": "見事な",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Autumn is a time of harvest and stunning red maple leaves, while winter offers crisp, clear air and cozy evenings at home.",
+      "source_occurrences": [
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "Autumn is a time of harvest and stunning red maple leaves, while winter offers crisp, clear air and cozy evenings at home."
+        },
+        {
+          "source_id": 19,
+          "title_en": "The Magic of Autumn Leaves",
+          "sentence": "Every year, the arrival of autumn turns the landscape into a stunning canvas of red, orange, and gold."
+        },
+        {
+          "source_id": 31,
+          "title_en": "The Rhythm of the Seasons",
+          "sentence": "Spring brings the gentle excitement of cherry blossoms, summer fills the air with the energetic sound of cicadas, autumn wraps the mountains in a stunning blanket of red and gold, and winter provides crisp, starry nights that make our homes feel like a warm sanctuary."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-082",
+      "word": "canvas",
+      "meaning_ja": "キャンバス",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Every year, the arrival of autumn turns the landscape into a stunning canvas of red, orange, and gold.",
+      "source_occurrences": [
+        {
+          "source_id": 19,
+          "title_en": "The Magic of Autumn Leaves",
+          "sentence": "Every year, the arrival of autumn turns the landscape into a stunning canvas of red, orange, and gold."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-083",
+      "word": "graceful",
+      "meaning_ja": "優雅な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "What I find most beautiful about autumn leaves is that they show us how graceful letting go can be.",
+      "source_occurrences": [
+        {
+          "source_id": 19,
+          "title_en": "The Magic of Autumn Leaves",
+          "sentence": "What I find most beautiful about autumn leaves is that they show us how graceful letting go can be."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-084",
+      "word": "shed",
+      "meaning_ja": "落とす、脱ぎ捨てる",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about shed.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-085",
+      "word": "universal",
+      "meaning_ja": "普遍的な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "A simple smile is perhaps the most universal and effortless form of human communication.",
+      "source_occurrences": [
+        {
+          "source_id": 20,
+          "title_en": "The Power of a Simple Smile",
+          "sentence": "A simple smile is perhaps the most universal and effortless form of human communication."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-086",
+      "word": "effortless",
+      "meaning_ja": "努力を要しない",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "A simple smile is perhaps the most universal and effortless form of human communication.",
+      "source_occurrences": [
+        {
+          "source_id": 20,
+          "title_en": "The Power of a Simple Smile",
+          "sentence": "A simple smile is perhaps the most universal and effortless form of human communication."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-087",
+      "word": "barrier",
+      "meaning_ja": "障壁",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It breaks down unspoken barriers and sends a silent message of goodwill and safety.",
+      "source_occurrences": [
+        {
+          "source_id": 20,
+          "title_en": "The Power of a Simple Smile",
+          "sentence": "It breaks down unspoken barriers and sends a silent message of goodwill and safety."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-088",
+      "word": "goodwill",
+      "meaning_ja": "善意",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It breaks down unspoken barriers and sends a silent message of goodwill and safety.",
+      "source_occurrences": [
+        {
+          "source_id": 20,
+          "title_en": "The Power of a Simple Smile",
+          "sentence": "It breaks down unspoken barriers and sends a silent message of goodwill and safety."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-089",
+      "word": "gloomy",
+      "meaning_ja": "憂うつな",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Many people feel gloomy when it rains, but I have always found a peculiar kind of comfort in rainy days.",
+      "source_occurrences": [
+        {
+          "source_id": 21,
+          "title_en": "The Comfort of Rainy Days",
+          "sentence": "Many people feel gloomy when it rains, but I have always found a peculiar kind of comfort in rainy days."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-090",
+      "word": "peculiar",
+      "meaning_ja": "独特な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Many people feel gloomy when it rains, but I have always found a peculiar kind of comfort in rainy days.",
+      "source_occurrences": [
+        {
+          "source_id": 21,
+          "title_en": "The Comfort of Rainy Days",
+          "sentence": "Many people feel gloomy when it rains, but I have always found a peculiar kind of comfort in rainy days."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-091",
+      "word": "boundary",
+      "meaning_ja": "境界",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "When the rain falls steadily outside, it creates a natural boundary between my home and the busy world.",
+      "source_occurrences": [
+        {
+          "source_id": 21,
+          "title_en": "The Comfort of Rainy Days",
+          "sentence": "When the rain falls steadily outside, it creates a natural boundary between my home and the busy world."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-092",
+      "word": "rhythmic",
+      "meaning_ja": "リズミカルな",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "The rhythmic, steady sound of the train on the tracks is incredibly soothing and creates a perfect space for reflection or reading.",
+      "source_occurrences": [
+        {
+          "source_id": 17,
+          "title_en": "The Nostalgia of Train Journeys",
+          "sentence": "The rhythmic, steady sound of the train on the tracks is incredibly soothing and creates a perfect space for reflection or reading."
+        },
+        {
+          "source_id": 21,
+          "title_en": "The Comfort of Rainy Days",
+          "sentence": "The soft, rhythmic sound of raindrops hitting the window acts as a soothing white noise that deepens my focus."
+        },
+        {
+          "source_id": 31,
+          "title_en": "The Rhythm of the Seasons",
+          "sentence": "Living in Japan, I am always deeply moved by the rhythmic transition of the four seasons."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-093",
+      "word": "geometry",
+      "meaning_ja": "幾何学",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The Japanese bento box is not just a convenient container for lunch; it is a beautiful example of practical geometry and cultural aesthetics.",
+      "source_occurrences": [
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "The Japanese bento box is not just a convenient container for lunch; it is a beautiful example of practical geometry and cultural aesthetics."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-094",
+      "word": "aesthetics",
+      "meaning_ja": "美意識",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The Japanese bento box is not just a convenient container for lunch; it is a beautiful example of practical geometry and cultural aesthetics.",
+      "source_occurrences": [
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "The Japanese bento box is not just a convenient container for lunch; it is a beautiful example of practical geometry and cultural aesthetics."
+        },
+        {
+          "source_id": 35,
+          "title_en": "The Subtle Beauty of Moss",
+          "sentence": "In Western gardening, moss is often viewed as a weed to be removed, but in traditional Japanese aesthetics, it is deeply cherished."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-095",
+      "word": "nutritional",
+      "meaning_ja": "栄養の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Packing a bento requires a delicate balance of colors, nutritional value, and space efficiency.",
+      "source_occurrences": [
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "Packing a bento requires a delicate balance of colors, nutritional value, and space efficiency."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-096",
+      "word": "arrangement",
+      "meaning_ja": "配置",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Every item must be placed tightly so that the beautiful arrangement doesn't fall apart during transport.",
+      "source_occurrences": [
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "Every item must be placed tightly so that the beautiful arrangement doesn't fall apart during transport."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-097",
+      "word": "miniature",
+      "meaning_ja": "小型の",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I find something deeply satisfying about this miniature world.",
+      "source_occurrences": [
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "I find something deeply satisfying about this miniature world."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-098",
+      "word": "mystery",
+      "meaning_ja": "神秘",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about mystery.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-099",
+      "word": "chirping",
+      "meaning_ja": "さえずり",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The simple sound of wind rustling through the trees and birds chirping overhead acts as a natural reset for my mind.",
+      "source_occurrences": [
+        {
+          "source_id": 9,
+          "title_en": "A Walk in the Neighborhood Park",
+          "sentence": "The simple sound of wind rustling through the trees and birds chirping overhead acts as a natural reset for my mind."
+        },
+        {
+          "source_id": 23,
+          "title_en": "The Mystery of Bird Song",
+          "sentence": "Early every morning, I am woken up by the cheerful chirping of birds outside my window."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-100",
+      "word": "communicate",
+      "meaning_ja": "伝える",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "Over the course of my life, the way humans communicate with one another has transformed completely.",
+      "source_occurrences": [
+        {
+          "source_id": 10,
+          "title_en": "The Evolution of Communication",
+          "sentence": "Over the course of my life, the way humans communicate with one another has transformed completely."
+        },
+        {
+          "source_id": 29,
+          "title_en": "The Salmon and the Stream: A Cultural Metaphor",
+          "sentence": "Understanding both perspectives allows us to communicate more deeply and look at our own culture with fresher eyes."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-101",
+      "word": "creature",
+      "meaning_ja": "生き物",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Listening to them reminds me that we share our neighborhoods with countless complex creatures.",
+      "source_occurrences": [
+        {
+          "source_id": 23,
+          "title_en": "The Mystery of Bird Song",
+          "sentence": "Listening to them reminds me that we share our neighborhoods with countless complex creatures."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-102",
+      "word": "comprehend",
+      "meaning_ja": "理解する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "It humbles me to realize that there are beautiful conversations happening all around us that humans cannot fully comprehend.",
+      "source_occurrences": [
+        {
+          "source_id": 23,
+          "title_en": "The Mystery of Bird Song",
+          "sentence": "It humbles me to realize that there are beautiful conversations happening all around us that humans cannot fully comprehend."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-103",
+      "word": "productivity",
+      "meaning_ja": "生産性",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "In today's fast-paced world, being constantly busy is often praised as a sign of success and productivity.",
+      "source_occurrences": [
+        {
+          "source_id": 24,
+          "title_en": "The Importance of Taking Breaks",
+          "sentence": "In today's fast-paced world, being constantly busy is often praised as a sign of success and productivity."
+        },
+        {
+          "source_id": 39,
+          "title_en": "The Value of an Empty Desk",
+          "sentence": "It reminds us that productivity and creativity are not about adding more things to our lives, but about creating the space for clarity to emerge."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-104",
+      "word": "creativity",
+      "meaning_ja": "創造性",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "However, I have learned that the ability to take proper breaks is just as important for our long-term creativity and well-being.",
+      "source_occurrences": [
+        {
+          "source_id": 24,
+          "title_en": "The Importance of Taking Breaks",
+          "sentence": "However, I have learned that the ability to take proper breaks is just as important for our long-term creativity and well-being."
+        },
+        {
+          "source_id": 39,
+          "title_en": "The Value of an Empty Desk",
+          "sentence": "It reminds us that productivity and creativity are not about adding more things to our lives, but about creating the space for clarity to emerge."
+        },
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "Technology does not replace human creativity; rather, it magnifies our capacity to express complex thoughts and create beautiful intellectual harmony."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-105",
+      "word": "rigid",
+      "meaning_ja": "硬直した",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "When we push our brains too hard without stopping, our thinking becomes rigid and dry.",
+      "source_occurrences": [
+        {
+          "source_id": 24,
+          "title_en": "The Importance of Taking Breaks",
+          "sentence": "When we push our brains too hard without stopping, our thinking becomes rigid and dry."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-106",
+      "word": "subconscious",
+      "meaning_ja": "潜在意識",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Taking a short walk, stepping away from the screen, or simply doing nothing for ten minutes allows the subconscious mind to rest and re-organize.",
+      "source_occurrences": [
+        {
+          "source_id": 24,
+          "title_en": "The Importance of Taking Breaks",
+          "sentence": "Taking a short walk, stepping away from the screen, or simply doing nothing for ten minutes allows the subconscious mind to rest and re-organize."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-107",
+      "word": "solution",
+      "meaning_ja": "解決策",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Often, the best ideas and solutions to difficult problems appear not when we are staring intensely at our work, but during these moments of quiet pause.",
+      "source_occurrences": [
+        {
+          "source_id": 24,
+          "title_en": "The Importance of Taking Breaks",
+          "sentence": "Often, the best ideas and solutions to difficult problems appear not when we are staring intensely at our work, but during these moments of quiet pause."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-108",
+      "word": "album",
+      "meaning_ja": "アルバム",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The other day, I was cleaning my study and came across an old, dusty photo album from decades ago.",
+      "source_occurrences": [
+        {
+          "source_id": 25,
+          "title_en": "The Nostalgia of Old Photographs",
+          "sentence": "The other day, I was cleaning my study and came across an old, dusty photo album from decades ago."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-109",
+      "word": "faded",
+      "meaning_ja": "色あせた",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Looking at those faded, physical photographs instantly brought back a flood of vivid memories and emotions.",
+      "source_occurrences": [
+        {
+          "source_id": 25,
+          "title_en": "The Nostalgia of Old Photographs",
+          "sentence": "Looking at those faded, physical photographs instantly brought back a flood of vivid memories and emotions."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-110",
+      "word": "precious",
+      "meaning_ja": "貴重な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "In those days, we couldn't take hundreds of digital photos instantly; every shot was precious because film was limited.",
+      "source_occurrences": [
+        {
+          "source_id": 25,
+          "title_en": "The Nostalgia of Old Photographs",
+          "sentence": "In those days, we couldn't take hundreds of digital photos instantly; every shot was precious because film was limited."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-111",
+      "word": "blurry",
+      "meaning_ja": "ぼやけた",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Some photos were a little blurry or poorly framed, but those imperfections actually made them feel much more authentic and nostalgic.",
+      "source_occurrences": [
+        {
+          "source_id": 25,
+          "title_en": "The Nostalgia of Old Photographs",
+          "sentence": "Some photos were a little blurry or poorly framed, but those imperfections actually made them feel much more authentic and nostalgic."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-112",
+      "word": "authentic",
+      "meaning_ja": "本物の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Some photos were a little blurry or poorly framed, but those imperfections actually made them feel much more authentic and nostalgic.",
+      "source_occurrences": [
+        {
+          "source_id": 25,
+          "title_en": "The Nostalgia of Old Photographs",
+          "sentence": "Some photos were a little blurry or poorly framed, but those imperfections actually made them feel much more authentic and nostalgic."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-113",
+      "word": "beginner",
+      "meaning_ja": "初心者",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "There is a special kind of excitement that comes from being a complete beginner at something, no matter your age.",
+      "source_occurrences": [
+        {
+          "source_id": 26,
+          "title_en": "The Joy of Learning Something New",
+          "sentence": "There is a special kind of excitement that comes from being a complete beginner at something, no matter your age."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-114",
+      "word": "frustrating",
+      "meaning_ja": "いら立たしい",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It can be frustrating at first when things don't work perfectly, but the moment of sudden understanding is incredibly rewarding.",
+      "source_occurrences": [
+        {
+          "source_id": 26,
+          "title_en": "The Joy of Learning Something New",
+          "sentence": "It can be frustrating at first when things don't work perfectly, but the moment of sudden understanding is incredibly rewarding."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-115",
+      "word": "embrace",
+      "meaning_ja": "受け入れる",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about embrace.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-116",
+      "word": "flexible",
+      "meaning_ja": "柔軟な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Embracing the status of a beginner keeps our minds flexible, humble, and young.",
+      "source_occurrences": [
+        {
+          "source_id": 26,
+          "title_en": "The Joy of Learning Something New",
+          "sentence": "Embracing the status of a beginner keeps our minds flexible, humble, and young."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-117",
+      "word": "bonsai",
+      "meaning_ja": "盆栽",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "A bonsai tree is far more than just a small plant in a shallow pot; it is a living piece of art and philosophy.",
+      "source_occurrences": [
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "A bonsai tree is far more than just a small plant in a shallow pot; it is a living piece of art and philosophy."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-118",
+      "word": "shallow",
+      "meaning_ja": "浅い",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "A bonsai tree is far more than just a small plant in a shallow pot; it is a living piece of art and philosophy.",
+      "source_occurrences": [
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "A bonsai tree is far more than just a small plant in a shallow pot; it is a living piece of art and philosophy."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-119",
+      "word": "pruning",
+      "meaning_ja": "剪定",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Through careful pruning and shaping, a bonsai artist guides the tree to express the majestic spirit of a giant ancient tree in nature.",
+      "source_occurrences": [
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "Through careful pruning and shaping, a bonsai artist guides the tree to express the majestic spirit of a giant ancient tree in nature."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-120",
+      "word": "majestic",
+      "meaning_ja": "威厳のある",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Through careful pruning and shaping, a bonsai artist guides the tree to express the majestic spirit of a giant ancient tree in nature.",
+      "source_occurrences": [
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "Through careful pruning and shaping, a bonsai artist guides the tree to express the majestic spirit of a giant ancient tree in nature."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-121",
+      "word": "restraint",
+      "meaning_ja": "抑制",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "A bonsai teaches us the beauty of restraint and the harmony between human care and natural growth.",
+      "source_occurrences": [
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "A bonsai teaches us the beauty of restraint and the harmony between human care and natural growth."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-122",
+      "word": "harmony",
+      "meaning_ja": "調和",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It shows our traditional spirit of creating maximum beauty and harmony within a strictly limited and modest space.",
+      "source_occurrences": [
+        {
+          "source_id": 22,
+          "title_en": "The Geometry of Bento Boxes",
+          "sentence": "It shows our traditional spirit of creating maximum beauty and harmony within a strictly limited and modest space."
+        },
+        {
+          "source_id": 27,
+          "title_en": "The Philosophy of the Bonsai Tree",
+          "sentence": "A bonsai teaches us the beauty of restraint and the harmony between human care and natural growth."
+        },
+        {
+          "source_id": 44,
+          "title_en": "The Concept of Shinto and Nature",
+          "sentence": "This gentle philosophy encourages us to live in harmony with our surroundings and treat the earth with the utmost respect and care."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-123",
+      "word": "automatic",
+      "meaning_ja": "自動的な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "When we turn our positive habits—like morning stretching, reading, or pronunciation practice—into automatic routines, we don't have to waste mental energy deciding whether to do them each day.",
+      "source_occurrences": [
+        {
+          "source_id": 28,
+          "title_en": "The Power of Routine",
+          "sentence": "When we turn our positive habits—like morning stretching, reading, or pronunciation practice—into automatic routines, we don't have to waste mental energy deciding whether to do them each day."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-124",
+      "word": "motivation",
+      "meaning_ja": "動機づけ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It creates a reliable structure that supports our goals even when our motivation is low.",
+      "source_occurrences": [
+        {
+          "source_id": 28,
+          "title_en": "The Power of Routine",
+          "sentence": "It creates a reliable structure that supports our goals even when our motivation is low."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-125",
+      "word": "anchor",
+      "meaning_ja": "錨、支え",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "A good routine acts as a steady anchor for the mind, keeping us grounded and focused amidst the unpredictable chaos of modern life.",
+      "source_occurrences": [
+        {
+          "source_id": 28,
+          "title_en": "The Power of Routine",
+          "sentence": "A good routine acts as a steady anchor for the mind, keeping us grounded and focused amidst the unpredictable chaos of modern life."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-126",
+      "word": "metaphor",
+      "meaning_ja": "比喩",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I shared a metaphor about salmon swimming upstream.",
+      "source_occurrences": [
+        {
+          "source_id": 29,
+          "title_en": "The Salmon and the Stream: A Cultural Metaphor",
+          "sentence": "I shared a metaphor about salmon swimming upstream."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-127",
+      "word": "upstream",
+      "meaning_ja": "上流へ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I shared a metaphor about salmon swimming upstream.",
+      "source_occurrences": [
+        {
+          "source_id": 29,
+          "title_en": "The Salmon and the Stream: A Cultural Metaphor",
+          "sentence": "I shared a metaphor about salmon swimming upstream."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-128",
+      "word": "current",
+      "meaning_ja": "流れ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "In some Western views, the focus is often on the heroic individual salmon fighting bravely against the strong current to achieve its goal.",
+      "source_occurrences": [
+        {
+          "source_id": 29,
+          "title_en": "The Salmon and the Stream: A Cultural Metaphor",
+          "sentence": "In some Western views, the focus is often on the heroic individual salmon fighting bravely against the strong current to achieve its goal."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-129",
+      "word": "superior",
+      "meaning_ja": "優れている",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Neither view is superior; they simply highlight different aspects of reality.",
+      "source_occurrences": [
+        {
+          "source_id": 29,
+          "title_en": "The Salmon and the Stream: A Cultural Metaphor",
+          "sentence": "Neither view is superior; they simply highlight different aspects of reality."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-130",
+      "word": "aspect",
+      "meaning_ja": "側面",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Neither view is superior; they simply highlight different aspects of reality.",
+      "source_occurrences": [
+        {
+          "source_id": 29,
+          "title_en": "The Salmon and the Stream: A Cultural Metaphor",
+          "sentence": "Neither view is superior; they simply highlight different aspects of reality."
+        },
+        {
+          "source_id": 30,
+          "title_en": "The Art of Slowing Down",
+          "sentence": "However, I have come to realize that the most beautiful and valuable aspects of human life cannot be rushed."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-131",
+      "word": "gratification",
+      "meaning_ja": "満足",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "We live in a culture that worships speed, efficiency, and instant gratification.",
+      "source_occurrences": [
+        {
+          "source_id": 30,
+          "title_en": "The Art of Slowing Down",
+          "sentence": "We live in a culture that worships speed, efficiency, and instant gratification."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-132",
+      "word": "absorb",
+      "meaning_ja": "吸収する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "It absorbs the natural oils from our hands, developing a beautiful patina and a smooth texture that tells the story of its daily use.",
+      "source_occurrences": [
+        {
+          "source_id": 41,
+          "title_en": "The Warmth of Wooden Tools",
+          "sentence": "It absorbs the natural oils from our hands, developing a beautiful patina and a smooth texture that tells the story of its daily use."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-133",
+      "word": "cultivate",
+      "meaning_ja": "育てる",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "Developing deep relationships, mastering a complex skill, or fully absorbing a piece of philosophy all require us to cultivate the art of slowing down.",
+      "source_occurrences": [
+        {
+          "source_id": 30,
+          "title_en": "The Art of Slowing Down",
+          "sentence": "Developing deep relationships, mastering a complex skill, or fully absorbing a piece of philosophy all require us to cultivate the art of slowing down."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-134",
+      "word": "charm",
+      "meaning_ja": "魅力",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Experiencing these changes every year connects us to nature and teaches us to appreciate the unique charm of each passing month.",
+      "source_occurrences": [
+        {
+          "source_id": 4,
+          "title_en": "The Changing Seasons in Japan",
+          "sentence": "Experiencing these changes every year connects us to nature and teaches us to appreciate the unique charm of each passing month."
+        },
+        {
+          "source_id": 11,
+          "title_en": "The Magic of Old Books",
+          "sentence": "There is a unique charm to old, physical books that no modern e-reader can ever truly replicate."
+        },
+        {
+          "source_id": 31,
+          "title_en": "The Rhythm of the Seasons",
+          "sentence": "This natural cycle teaches us that nothing stays the same, encouraging us to appreciate the unique charm and brief beauty of every single month."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-135",
+      "word": "rhythm",
+      "meaning_ja": "リズム",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It reminds us that no matter how fast-paced our lives or our technologies become, the gentle rhythm of the physical world remains unchanged.",
+      "source_occurrences": [
+        {
+          "source_id": 9,
+          "title_en": "A Walk in the Neighborhood Park",
+          "sentence": "It reminds us that no matter how fast-paced our lives or our technologies become, the gentle rhythm of the physical world remains unchanged."
+        },
+        {
+          "source_id": 43,
+          "title_en": "The Silent Teacher: Nature",
+          "sentence": "Spending quiet moments observing the natural world humbles our egos and reminds us of the beautiful, large rhythms that govern our existence."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-136",
+      "word": "cuisine",
+      "meaning_ja": "料理、食文化",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "When people think of Sri Lankan food, curry is usually the first thing that comes to mind, but the island's cuisine is much deeper than that.",
+      "source_occurrences": [
+        {
+          "source_id": 32,
+          "title_en": "Sri Lankan Food Beyond Curry",
+          "sentence": "When people think of Sri Lankan food, curry is usually the first thing that comes to mind, but the island's cuisine is much deeper than that."
+        },
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "So, in a way, Sri Lankan cuisine is a real melting pot."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-137",
+      "word": "colonial",
+      "meaning_ja": "植民地の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Influenced by traders and colonial powers from Portugal, the Netherlands, and Britain, as well as nearby India, the local food is a beautiful melting pot.",
+      "source_occurrences": [
+        {
+          "source_id": 32,
+          "title_en": "Sri Lankan Food Beyond Curry",
+          "sentence": "Influenced by traders and colonial powers from Portugal, the Netherlands, and Britain, as well as nearby India, the local food is a beautiful melting pot."
+        },
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "It was influenced by Portugal, the Netherlands, and Britain during the colonial period."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-138",
+      "word": "melting pot",
+      "meaning_ja": "るつぼ、多文化の混合",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Influenced by traders and colonial powers from Portugal, the Netherlands, and Britain, as well as nearby India, the local food is a beautiful melting pot.",
+      "source_occurrences": [
+        {
+          "source_id": 32,
+          "title_en": "Sri Lankan Food Beyond Curry",
+          "sentence": "Influenced by traders and colonial powers from Portugal, the Netherlands, and Britain, as well as nearby India, the local food is a beautiful melting pot."
+        },
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "So, in a way, Sri Lankan cuisine is a real melting pot."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-139",
+      "word": "sustenance",
+      "meaning_ja": "栄養、食べ物",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Exploring these unique flavors shows us that food is never just sustenance; it is a living archive of a nation's trade, religion, and family life.",
+      "source_occurrences": [
+        {
+          "source_id": 32,
+          "title_en": "Sri Lankan Food Beyond Curry",
+          "sentence": "Exploring these unique flavors shows us that food is never just sustenance; it is a living archive of a nation's trade, religion, and family life."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-140",
+      "word": "archive",
+      "meaning_ja": "記録庫",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Exploring these unique flavors shows us that food is never just sustenance; it is a living archive of a nation's trade, religion, and family life.",
+      "source_occurrences": [
+        {
+          "source_id": 32,
+          "title_en": "Sri Lankan Food Beyond Curry",
+          "sentence": "Exploring these unique flavors shows us that food is never just sustenance; it is a living archive of a nation's trade, religion, and family life."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-141",
+      "word": "assembly language",
+      "meaning_ja": "アセンブリ言語",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "In my younger days, I spent a lot of time working with computer hardware and writing programs in assembly language.",
+      "source_occurrences": [
+        {
+          "source_id": 33,
+          "title_en": "Memories of Assembly Language",
+          "sentence": "In my younger days, I spent a lot of time working with computer hardware and writing programs in assembly language."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-142",
+      "word": "hardware",
+      "meaning_ja": "ハードウェア",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I spent hours learning how to write basic commands and understanding how software interacted with hardware.",
+      "source_occurrences": [
+        {
+          "source_id": 7,
+          "title_en": "Memories of My First Computer",
+          "sentence": "I spent hours learning how to write basic commands and understanding how software interacted with hardware."
+        },
+        {
+          "source_id": 33,
+          "title_en": "Memories of Assembly Language",
+          "sentence": "In my younger days, I spent a lot of time working with computer hardware and writing programs in assembly language."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-143",
+      "word": "tedious",
+      "meaning_ja": "退屈で骨の折れる",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It was a tedious process where every single movement of data had to be explicitly commanded.",
+      "source_occurrences": [
+        {
+          "source_id": 33,
+          "title_en": "Memories of Assembly Language",
+          "sentence": "It was a tedious process where every single movement of data had to be explicitly commanded."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-144",
+      "word": "explicitly",
+      "meaning_ja": "明示的に",
+      "part_of_speech": "adverb",
+      "level_hint": "B1-B2",
+      "example_en": "It was a tedious process where every single movement of data had to be explicitly commanded.",
+      "source_occurrences": [
+        {
+          "source_id": 33,
+          "title_en": "Memories of Assembly Language",
+          "sentence": "It was a tedious process where every single movement of data had to be explicitly commanded."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-145",
+      "word": "foundational",
+      "meaning_ja": "基礎的な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "That early experience taught me that no matter how advanced or magical modern technology appears, it is ultimately built on simple, beautifully ordered foundational rules.",
+      "source_occurrences": [
+        {
+          "source_id": 33,
+          "title_en": "Memories of Assembly Language",
+          "sentence": "That early experience taught me that no matter how advanced or magical modern technology appears, it is ultimately built on simple, beautifully ordered foundational rules."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-146",
+      "word": "refuge",
+      "meaning_ja": "避難所",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Whenever the noise of the modern world becomes too loud, my favorite refuge is the local library.",
+      "source_occurrences": [
+        {
+          "source_id": 34,
+          "title_en": "The Peace of a Quiet Library",
+          "sentence": "Whenever the noise of the modern world becomes too loud, my favorite refuge is the local library."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-147",
+      "word": "contemplation",
+      "meaning_ja": "熟考",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It is a space designed purely for contemplation and learning, reminding us that cultivating our inner life is just as important as navigating our busy outer responsibilities.",
+      "source_occurrences": [
+        {
+          "source_id": 34,
+          "title_en": "The Peace of a Quiet Library",
+          "sentence": "It is a space designed purely for contemplation and learning, reminding us that cultivating our inner life is just as important as navigating our busy outer responsibilities."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-148",
+      "word": "cherish",
+      "meaning_ja": "大切にする",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about cherish.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-149",
+      "word": "humble",
+      "meaning_ja": "控えめな、謙虚な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It humbles me to realize that there are beautiful conversations happening all around us that humans cannot fully comprehend.",
+      "source_occurrences": [
+        {
+          "source_id": 23,
+          "title_en": "The Mystery of Bird Song",
+          "sentence": "It humbles me to realize that there are beautiful conversations happening all around us that humans cannot fully comprehend."
+        },
+        {
+          "source_id": 26,
+          "title_en": "The Joy of Learning Something New",
+          "sentence": "Embracing the status of a beginner keeps our minds flexible, humble, and young."
+        },
+        {
+          "source_id": 35,
+          "title_en": "The Subtle Beauty of Moss",
+          "sentence": "Places like the famous moss temple in Kyoto show us the profound beauty of this humble plant."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-150",
+      "word": "thrive",
+      "meaning_ja": "繁栄する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "It thrives in quiet, shaded places where other plants cannot survive.",
+      "source_occurrences": [
+        {
+          "source_id": 35,
+          "title_en": "The Subtle Beauty of Moss",
+          "sentence": "It thrives in quiet, shaded places where other plants cannot survive."
+        },
+        {
+          "source_id": 43,
+          "title_en": "The Silent Teacher: Nature",
+          "sentence": "If we observe a simple tree throughout the year, it teaches us how to adapt and thrive."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-151",
+      "word": "resilience",
+      "meaning_ja": "回復力、粘り強さ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about resilience.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-152",
+      "word": "sizzle",
+      "meaning_ja": "ジュージュー音を立てる",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about sizzle.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-153",
+      "word": "aroma",
+      "meaning_ja": "香り",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It engages all five senses: the sound of vegetables sizzling in the pan, the rich aroma of spices, and the beautiful colors on the plate.",
+      "source_occurrences": [
+        {
+          "source_id": 36,
+          "title_en": "The Joy of Cooking for Oneself",
+          "sentence": "It engages all five senses: the sound of vegetables sizzling in the pan, the rich aroma of spices, and the beautiful colors on the plate."
+        },
+        {
+          "source_id": 42,
+          "title_en": "The Art of Preparing Coffee",
+          "sentence": "Watching the coffee bloom and breathing in the rich aroma creates a temporary sanctuary of time."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-154",
+      "word": "ingredient",
+      "meaning_ja": "材料",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It also gives me a deep sense of gratitude for the ingredients and the farmers who grew them.",
+      "source_occurrences": [
+        {
+          "source_id": 36,
+          "title_en": "The Joy of Cooking for Oneself",
+          "sentence": "It also gives me a deep sense of gratitude for the ingredients and the farmers who grew them."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-155",
+      "word": "lantern",
+      "meaning_ja": "提灯",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The energetic sound of taiko drums and the colorful lanterns create a magical atmosphere that connects us to our ancestors.",
+      "source_occurrences": [
+        {
+          "source_id": 37,
+          "title_en": "The Charm of Local Festivals",
+          "sentence": "The energetic sound of taiko drums and the colorful lanterns create a magical atmosphere that connects us to our ancestors."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-156",
+      "word": "ancestor",
+      "meaning_ja": "祖先",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The energetic sound of taiko drums and the colorful lanterns create a magical atmosphere that connects us to our ancestors.",
+      "source_occurrences": [
+        {
+          "source_id": 37,
+          "title_en": "The Charm of Local Festivals",
+          "sentence": "The energetic sound of taiko drums and the colorful lanterns create a magical atmosphere that connects us to our ancestors."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-157",
+      "word": "individualistic",
+      "meaning_ja": "個人主義的な",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Local festivals remind us that despite our increasingly individualistic and digital lives, we still have a deep, fundamental need for physical community and shared rituals.",
+      "source_occurrences": [
+        {
+          "source_id": 37,
+          "title_en": "The Charm of Local Festivals",
+          "sentence": "Local festivals remind us that despite our increasingly individualistic and digital lives, we still have a deep, fundamental need for physical community and shared rituals."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-158",
+      "word": "spiritual",
+      "meaning_ja": "精神的な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "However, I believe that walking is primarily an intellectual and spiritual activity.",
+      "source_occurrences": [
+        {
+          "source_id": 38,
+          "title_en": "The Philosophy of Walking",
+          "sentence": "However, I believe that walking is primarily an intellectual and spiritual activity."
+        },
+        {
+          "source_id": 44,
+          "title_en": "The Concept of Shinto and Nature",
+          "sentence": "In Shinto, mountains, rivers, ancient trees, and even rocks are believed to hold a spiritual presence, or 'kami'."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-159",
+      "word": "observant",
+      "meaning_ja": "観察力のある",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Walking allows us to notice the tiny changes in our neighborhood, breathe the fresh air, and look at the world with observant, patient eyes.",
+      "source_occurrences": [
+        {
+          "source_id": 38,
+          "title_en": "The Philosophy of Walking",
+          "sentence": "Walking allows us to notice the tiny changes in our neighborhood, breathe the fresh air, and look at the world with observant, patient eyes."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-160",
+      "word": "cluttered",
+      "meaning_ja": "散らかった",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "When my study desk is cluttered with piles of paper, cables, and random objects, I find it much harder to focus and think deeply.",
+      "source_occurrences": [
+        {
+          "source_id": 39,
+          "title_en": "The Value of an Empty Desk",
+          "sentence": "When my study desk is cluttered with piles of paper, cables, and random objects, I find it much harder to focus and think deeply."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-161",
+      "word": "obstruction",
+      "meaning_ja": "妨げ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "A clean, open space creates a visual calm that allows new thoughts and creative ideas to flow without obstruction.",
+      "source_occurrences": [
+        {
+          "source_id": 39,
+          "title_en": "The Value of an Empty Desk",
+          "sentence": "A clean, open space creates a visual calm that allows new thoughts and creative ideas to flow without obstruction."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-162",
+      "word": "emerge",
+      "meaning_ja": "現れる",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "It reminds us that productivity and creativity are not about adding more things to our lives, but about creating the space for clarity to emerge.",
+      "source_occurrences": [
+        {
+          "source_id": 39,
+          "title_en": "The Value of an Empty Desk",
+          "sentence": "It reminds us that productivity and creativity are not about adding more things to our lives, but about creating the space for clarity to emerge."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-163",
+      "word": "constellation",
+      "meaning_ja": "星座",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Gazing at distant constellations that have traveled light-years to reach our eyes is a deeply humbling experience.",
+      "source_occurrences": [
+        {
+          "source_id": 40,
+          "title_en": "The Mystery of the Night Sky",
+          "sentence": "Gazing at distant constellations that have traveled light-years to reach our eyes is a deeply humbling experience."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-164",
+      "word": "humbling",
+      "meaning_ja": "謙虚な気持ちにさせる",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Gazing at distant constellations that have traveled light-years to reach our eyes is a deeply humbling experience.",
+      "source_occurrences": [
+        {
+          "source_id": 40,
+          "title_en": "The Mystery of the Night Sky",
+          "sentence": "Gazing at distant constellations that have traveled light-years to reach our eyes is a deeply humbling experience."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-165",
+      "word": "cosmos",
+      "meaning_ja": "宇宙",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The night sky reminds us that we are part of a magnificent, mysterious cosmos, and it sparks a profound sense of wonder and curiosity that keeps our minds young and open.",
+      "source_occurrences": [
+        {
+          "source_id": 40,
+          "title_en": "The Mystery of the Night Sky",
+          "sentence": "The night sky reminds us that we are part of a magnificent, mysterious cosmos, and it sparks a profound sense of wonder and curiosity that keeps our minds young and open."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-166",
+      "word": "patina",
+      "meaning_ja": "経年変化の艶",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "It absorbs the natural oils from our hands, developing a beautiful patina and a smooth texture that tells the story of its daily use.",
+      "source_occurrences": [
+        {
+          "source_id": 41,
+          "title_en": "The Warmth of Wooden Tools",
+          "sentence": "It absorbs the natural oils from our hands, developing a beautiful patina and a smooth texture that tells the story of its daily use."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-167",
+      "word": "sturdy",
+      "meaning_ja": "頑丈な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Whether it is a beautifully crafted fountain pen, a sturdy cooking spoon, or the desk in my study, wood has a unique physical personality.",
+      "source_occurrences": [
+        {
+          "source_id": 41,
+          "title_en": "The Warmth of Wooden Tools",
+          "sentence": "Whether it is a beautifully crafted fountain pen, a sturdy cooking spoon, or the desk in my study, wood has a unique physical personality."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-168",
+      "word": "degrade",
+      "meaning_ja": "劣化する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "Unlike artificial materials that degrade and look worn out over time, wood ages with grace.",
+      "source_occurrences": [
+        {
+          "source_id": 41,
+          "title_en": "The Warmth of Wooden Tools",
+          "sentence": "Unlike artificial materials that degrade and look worn out over time, wood ages with grace."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-169",
+      "word": "spiral",
+      "meaning_ja": "渦巻き",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "I enjoy the slow, deliberate process: grinding the fresh beans by hand, measuring the water temperature precisely, and pouring it gently in a steady spiral.",
+      "source_occurrences": [
+        {
+          "source_id": 42,
+          "title_en": "The Art of Preparing Coffee",
+          "sentence": "I enjoy the slow, deliberate process: grinding the fresh beans by hand, measuring the water temperature precisely, and pouring it gently in a steady spiral."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-170",
+      "word": "bloom",
+      "meaning_ja": "花が咲く、コーヒーが膨らむ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom.",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "sentence": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom."
+        },
+        {
+          "source_id": 12,
+          "title_en": "The Philosophy of Gardening",
+          "sentence": "Sometimes a plant withers despite your best efforts, and other times it surprises you with a beautiful bloom."
+        },
+        {
+          "source_id": 42,
+          "title_en": "The Art of Preparing Coffee",
+          "sentence": "Watching the coffee bloom and breathing in the rich aroma creates a temporary sanctuary of time."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-171",
+      "word": "ordinary",
+      "meaning_ja": "普通の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "It forces me to slow down and practice full awareness, proving that even the most ordinary daily tasks can be transformed into a beautiful, life-enriching ritual.",
+      "source_occurrences": [
+        {
+          "source_id": 42,
+          "title_en": "The Art of Preparing Coffee",
+          "sentence": "It forces me to slow down and practice full awareness, proving that even the most ordinary daily tasks can be transformed into a beautiful, life-enriching ritual."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-172",
+      "word": "transform",
+      "meaning_ja": "変える",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about transform.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-173",
+      "word": "divine",
+      "meaning_ja": "神聖な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Traditional Japanese culture is deeply rooted in Shinto, an ancient spirituality that finds the divine not in a distant heaven, but within the natural world around us.",
+      "source_occurrences": [
+        {
+          "source_id": 44,
+          "title_en": "The Concept of Shinto and Nature",
+          "sentence": "Traditional Japanese culture is deeply rooted in Shinto, an ancient spirituality that finds the divine not in a distant heaven, but within the natural world around us."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-174",
+      "word": "reverence",
+      "meaning_ja": "畏敬",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This worldview creates a profound sense of reverence and gratitude toward the environment.",
+      "source_occurrences": [
+        {
+          "source_id": 44,
+          "title_en": "The Concept of Shinto and Nature",
+          "sentence": "This worldview creates a profound sense of reverence and gratitude toward the environment."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-175",
+      "word": "surroundings",
+      "meaning_ja": "環境",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This gentle philosophy encourages us to live in harmony with our surroundings and treat the earth with the utmost respect and care.",
+      "source_occurrences": [
+        {
+          "source_id": 44,
+          "title_en": "The Concept of Shinto and Nature",
+          "sentence": "This gentle philosophy encourages us to live in harmony with our surroundings and treat the earth with the utmost respect and care."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-176",
+      "word": "utmost",
+      "meaning_ja": "最大限の",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "This gentle philosophy encourages us to live in harmony with our surroundings and treat the earth with the utmost respect and care.",
+      "source_occurrences": [
+        {
+          "source_id": 44,
+          "title_en": "The Concept of Shinto and Nature",
+          "sentence": "This gentle philosophy encourages us to live in harmony with our surroundings and treat the earth with the utmost respect and care."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-177",
+      "word": "orchestra",
+      "meaning_ja": "オーケストラ",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Working with advanced artificial intelligence feels very much like conducting a massive, highly skilled orchestra.",
+      "source_occurrences": [
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "Working with advanced artificial intelligence feels very much like conducting a massive, highly skilled orchestra."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-178",
+      "word": "conductor",
+      "meaning_ja": "指揮者",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "As the human conductor, I do not play every single instrument myself, nor do I write out every note from scratch.",
+      "source_occurrences": [
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "As the human conductor, I do not play every single instrument myself, nor do I write out every note from scratch."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-179",
+      "word": "baton",
+      "meaning_ja": "指揮棒",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Instead, my role is to hold the baton, set the overarching theme, and guide the tempo.",
+      "source_occurrences": [
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "Instead, my role is to hold the baton, set the overarching theme, and guide the tempo."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-180",
+      "word": "overarching",
+      "meaning_ja": "全体を覆う",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Instead, my role is to hold the baton, set the overarching theme, and guide the tempo.",
+      "source_occurrences": [
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "Instead, my role is to hold the baton, set the overarching theme, and guide the tempo."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-181",
+      "word": "refine",
+      "meaning_ja": "磨く、改善する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "I select which specialized AI tools to bring in, combine their unique strengths, and refine the final output.",
+      "source_occurrences": [
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "I select which specialized AI tools to bring in, combine their unique strengths, and refine the final output."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-182",
+      "word": "magnify",
+      "meaning_ja": "拡大する",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "This word is useful for talking about magnify.",
+      "source_occurrences": []
+    },
+    {
+      "id": "VOCAB-183",
+      "word": "capacity",
+      "meaning_ja": "能力",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Technology does not replace human creativity; rather, it magnifies our capacity to express complex thoughts and create beautiful intellectual harmony.",
+      "source_occurrences": [
+        {
+          "source_id": 45,
+          "title_en": "Conducting the AI Orchestra",
+          "sentence": "Technology does not replace human creativity; rather, it magnifies our capacity to express complex thoughts and create beautiful intellectual harmony."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-184",
+      "word": "multicultural",
+      "meaning_ja": "多文化の",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "Sri Lankan food tells the rich, multicultural history of the country itself.",
+      "source_occurrences": [
+        {
+          "source_id": 32,
+          "title_en": "Sri Lankan Food Beyond Curry",
+          "sentence": "Sri Lankan food tells the rich, multicultural history of the country itself."
+        },
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "So, if I were talking with someone from Sri Lanka, I’d love to ask: 'If I visit Sri Lanka one day, what are the three dishes I absolutely must try?' And maybe one more question: 'Which Sri Lankan dish best represents the country’s multicultural history?' I think that would be a lovely way to break the ice — not just by talking about food, but by opening the door to culture, history, and personal memories."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-185",
+      "word": "route",
+      "meaning_ja": "航路、経路",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "On top of that, it is close to India and located on important sea routes, so it has also been influenced by the Middle East and other parts of Asia.",
+      "source_occurrences": [
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "On top of that, it is close to India and located on important sea routes, so it has also been influenced by the Middle East and other parts of Asia."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-186",
+      "word": "custom",
+      "meaning_ja": "慣習",
+      "part_of_speech": "noun",
+      "level_hint": "B1-B2",
+      "example_en": "Each community has its own customs, festivals, and food traditions.",
+      "source_occurrences": [
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "Each community has its own customs, festivals, and food traditions."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-187",
+      "word": "diverse",
+      "meaning_ja": "多様な",
+      "part_of_speech": "adjective",
+      "level_hint": "B1-B2",
+      "example_en": "I think that makes the food culture incredibly diverse.",
+      "source_occurrences": [
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "I think that makes the food culture incredibly diverse."
+        }
+      ]
+    },
+    {
+      "id": "VOCAB-188",
+      "word": "represent",
+      "meaning_ja": "表す",
+      "part_of_speech": "verb",
+      "level_hint": "B1-B2",
+      "example_en": "To me, moss represents the beauty of patience, humility, and the passage of time.",
+      "source_occurrences": [
+        {
+          "source_id": 35,
+          "title_en": "The Subtle Beauty of Moss",
+          "sentence": "To me, moss represents the beauty of patience, humility, and the passage of time."
+        },
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "sentence": "So, if I were talking with someone from Sri Lanka, I’d love to ask: 'If I visit Sri Lanka one day, what are the three dishes I absolutely must try?' And maybe one more question: 'Which Sri Lankan dish best represents the country’s multicultural history?' I think that would be a lovely way to break the ice — not just by talking about food, but by opening the door to culture, history, and personal memories."
+        }
+      ]
+    }
+  ]
+}

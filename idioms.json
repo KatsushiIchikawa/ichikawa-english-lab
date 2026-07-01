@@ -1,0 +1,1204 @@
+{
+  "metadata": {
+    "project": "Ichikawa English Lab",
+    "source": "Ichikawa_English_Lab_Master_Data.docx",
+    "source_essay_count": 46,
+    "generated": "2026-07-01",
+    "note": "Initial learning dataset generated from the IceBreak master archive. Meanings and examples are designed for Japanese adult English learners."
+  },
+  "idioms": [
+    {
+      "id": "IDIOM-001",
+      "phrase": "come to mind",
+      "meaning_ja": "最初に思い浮かぶ",
+      "example_en": "When I think of Sri Lankan food, curry is the first thing that comes to mind.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-002",
+      "phrase": "break the ice",
+      "meaning_ja": "場を和ませる、会話のきっかけを作る",
+      "example_en": "Asking about local food is a lovely way to break the ice.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Asking about local food is a lovely way to break the ice."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Asking about local food is a lovely way to break the ice."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Asking about local food is a lovely way to break the ice."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-003",
+      "phrase": "for a change",
+      "meaning_ja": "気分を変えて、たまには",
+      "example_en": "Today, I’d like to talk about Sri Lankan food — but not curry, for a change.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Today, I’d like to talk about Sri Lankan food — but not curry, for a change."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Today, I’d like to talk about Sri Lankan food — but not curry, for a change."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Today, I’d like to talk about Sri Lankan food — but not curry, for a change."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-004",
+      "phrase": "fair enough",
+      "meaning_ja": "なるほど、もっともだ",
+      "example_en": "Fair enough — curry is probably the best-known dish.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "context": "And fair enough — Sri Lankan curry is absolutely wonderful."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-005",
+      "phrase": "on top of that",
+      "meaning_ja": "そのうえ、さらに",
+      "example_en": "On top of that, Sri Lanka is close to India and important sea routes.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "context": "On top of that, it is close to India and located on important sea routes, so it has also been influenced by the Middle East and other parts of Asia."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-006",
+      "phrase": "in a way",
+      "meaning_ja": "ある意味では",
+      "example_en": "In a way, Sri Lankan cuisine is a real melting pot.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "context": "So, in a way, Sri Lankan cuisine is a real melting pot."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-007",
+      "phrase": "the same is true of",
+      "meaning_ja": "〜についても同じことが言える",
+      "example_en": "The same is true of religion and food traditions.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 46,
+          "title_en": "Sri Lankan Food Beyond Curry (Multicultural History)",
+          "context": "The same is true of religion."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-008",
+      "phrase": "not just ... but",
+      "meaning_ja": "単に〜ではなく…でもある",
+      "example_en": "Food is never just food, but a living archive of history.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-009",
+      "phrase": "open the door to",
+      "meaning_ja": "〜への扉を開く",
+      "example_en": "A simple question can open the door to culture and personal memories.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "A simple question can open the door to culture and personal memories."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "A simple question can open the door to culture and personal memories."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "A simple question can open the door to culture and personal memories."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-010",
+      "phrase": "located just",
+      "meaning_ja": "ちょうど〜に位置する",
+      "example_en": "Asaka is located just north of Tokyo.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "It is a very peaceful and convenient place located just north of Tokyo."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Asaka is located just north of Tokyo."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Asaka is located just north of Tokyo."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-011",
+      "phrase": "one of the best things about",
+      "meaning_ja": "〜の最も良い点の一つ",
+      "example_en": "One of the best things about Asaka is the balance between nature and city life.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "One of the best things about Asaka is the balance between nature and city life."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-012",
+      "phrase": "in full bloom",
+      "meaning_ja": "満開で",
+      "example_en": "The cherry blossoms are in full bloom in spring.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "The Kurome River flows through the city, and people enjoy walking or jogging along the riverbanks, especially in spring when the cherry blossoms are in full bloom."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "The cherry blossoms are in full bloom in spring."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "The cherry blossoms are in full bloom in spring."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-013",
+      "phrase": "bring together",
+      "meaning_ja": "人々を一つにする、集める",
+      "example_en": "The summer festival brings the whole community together.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-014",
+      "phrase": "not just a tool",
+      "meaning_ja": "単なる道具ではない",
+      "example_en": "A camera is not just a tool to record facts.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "A camera is not just a tool to record facts."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "To me, a camera is not just a tool to record facts, but a lens through which I can discover the hidden beauty of everyday life."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "A camera is not just a tool to record facts."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-015",
+      "phrase": "look through",
+      "meaning_ja": "〜越しに見る、よく調べる",
+      "example_en": "When I look through the viewfinder, time seems to slow down.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "When I look through the viewfinder, time seems to slow down."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "When I look through the viewfinder, time seems to slow down, and I become deeply focused on the present moment."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "When I look through the viewfinder, time seems to slow down."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-016",
+      "phrase": "slow down",
+      "meaning_ja": "速度を落とす、落ち着く",
+      "example_en": "Writing by hand forces my brain to slow down.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Writing by hand forces my brain to slow down."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "When I look through the viewfinder, time seems to slow down, and I become deeply focused on the present moment."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Writing by hand forces my brain to slow down."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-017",
+      "phrase": "bring back",
+      "meaning_ja": "思い出をよみがえらせる",
+      "example_en": "Old photos bring back vivid memories.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Old photos bring back vivid memories."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Old photos bring back vivid memories."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Old photos bring back vivid memories."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-018",
+      "phrase": "with my own hands",
+      "meaning_ja": "自分の手で",
+      "example_en": "I enjoy creating something useful with my own hands.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "I enjoy creating something useful with my own hands."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "I enjoy creating something useful with my own hands."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "There is something incredibly satisfying about working with wood, measuring exactly, and creating something useful with my own hands."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-019",
+      "phrase": "take the time to",
+      "meaning_ja": "時間をかけて〜する",
+      "example_en": "Taking the time to design and build furniture makes me appreciate it more.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-020",
+      "phrase": "keep active",
+      "meaning_ja": "活動的に保つ",
+      "example_en": "DIY keeps both my mind and my hands active.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-021",
+      "phrase": "shape our culture",
+      "meaning_ja": "文化を形づくる",
+      "example_en": "Japan's seasons deeply shape our culture and mindset.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Japan's seasons deeply shape our culture and mindset."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Japan's seasons deeply shape our culture and mindset."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Japan's seasons deeply shape our culture and mindset."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-022",
+      "phrase": "look forward to",
+      "meaning_ja": "〜を楽しみにする",
+      "example_en": "I always look forward to subtle shifts in the weather.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "I always look forward to subtle shifts in the weather."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "I always look forward to subtle shifts in the weather."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "I always look forward to subtle shifts in the weather."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-023",
+      "phrase": "open up",
+      "meaning_ja": "広げる、開く",
+      "example_en": "Learning English opens up a new window to the world.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-024",
+      "phrase": "a sense of accomplishment",
+      "meaning_ja": "達成感",
+      "example_en": "I feel a great sense of accomplishment when AI recognizes my voice.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-025",
+      "phrase": "set the tone",
+      "meaning_ja": "雰囲気・方向性を決める",
+      "example_en": "The first hour of the day sets the tone for everything that follows.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-026",
+      "phrase": "wake up",
+      "meaning_ja": "目覚める、呼び起こす",
+      "example_en": "I stretch to wake up my body.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "I stretch to wake up my body."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "I stretch to wake up my body."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "I stretch to wake up my body."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-027",
+      "phrase": "looking back",
+      "meaning_ja": "振り返ると",
+      "example_en": "Looking back, my journey into technology started decades ago.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Looking back at old photos always brings back vivid memories and emotions from that specific day."
+        },
+        {
+          "source_id": 7,
+          "title_en": "Memories of My First Computer",
+          "context": "Looking back, my journey into technology started decades ago when I got my very first computer."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-028",
+      "phrase": "no matter how",
+      "meaning_ja": "どれほど〜でも",
+      "example_en": "No matter how complex a machine appears, it is built on logical rules.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 7,
+          "title_en": "Memories of My First Computer",
+          "context": "It taught me that no matter how complex a machine appears on the surface, it is ultimately built on logical rules and creative human thinking."
+        },
+        {
+          "source_id": 9,
+          "title_en": "A Walk in the Neighborhood Park",
+          "context": "It reminds us that no matter how fast-paced our lives or our technologies become, the gentle rhythm of the physical world remains unchanged."
+        },
+        {
+          "source_id": 33,
+          "title_en": "Memories of Assembly Language",
+          "context": "That early experience taught me that no matter how advanced or magical modern technology appears, it is ultimately built on simple, beautifully ordered foundational rules."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-029",
+      "phrase": "put emphasis on",
+      "meaning_ja": "〜を重視する",
+      "example_en": "Modern society puts a lot of emphasis on speaking well.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-030",
+      "phrase": "if not more so",
+      "meaning_ja": "それ以上に",
+      "example_en": "Listening is just as important, if not more so.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Listening is just as important, if not more so."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Listening is just as important, if not more so."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Listening is just as important, if not more so."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-031",
+      "phrase": "full, undivided attention",
+      "meaning_ja": "全神経を集中した注意",
+      "example_en": "True listening means giving someone your full, undivided attention.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "True listening means giving someone your full, undivided attention."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "True listening means giving someone your full, undivided attention."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "True listening means giving someone your full, undivided attention."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-032",
+      "phrase": "take a break from",
+      "meaning_ja": "〜から一休みする",
+      "example_en": "I take a break from looking at screens by walking in the park.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "I take a break from looking at screens by walking in the park."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "I take a break from looking at screens by walking in the park."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "I take a break from looking at screens by walking in the park."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-033",
+      "phrase": "no matter how fast-paced",
+      "meaning_ja": "どれほど慌ただしくても",
+      "example_en": "No matter how fast-paced life becomes, nature’s rhythm remains.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 9,
+          "title_en": "A Walk in the Neighborhood Park",
+          "context": "It reminds us that no matter how fast-paced our lives or our technologies become, the gentle rhythm of the physical world remains unchanged."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-034",
+      "phrase": "over the course of",
+      "meaning_ja": "〜の間に、〜を通じて",
+      "example_en": "Over the course of my life, communication has transformed completely.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 10,
+          "title_en": "The Evolution of Communication",
+          "context": "Over the course of my life, the way humans communicate with one another has transformed completely."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-035",
+      "phrase": "take its course",
+      "meaning_ja": "自然の成り行きに任せる",
+      "example_en": "You can only wait for nature to take its course.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "You can only wait for nature to take its course."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "You can only wait for nature to take its course."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "You can only wait for nature to take its course."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-036",
+      "phrase": "melt away",
+      "meaning_ja": "溶けるように消える",
+      "example_en": "The tension in my shoulders melts away in a hot bath.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-037",
+      "phrase": "settle down",
+      "meaning_ja": "落ち着く",
+      "example_en": "Busy thoughts begin to settle down.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Busy thoughts begin to settle down."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Busy thoughts begin to settle down."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Busy thoughts begin to settle down."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-038",
+      "phrase": "go beyond",
+      "meaning_ja": "〜を超える",
+      "example_en": "Mottainai goes beyond simple recycling.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-039",
+      "phrase": "give way to",
+      "meaning_ja": "〜に変わる、道を譲る",
+      "example_en": "City buildings gradually give way to open fields.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "City buildings gradually give way to open fields."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "City buildings gradually give way to open fields."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "City buildings gradually give way to open fields."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-040",
+      "phrase": "what truly matters",
+      "meaning_ja": "本当に大切なこと",
+      "example_en": "With age, we learn to focus on what truly matters.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "With age, we learn to focus on what truly matters."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "With age, we learn to focus on what truly matters."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "With age, we learn to focus on what truly matters."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-041",
+      "phrase": "letting go",
+      "meaning_ja": "手放すこと",
+      "example_en": "Autumn leaves show us how graceful letting go can be.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Autumn leaves show us how graceful letting go can be."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Autumn leaves show us how graceful letting go can be."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Autumn leaves show us how graceful letting go can be."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-042",
+      "phrase": "break down barriers",
+      "meaning_ja": "障壁を取り除く",
+      "example_en": "A smile breaks down unspoken barriers.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-043",
+      "phrase": "stay indoors",
+      "meaning_ja": "屋内にいる",
+      "example_en": "Rain gives me a perfect excuse to stay indoors.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Rain gives me a perfect excuse to stay indoors."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Rain gives me a perfect excuse to stay indoors."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Rain gives me a perfect excuse to stay indoors."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-044",
+      "phrase": "fall apart",
+      "meaning_ja": "ばらばらになる、崩れる",
+      "example_en": "A bento arrangement must not fall apart during transport.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "A bento arrangement must not fall apart during transport."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "A bento arrangement must not fall apart during transport."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "A bento arrangement must not fall apart during transport."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-045",
+      "phrase": "come across",
+      "meaning_ja": "偶然見つける、出会う",
+      "example_en": "I came across an old photo album.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-046",
+      "phrase": "turn out",
+      "meaning_ja": "結果として〜になる",
+      "example_en": "We had to wait to see how the photos turned out.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-047",
+      "phrase": "out of one's comfort zone",
+      "meaning_ja": "快適な領域の外へ",
+      "example_en": "Learning a new skill forces us out of our comfort zones.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-048",
+      "phrase": "a great deal of",
+      "meaning_ja": "多くの、大量の",
+      "example_en": "Bonsai requires a great deal of patience.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Bonsai requires a great deal of patience."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Bonsai requires a great deal of patience."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Bonsai requires a great deal of patience."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-049",
+      "phrase": "far more than",
+      "meaning_ja": "単なる〜をはるかに超える",
+      "example_en": "A bonsai tree is far more than just a small plant.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "A bonsai tree is far more than just a small plant."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "A bonsai tree is far more than just a small plant."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "A bonsai tree is far more than just a small plant."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-050",
+      "phrase": "a means to",
+      "meaning_ja": "〜するための手段",
+      "example_en": "Walking is often viewed as a means to get from point A to point B.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Walking is often viewed as a means to get from point A to point B."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Walking is often viewed as a means to get from point A to point B."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Walking is often viewed as a means to get from point A to point B."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-051",
+      "phrase": "look up at",
+      "meaning_ja": "見上げる",
+      "example_en": "I look up at the starry sky on winter nights.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "I look up at the starry sky on winter nights."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "I look up at the starry sky on winter nights."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "I look up at the starry sky on winter nights."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-052",
+      "phrase": "put into perspective",
+      "meaning_ja": "客観的に見られるようにする",
+      "example_en": "The night sky puts daily anxieties into perspective.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": []
+    },
+    {
+      "id": "IDIOM-053",
+      "phrase": "drawn to",
+      "meaning_ja": "〜に惹かれる",
+      "example_en": "I am deeply drawn to the warmth of wooden tools.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "I am deeply drawn to the warmth of wooden tools."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "I am deeply drawn to the warmth of wooden tools."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "I am deeply drawn to the warmth of wooden tools."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-054",
+      "phrase": "worn out",
+      "meaning_ja": "すり切れた、疲れ切った",
+      "example_en": "Artificial materials can look worn out over time.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Artificial materials can look worn out over time."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Artificial materials can look worn out over time."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Artificial materials can look worn out over time."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-055",
+      "phrase": "in a world dominated by",
+      "meaning_ja": "〜に支配された世界で",
+      "example_en": "In a world dominated by cold plastics, wood feels warm.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 41,
+          "title_en": "The Warmth of Wooden Tools",
+          "context": "In a world dominated by cold plastics and smooth metals, I find myself deeply drawn to the warmth of wooden tools."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-056",
+      "phrase": "evolved into",
+      "meaning_ja": "〜へと発展した",
+      "example_en": "Preparing coffee has evolved into a satisfying art form.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "Preparing coffee has evolved into a satisfying art form."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "Preparing coffee has evolved into a satisfying art form."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "Preparing coffee has evolved into a satisfying art form."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-057",
+      "phrase": "from scratch",
+      "meaning_ja": "ゼロから",
+      "example_en": "As conductor, I do not write every note from scratch.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "As conductor, I do not write every note from scratch."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "As conductor, I do not write every note from scratch."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "As conductor, I do not write every note from scratch."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-058",
+      "phrase": "bring in",
+      "meaning_ja": "導入する、参加させる",
+      "example_en": "I select which AI tools to bring in.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "I select which AI tools to bring in."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "I select which AI tools to bring in."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "I select which AI tools to bring in."
+        }
+      ]
+    },
+    {
+      "id": "IDIOM-059",
+      "phrase": "rather than",
+      "meaning_ja": "〜ではなく",
+      "example_en": "AI magnifies creativity rather than replacing it.",
+      "example_ja": "",
+      "register": "spoken/general",
+      "level_hint": "B1-B2",
+      "source_occurrences": [
+        {
+          "source_id": 1,
+          "title_en": "My Hometown (Asaka City)",
+          "context": "AI magnifies creativity rather than replacing it."
+        },
+        {
+          "source_id": 2,
+          "title_en": "My Favorite Hobby: Photography",
+          "context": "AI magnifies creativity rather than replacing it."
+        },
+        {
+          "source_id": 3,
+          "title_en": "The Joy of D.I.Y. (Do It Yourself)",
+          "context": "AI magnifies creativity rather than replacing it."
+        }
+      ]
+    }
+  ]
+}

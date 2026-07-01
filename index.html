@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ichikawa English Lab - Quiz</title>
+  <style>
+    :root { --bg:#f6f7fb; --card:#fff; --text:#1f2937; --muted:#6b7280; --line:#e5e7eb; --accent:#2563eb; --ok:#15803d; --ng:#b91c1c; --soft:#eef2ff; }
+    *{box-sizing:border-box} body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans JP",sans-serif;background:var(--bg);color:var(--text)}
+    header{padding:22px 18px;background:linear-gradient(135deg,#1d4ed8,#4338ca);color:white} header h1{margin:0;font-size:22px} header p{margin:6px 0 0;opacity:.9;font-size:14px}
+    main{max-width:920px;margin:0 auto;padding:18px}.panel,.card{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 8px 24px rgba(15,23,42,.06)}
+    .panel{padding:14px;margin-bottom:16px;display:grid;gap:12px}.controls{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end}
+    label{font-size:12px;color:var(--muted);display:block;margin-bottom:4px}select,button{font:inherit;border-radius:12px;border:1px solid var(--line);padding:10px;background:white}button{cursor:pointer;background:var(--accent);color:white;border-color:var(--accent);font-weight:700}button.secondary{background:white;color:var(--text);border-color:var(--line)}button:disabled{opacity:.55;cursor:not-allowed}
+    .stats{display:flex;gap:10px;flex-wrap:wrap}.pill{background:var(--soft);border:1px solid #dbeafe;border-radius:999px;padding:7px 11px;font-size:13px;color:#1e3a8a}
+    .card{padding:20px}.meta{display:flex;justify-content:space-between;gap:8px;color:var(--muted);font-size:13px;margin-bottom:14px}.prompt{font-size:22px;line-height:1.5;margin:10px 0 18px;white-space:pre-wrap}.choices{display:grid;gap:10px}.choice{width:100%;text-align:left;background:white;color:var(--text);border:1px solid var(--line);font-weight:600}.choice:hover{border-color:#93c5fd;background:#eff6ff}.choice.correct{border-color:#86efac;background:#dcfce7;color:#14532d}.choice.wrong{border-color:#fecaca;background:#fee2e2;color:#7f1d1d}.answerBox{margin-top:16px;padding:14px;border-radius:14px;background:#f9fafb;border:1px solid var(--line);display:none}.answerBox.ok{display:block;border-color:#bbf7d0;background:#f0fdf4}.answerBox.ng{display:block;border-color:#fecaca;background:#fff1f2}.small{font-size:13px;color:var(--muted)}.footer{margin-top:14px;display:flex;gap:10px;justify-content:space-between;flex-wrap:wrap}.inputAnswer{width:100%;font:inherit;padding:12px;border:1px solid var(--line);border-radius:12px;margin-bottom:10px}.kbd{font-family:ui-monospace,Menlo,Consolas,monospace;background:#f3f4f6;padding:2px 6px;border-radius:6px}.progress{height:10px;background:#e5e7eb;border-radius:999px;overflow:hidden}.bar{height:100%;width:0;background:var(--accent);transition:.2s}.hidden{display:none}.note{font-size:13px;color:var(--muted);line-height:1.6}@media(max-width:720px){.controls{grid-template-columns:1fr}.prompt{font-size:18px}.card{padding:16px}}
+  </style>
+</head>
+<body>
+<header><h1>Ichikawa English Lab - Quiz</h1><p>IceBreakから作ったイディオム・単語クイズ</p></header>
+<main>
+  <section class="panel">
+    <div class="controls">
+      <div><label>カテゴリ</label><select id="category"><option value="all">すべて</option><option value="idiom">イディオム</option><option value="vocab">単語</option></select></div>
+      <div><label>出題形式</label><select id="mode"><option value="all">すべて</option><option value="mc">選択問題</option><option value="fill">穴埋め・入力</option></select></div>
+      <div><label>順番</label><select id="order"><option value="shuffle">シャッフル</option><option value="normal">登録順</option><option value="review">間違えた問題を優先</option></select></div>
+      <button id="startBtn">開始</button>
+    </div>
+    <div class="progress"><div id="bar" class="bar"></div></div>
+    <div class="stats"><span class="pill" id="countPill">0 / 0</span><span class="pill" id="scorePill">正解 0</span><span class="pill" id="ratePill">正答率 0%</span><button class="secondary" id="resetStats">学習記録を消す</button></div>
+  </section>
+
+  <section class="card" id="quizCard">
+    <div class="meta"><span id="typeLabel">Ready</span><span id="sourceLabel"></span></div>
+    <div class="prompt" id="prompt">「開始」を押してください。</div>
+    <div id="choices" class="choices"></div>
+    <div id="inputArea" class="hidden"><input id="inputAnswer" class="inputAnswer" placeholder="答えを入力"><button id="checkBtn">答え合わせ</button></div>
+    <div id="answerBox" class="answerBox"></div>
+    <div class="footer"><button class="secondary" id="prevBtn">前へ</button><button id="nextBtn">次へ</button></div>
+  </section>
+  <p class="note">入力問題は大文字小文字を無視します。学習記録はこのブラウザ内に保存されます。</p>
+</main>
+<script src="quiz_data.js"></script>
+<script>
+const rawItems = window.QUIZ_DATA.quiz_items;
+const state = { deck: [], index: 0, correct: 0, answered: 0, locked: false };
+const $ = id => document.getElementById(id);
+const storageKey = 'ichikawa_quiz_stats_v1';
+function loadStats(){ try{return JSON.parse(localStorage.getItem(storageKey)||'{}')}catch{return {}} }
+function saveStats(s){ localStorage.setItem(storageKey, JSON.stringify(s)); }
+function isIdiom(x){ return x.type.startsWith('idiom_'); }
+function isVocab(x){ return x.type.startsWith('vocab_'); }
+function isMc(x){ return x.choices && x.choices.length; }
+function isFill(x){ return !isMc(x); }
+function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]] } return a; }
+function buildDeck(){
+  const cat=$('category').value, mode=$('mode').value, order=$('order').value; let items=rawItems.slice();
+  if(cat==='idiom') items=items.filter(isIdiom); if(cat==='vocab') items=items.filter(isVocab);
+  if(mode==='mc') items=items.filter(isMc); if(mode==='fill') items=items.filter(isFill);
+  const stats=loadStats();
+  if(order==='shuffle') shuffle(items);
+  if(order==='review') items.sort((a,b)=>(stats[b.id]?.wrong||0)-(stats[a.id]?.wrong||0));
+  state.deck=items; state.index=0; state.correct=0; state.answered=0; render();
+}
+function label(t){
+  if(t.includes('idiom')) return 'イディオム'; if(t.includes('vocab')) return '単語'; return t;
+}
+function render(){
+  const item=state.deck[state.index]; state.locked=false; $('choices').innerHTML=''; $('inputArea').classList.add('hidden'); $('answerBox').className='answerBox'; $('answerBox').innerHTML='';
+  const total=state.deck.length; $('countPill').textContent = total ? `${state.index+1} / ${total}` : '0 / 0'; $('scorePill').textContent=`正解 ${state.correct}`; $('ratePill').textContent=`正答率 ${state.answered?Math.round(state.correct/state.answered*100):0}%`; $('bar').style.width= total ? `${(state.index)/total*100}%`:'0%';
+  $('prevBtn').disabled=state.index===0; $('nextBtn').disabled=!total;
+  if(!item){ $('typeLabel').textContent='No items'; $('sourceLabel').textContent=''; $('prompt').textContent='条件に合う問題がありません。'; return; }
+  $('typeLabel').textContent = `${label(item.type)} / ${item.type}`; $('sourceLabel').textContent = item.source_item_id || '';
+  $('prompt').textContent=item.prompt;
+  if(isMc(item)){
+    item.choices.forEach(c=>{ const b=document.createElement('button'); b.className='choice'; b.textContent=c; b.onclick=()=>answer(c,b); $('choices').appendChild(b); });
+  } else { $('inputArea').classList.remove('hidden'); $('inputAnswer').value=''; $('inputAnswer').focus(); }
+}
+function normalize(s){ return String(s||'').trim().toLowerCase().replace(/[’']/g,"'").replace(/\s+/g,' '); }
+function answer(given, btn){
+  if(state.locked) return; state.locked=true; const item=state.deck[state.index]; const ok=normalize(given)===normalize(item.answer); state.answered++; if(ok) state.correct++;
+  const stats=loadStats(); const r=stats[item.id]||{correct:0,wrong:0}; ok?r.correct++:r.wrong++; stats[item.id]=r; saveStats(stats);
+  if(isMc(item)){ [...document.querySelectorAll('.choice')].forEach(b=>{ if(normalize(b.textContent)===normalize(item.answer)) b.classList.add('correct'); }); if(!ok && btn) btn.classList.add('wrong'); }
+  $('answerBox').className='answerBox '+(ok?'ok':'ng');
+  $('answerBox').innerHTML = `<strong>${ok?'正解です。':'惜しいです。'}</strong><br>答え：<span class="kbd">${item.answer}</span>${item.hint_ja?`<br><span class="small">ヒント：${item.hint_ja}</span>`:''}`;
+  $('scorePill').textContent=`正解 ${state.correct}`; $('ratePill').textContent=`正答率 ${Math.round(state.correct/state.answered*100)}%`;
+}
+$('checkBtn').onclick=()=>answer($('inputAnswer').value,null);
+$('inputAnswer').addEventListener('keydown',e=>{ if(e.key==='Enter') answer($('inputAnswer').value,null); });
+$('nextBtn').onclick=()=>{ if(!state.deck.length)return; state.index=(state.index+1)%state.deck.length; render(); };
+$('prevBtn').onclick=()=>{ if(state.index>0){state.index--; render();} };
+$('startBtn').onclick=buildDeck;
+$('resetStats').onclick=()=>{ if(confirm('学習記録を消しますか？')){localStorage.removeItem(storageKey); buildDeck();} };
+buildDeck();
+</script>
+</body></html>
