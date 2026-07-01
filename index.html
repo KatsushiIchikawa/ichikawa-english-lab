@@ -39,9 +39,8 @@
   </section>
   <p class="note">入力問題は大文字小文字を無視します。学習記録はこのブラウザ内に保存されます。</p>
 </main>
-<script src="quiz_data.js"></script>
 <script>
-const rawItems = window.QUIZ_DATA.quiz_items;
+let rawItems = [];
 const state = { deck: [], index: 0, correct: 0, answered: 0, locked: false };
 const $ = id => document.getElementById(id);
 const storageKey = 'ichikawa_quiz_stats_v1';
@@ -90,6 +89,22 @@ $('nextBtn').onclick=()=>{ if(!state.deck.length)return; state.index=(state.inde
 $('prevBtn').onclick=()=>{ if(state.index>0){state.index--; render();} };
 $('startBtn').onclick=buildDeck;
 $('resetStats').onclick=()=>{ if(confirm('学習記録を消しますか？')){localStorage.removeItem(storageKey); buildDeck();} };
-buildDeck();
+
+async function loadData(){
+  try{
+    const res = await fetch('quiz_items.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('quiz_items.json を読み込めませんでした');
+    const data = await res.json();
+    rawItems = Array.isArray(data) ? data : (data.quiz_items || []);
+    if(!rawItems.length) throw new Error('quiz_items.json に問題データが見つかりません');
+    buildDeck();
+  }catch(e){
+    $('typeLabel').textContent='Data load error';
+    $('sourceLabel').textContent='';
+    $('prompt').textContent='quiz_items.json を読み込めません。GitHub上に index.html と同じ場所へ quiz_items.json を置いてください。\n\n詳細: '+e.message;
+    $('startBtn').disabled=true;
+  }
+}
+loadData();
 </script>
 </body></html>
